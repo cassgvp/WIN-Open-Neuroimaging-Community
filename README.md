@@ -9,12 +9,12 @@ Materials are being developed with the support of the [Open Life Sciences Mentor
 ## Open Life Sciences Syllabus:
 
 Before Week 1 (Jan 20): Meet your mentor!
-- [x] Complete the [open leadership self-assessment](link-to-my-repo)⚠️
+- [x] Complete the [open leadership self-assessment](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/%5BOLS%5D%20Week%201%20-%20%20Self-Assessment.pdf)
 - [x] Have call with mentor ⚠️ - Convert from google doc
 
 Before Week 2 (Jan 27): Cohort Call (Welcome to Open Life Science!)
 - [x] Create your issue on the [OLS-1 GitHub repository: Oxford Neuroscience Open Science Co-ordinator: Changing Culture ](https://github.com/open-life-science/ols-1/issues/15)
-- [x] Draft a [vision statement](link-to-my-repo)%**
+- [x] Draft a [vision statement](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/vision-statement.md)
 
 Before Week 3 (Feb 3): Meet your mentor!
 - [x] Complete this [compare and contrast assignment](https://docs.google.com/document/d/1ukvqDRIYfvCapVMdE5hWP-0MkLNJ9T65X43O7F336Ac/edit?usp=sharing) about current and desired community interactions and value exchanges
