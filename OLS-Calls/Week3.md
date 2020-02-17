@@ -14,7 +14,7 @@ Establish a check-in ritual and try it. (2-3 minutes)
 
 Examples: weather check (my project feels like a blustery wind right now), .gif share, video share
 
-<img src="https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/OLS-Calls/IMG_0152.gif" width="400" height="790">
+<img src="https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/OLS-Calls/IMG_0152.gif" width="50%" height="50%">
 
 Taken while walking my dog walk this weekend. Beautiful pathetic fallacy - holding my energy against the incoming floods! 🙃
 
