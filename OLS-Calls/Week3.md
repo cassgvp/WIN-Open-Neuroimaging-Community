@@ -1,7 +1,7 @@
 # OLS Call Week 3
 
 ## Roll call
-* Name 
+* Name
 *
 
 
@@ -14,8 +14,9 @@ Establish a check-in ritual and try it. (2-3 minutes)
 
 Examples: weather check (my project feels like a blustery wind right now), .gif share, video share
 
-![Cass Staying Afloat]()%**
-  
+![Cass Staying Afloat](IMG_0152.gif)
+Taken while walking my dog walk this weekend. Beautiful pathetic fallacy - holding my energy against the incoming floods! 🙃
+
 Establish a culture of gratitude ritual and try it. (2-3 minutes)
 
 Examples: recognitions (recognize colleagues), sparkling moments (recognize community members), shout-outs
@@ -31,5 +32,3 @@ Review your GitHub repo and get any help you need adding your content developed 
 Identify experts to invite to future mentor meetings (2-3 minutes).
 
 Use these question to brainstorm this section: Do we need an expert at any stage? Which week they might likely be useful? Which area do we need expert advice?
- 
- 
