@@ -18,17 +18,15 @@ Before Week 2 (Jan 27): Cohort Call (Welcome to Open Life Science!)
 
 Before Week 3 (Feb 3): Meet your mentor!
 - [x] Complete this [compare and contrast assignment](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/OLS-MiniAssignments/wk3-compare-and-contrast.md) about current and desired community interactions and value exchanges
-- [x] Complete your Open Canvas ([instructions](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/), [canvas](https://docs.google.com/presentation/d/1MeJo0TyuMg_waLk1J4q9y1aAqKNMuRBlnmxEChSz-cQ/edit?usp=sharing))
-- [x] Share a link to your Open Canvas in your GitHub issue
+- [x] Complete your [Open Canvas](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/open-canvas.pdf)
 - [ ] Start your [Roadmap](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
 - [ ] Comment on your issue with your draft Roadmap
-- [x] Suggest a cohort name at the bottom of the shared notes and vote on your favorite with a +1
 
 Before Week 4 (Feb 10): Cohort Call (Tooling and roadmapping for Open projects)
-- [ ] Look up two other projects and comment on their issues with feedback on their open canvas.
+- [x] Look up two other projects and comment on their issues with feedback on their open canvas.
 
 Week 5 and more
-- [ ] Create a GitHub repository for your project
+- [x] Create a GitHub repository for your project
 - [ ] Add the link to your repository in your issue
 - [ ] Use your canvas to [start writing a `README.md` file](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/), or landing page, for your project
 - [ ] Link to your README in a comment on this issue
