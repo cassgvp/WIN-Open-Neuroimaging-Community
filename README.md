@@ -17,7 +17,7 @@ Before Week 2 (Jan 27): Cohort Call (Welcome to Open Life Science!)
 - [x] Draft a [vision statement](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/vision-statement.md)
 
 Before Week 3 (Feb 3): Meet your mentor!
-- [x] Complete this [compare and contrast assignment](https://docs.google.com/document/d/1ukvqDRIYfvCapVMdE5hWP-0MkLNJ9T65X43O7F336Ac/edit?usp=sharing) about current and desired community interactions and value exchanges
+- [x] Complete this [compare and contrast assignment](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/OLS-MiniAssignments/wk3-compare-and-contrast.md) about current and desired community interactions and value exchanges
 - [x] Complete your Open Canvas ([instructions](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/develop-an-open-project-strategy-with-open-canvas/), [canvas](https://docs.google.com/presentation/d/1MeJo0TyuMg_waLk1J4q9y1aAqKNMuRBlnmxEChSz-cQ/edit?usp=sharing))
 - [x] Share a link to your Open Canvas in your GitHub issue
 - [ ] Start your [Roadmap](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
