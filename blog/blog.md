@@ -2,7 +2,7 @@
 
 I've decided that I like free form, thought-dump writing. I'm also ~~ok~~ pretty good at it (⚠️ examples here of the narrative blog posts I've written about my experience which have gone down well ⚠️). I also think it will be useful for me and others to have a narative about what I've learnt over the course of this project and how I've formulated my ideas. So here they are.
 
-Disclaimer: Dyslexia and a desire to get things out rather than make them too need make mean this writing is Tom-Marvolo-Riddled with typos. I'm over it.
+Disclaimer: Dyslexia and a desire to get things out rather than make them too neat mean this writing is probably Tom-Marvolo-Riddled with typos. I'm over it.
 
 ## Week 0
 I've been offered the opportunity to act as the Oxford Neuroscience Open Science Co-Ordinator. It is unbelievably exciting, but it is a huge task because there is SO MUCH I want to do with it. The job role on paper is to:
@@ -30,7 +30,7 @@ Naomi asked a few questions which were bang on the "coach" money and got me havi
 
 I had my call with Naomi in my favourite hiding place in the Library. On the way out I noticed a new "have some you time" jigsaw had arrived, but it had hardly been touched. Looks like it was in the need of some proactive prototyping, so I gave myself a 10 minute treat 😊🧩
 
-<img src="https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/blog/blog-wk3.jpg" width="50%" height="50%">
+<img src="https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/blog/blog-wk3.jpeg" width="50%" height="50%">
 
 Also meeting with my new line manager. Now have a much better idea about what is required - they think they need someone to write training documents, train people and encourage them to use the infrastructure they've built. What they really need is a community of users who are empowered to build the resources they need to use these tools.
 
@@ -48,4 +48,15 @@ When preparing for the cohort call, I also started to feel like my ambition for 
 
 ## Week 5 (w/b 17th Feb 2020)
 
-I've been umm'ing and ahh'ing about how to host this project. 
+I've been umm'ing and ahh'ing about how to host this project. I think I'm settled on the idea that for now I will do it all in my own repo. Some of the materials (like code of conduct etc.) can then be forked over to where WIN want them. I would LIKE to keep the whole project on github rather than our internal gitlab server as:
+ 1. It's not entirely straightforward to get people gitlab accounts so they can contribute to the gitlab project;
+ 2. Only people who are developers on the gitlab project can comment. That makes the conversation (e.g. the currently shared information about [available stimuli](https://git.fmrib.ox.ac.uk/open-science)) a bit one-sided, and we can do better than that;
+ 3. Github also seems to have more social and project management functionality than our gitlab server. I'm willing to be proven wrong on this as I've only explored a little;
+ 4. There is more easily available help for gitlab, and more of the projects I am taking guidance from (e.g. [The Turing Way](https://github.com/alan-turing-institute/the-turing-way)) are using it. I've spoken to Kirstie about this, and although there are some concerns about the ownership of GitHub, this is where the community is at the moment, and you need to use the tools the community are familiar with;
+ 5. Our users will be better served for continued collaborative working if they are practiced in the tool which is most frequently used elsewhere, and this (as shown in Kirstie's comments and my own experience with other open neuroimaging projects) is GitHub.
+
+ So today I made this my repo on GitHub. I've spent a while looking through how some different projects are rendered into "website" looking things which can be accessed without the unfamiliarity of a git-looking page (e.g. [Turing Way](https://the-turing-way.netlify.com/introduction/introduction), [OS-SIG](https://ossig.netlify.com), [Stephan Heunis' blog](https://jsheunis.github.io), [Reproducible Research Oxford](https://ox.ukrn.org)), but I'm not sure yet what is going to be the best way to do it. I've gotten over that. It's more important that I get this space working for me, then we can look at how to make it more outwardly beautiful. My guess is that I'll feel better about this once we've made the site for the [OHBM OSR](⚠️link⚠️), and it would probably be wise to talk to the people who (I hope!) will be helping me build it. Might need to happen before then, but that's cool, I'm excited about learning the process. The other big decision about hosting it on GitHub is what to call it and whether I'll be allowed to put WIN branding etc. on a place which can be openly contributed to...
+
+ I've also decided to ask Naomi to work on our collaborative call documents in hackmd.io. This means I'll be able to add them straight to the repo and I can keep all our call notes open (which I'm totally fine about). Feels like this will also be a good collaborative tool to get people comfortable with, so I should probably be comfortable with it. For reference, I'm writing this markdown in atom with the preview toggle on. It's sweet. Image resizing took a few mins of playing from [this chat](https://gist.github.com/uupaa/f77d2bcf4dc7a294d109#gistcomment-2229426), but I think what I've got here works well.
+
+ ToDo: canvas and roadmap for call tomorrow.
