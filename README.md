@@ -2,7 +2,7 @@
 
 This repository contains materials for the cultivation of the University of Oxford Wellcome Centre for Integrative Neuroimaging (WIN) Open Neuroimaging Community.
 
-Materials are being developed with the support of the [Open Life Sciences (OLS) Mentoring Program](https://openlifesci.org), with the kind assistance of [Naomi Penfold](https://github.com/npscience). Follow my journey on the OLS program on this [blog](./blog/blog.md)
+Materials are being developed with the support of the [Open Life Sciences (OLS) Mentoring Program](https://openlifesci.org), with the kind assistance of [Naomi Penfold](https://github.com/npscience). Follow my journey on the OLS program on this [blog](./blog/blog)
 
 ***
 
