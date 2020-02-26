@@ -1,13 +1,4 @@
 # WIN-Open-Neuroimaging-Community
----
-layout: page
-title: WIN Open Neuroimaging Community
-subtitle: Building the resources for open workflows at WIN
-image: /path/to/image.jpg
-description: The pages meta description
-hero_image: /path/to/hero-image.jpg
-hero_height: is-fullheight
----
 
 This repository contains materials for the cultivation of the University of Oxford Wellcome Centre for Integrative Neuroimaging (WIN) Open Neuroimaging Community.
 
