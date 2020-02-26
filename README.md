@@ -4,36 +4,92 @@ This repository contains materials for the cultivation of the University of Oxfo
 
 Materials are being developed with the support of the [Open Life Sciences (OLS) Mentoring Program](https://openlifesci.org), with the kind assistance of [Naomi Penfold](https://github.com/npscience). Follow my journey on the OLS program on this [blog](./blog/blog)
 
+This README is based on the [STEMM Role Models](https://github.com/KirstieJane/STEMMRoleModels) example highlighted as good practice in the OLS call on community repository essential materials ([week 4](./OLS-Calls/Week4-Week4-LicenceReadmeCoc.md)).
+
 ***
 
+This README and project is a work-in-progress. The below are place holders.
 
 
-## Open Life Sciences Syllabus:
+# WIN Open Neuroimaging Community
 
-Before Week 1 (Jan 20): Meet your mentor!
-- [x] Complete the [open leadership self-assessment](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/%5BOLS%5D%20Week%201%20-%20%20Self-Assessment.pdf)
-- [x] Have call with mentor ⚠️ - Convert from google doc
+***VISION STATEMENT HERE***
 
-Before Week 2 (Jan 27): Cohort Call (Welcome to Open Life Science!)
-- [x] Create your issue on the [OLS-1 GitHub repository: Oxford Neuroscience Open Science Co-ordinator: Changing Culture ](https://github.com/open-life-science/ols-1/issues/15)
-- [x] Draft a [vision statement](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/vision-statement.md)
+Communication channels
 
-Before Week 3 (Feb 3): Meet your mentor!
-- [x] Complete this [compare and contrast assignment](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/OLS-MiniAssignments/wk3-compare-and-contrast.md) about current and desired community interactions and value exchanges
-- [x] Complete your [Open Canvas](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/open-canvas.pdf)
-- [ ] Start your [Roadmap](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/start-your-project-roadmap/)
-- [ ] Comment on your issue with your draft Roadmap
+<----![![Join the chat at https://gitter.im/KirstieJane/STEMMRoleModels](https://badges.gitter.im/KirstieJane/STEMMRoleModels.svg)](https://gitter.im/KirstieJane/STEMMRoleModels?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)---->
 
-Before Week 4 (Feb 10): Cohort Call (Tooling and roadmapping for Open projects)
-- [x] Look up two other projects and comment on their issues with feedback on their open canvas.
+## Welcome!
 
-Week 5 and more
-- [x] Create a GitHub repository for your project
-- [ ] Add the link to your repository in your issue
-- [ ] Use your canvas to [start writing a `README.md` file](https://mozilla.github.io/open-leadership-training-series/articles/opening-your-project/write-a-great-project-readme/), or landing page, for your project
-- [ ] Link to your README in a comment on this issue
-- [ ] Add an [open license](https://mozilla.github.io/open-leadership-training-series/articles/get-your-project-online/sharing-your-work-in-the-open/) to your repository as a file called `LICENSE.md`
-- [ ] Add a [Code of Conduct](https://mozilla.github.io/open-leadership-training-series/articles/building-communities-of-contributors/write-a-code-of-conduct/) to your repository as a file called `CODE_OF_CONDUCT.md`
-- [ ] Invite new contributors to into your work!
+First and foremost, Welcome! :tada: Willkommen! :confetti_ball: Bienvenue! :balloon::balloon::balloon:
 
-This issue is here to help you keep track of work as you start Open Life Science program. Please refer to the [OLS-1 Syllabus](https://openlifesci.org/ols-1) for more detailed weekly notes and assignments past week 4.
+Thank you for visiting the WIN Open Neuroimaging Community project repository.
+
+This document (the README file) is a hub to give you some information about the project. Jump straight to one of the sections below, or just scroll down to find out more.
+
+* [What are we doing? (And why?)](#what-are-we-doing)
+* [Who are we?](#who-are-we)
+* [What do we need?](#what-do-we-need)
+* [How can you get involved?](#get-involved)
+* [Get in touch](#contact-us)
+* [Find out more](#find-out-more)
+* [Understand the jargon](#glossary)
+
+## What are we doing?
+
+### The problem
+
+*
+
+### The solution
+
+The WIN Open Neuroimaging Community will:
+
+*
+
+## Who are we?
+
+List of community members, with bios and contact info. Also reference with Open WIN Project and it's sections, and how this work is funded (ISSF, RROx)
+
+
+
+## What do we need?
+
+**You**! In whatever way you can help.
+
+We need expertise in ....
+
+## Get involved
+
+If you think you can help in any of the areas listed above (and we bet you can) or in any of the many areas that we haven't yet thought of (and here we're *sure* you can) then please check out our [contributors' guidelines](CONTRIBUTING.md) and our [roadmap](../../issues/1).
+
+Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](CODE_OF_CONDUCT.md) in all interactions both on and offline.
+
+
+## Contact us
+
+If you want to report a problem or suggest an enhancement we'd love for you to ... [open an issue](../../issues) at this github repository because then we can get right on it. But you can also contact ...
+
+You can also hang out, ask questions and share stories in the slack ...
+
+## Find out more
+
+You might be interested in:
+
+* Our open Canvas
+* roadmap
+* vision
+
+And of course, you'll want to know our:
+
+* [Contributors' guidelines](CONTRIBUTING.md)
+
+
+
+## Thank you
+
+Thank you so much ...
+
+## Glossary
+
+*
