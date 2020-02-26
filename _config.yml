@@ -1,3 +1,9 @@
 remote_theme: pmarsceill/just-the-docs
 title: WIN Open Community
 description: A space for the WIN Open Community to buil and share resources
+# Aux links for the upper right navigation
+aux_links:
+  "WIN Open Community on GitHub":
+    - "//github.com/cassgvp/WIN-Open-Neuroimaging-Community"
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2020 Cassandra Gould van Praag. Distributed by an [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)"
