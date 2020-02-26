@@ -6,4 +6,4 @@ aux_links:
   "WIN Open Community on GitHub":
     - "//github.com/cassgvp/WIN-Open-Neuroimaging-Community"
 # Footer content appears at the bottom of every page's main content
-footer_content: "Copyright &copy; 2020 Cassandra Gould van Praag. Distributed by an [CC-BY-4.0 license](https://creativecommons.org/licenses/by/4.0/legalcode)"
+footer_content: "Copyright &copy; 2020 Cassandra Gould van Praag. Distributed by an <a href=\"https://https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/tree/master/LICENSE.md\">CC-BY-4.0 license.</a>"
