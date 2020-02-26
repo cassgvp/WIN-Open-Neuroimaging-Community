@@ -15,7 +15,7 @@ I learnt about this [Open Life Sciences Mentoring Program](https://openlifesci.o
 
 
 ## Week 2
-WINAccess first meeting. First [cohort call](https://www.youtube.com/watch?v=3-cvl7UfSTY&feature=youtu.be)
+WINAccess first meeting. First [cohort call - video recording](https://www.youtube.com/watch?v=3-cvl7UfSTY&feature=youtu.be)
 
 <img src="./blog-wk2.png" width="50%" height="50%">
 
@@ -30,18 +30,18 @@ Naomi asked a few questions which were bang on the "coach" money and got me havi
 
 I had my call with Naomi in my favourite hiding place in the Library. On the way out I noticed a new "have some you time" jigsaw had arrived, but it had hardly been touched. Looks like it was in the need of some proactive prototyping, so I gave myself a 10 minute treat 😊🧩
 
-<img src="https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/blog/blog-wk3.jpeg" width="50%" height="50%">
+<img src="./blog-wk3.jpeg" width="50%" height="50%">
 
 Also meeting with my new line manager. Now have a much better idea about what is required - they think they need someone to write training documents, train people and encourage them to use the infrastructure they've built. What they really need is a community of users who are empowered to build the resources they need to use these tools.
 
 
 ## Week 4 (w/b 10th Feb 2020)
 
-[Cohort call](https://www.youtube.com/watch?v=y9y8a3O4fjg)
+[Cohort call recording](https://www.youtube.com/watch?v=y9y8a3O4fjg)
 
 My favourite talk this week from the Neuroimaging Methods meeting I help organise: Testing your code! So pleased that I can help share the magic of programming with as many people as turned up! Programming literacy is such an important part of good open research practices for me. I need to speak to some more people about the level it was pitched at, and I know loads of people will benefit from it being unpacked a bit more. Long term goal - get more people programming!
 
-<img src="https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/blog/blog-wk4.JPG" width="50%" height="50%">
+<img src="./blog-wk4.JPG" width="50%" height="50%">
 
 When preparing for the cohort call, I also started to feel like my ambition for the project was too big, or rather the deliverable I'd decided with Naomi ("set up the website") wasn't enough of a stretch. The thoughts actually came to me around 03:00 after my daughter got into bed with us and my mind was racing. What I am good at is events and prototyping. I could probably do a website, but I could also gather an amazing bunch of people to have fun together while building the materials then need. I've been to enough hackathons (like, 3!?!) to know when they work well and when they don't, so I had the idea to run regular (termly) hackathons, and use the brilliance of the OLS project to create a template form the hackathons, along with a feedback mechanism to improve them and allow the community to direct priorities. Very excited about this idea. Means I'll need to re-write my vision and canvas, but that's cool.
 
@@ -67,6 +67,6 @@ After a great call with Naomi, I've decided to put the project work of OLS on ho
 
 Towards the end of last week I turned my [repo](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/) into a [GitHub pages site](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/) using the instructions provided in the settings pf the repo. Need to work on the README and structure, and get maybe a nicer (easy!) theme.
 
-On the [call](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/OLS-Calls/Week6-ProjectDevelopment.md) today we were talking about project management. Glad to find out in the breakout room that others were in the same position as me regarding workload of this program. There was also a very short discussion about "minimal viable products". Malvika suggested that we start the agile process with something where you can get most feedback from people. We should also try to create something which we feel we can accomplish. This is making me think that perhaps I should return to my original idea of making a good repo/website for the community to work from to build the hack. Remembering also Aidan Budd's tip on milestones (also echoed by all the other mentors on the call) - do something small and easy. Maybe I will try to set my first milestone as a full repo/site for Open WIN, and set my pace from that. Note that this was the idea I first went to after thinking that a project about the whole of Oxford Neuroscience was too big. Then I felt like "just" a website would be too small/boring and wouldn't draw in enough of my skills, or rather that other people could do it better. This might be the case (e.g. they could apply a more complicated jekyll theme!), but they still need a decent template/prototype, and I can make that.
+On the [call](../OLS-Calls/Week6-ProjectDevelopment.md) today we were talking about project management. Glad to find out in the breakout room that others were in the same position as me regarding workload of this program. There was also a very short discussion about "minimal viable products". Malvika suggested that we start the agile process with something where you can get most feedback from people. We should also try to create something which we feel we can accomplish. This is making me think that perhaps I should return to my original idea of making a good repo/website for the community to work from to build the hack. Remembering also Aidan Budd's tip on milestones (also echoed by all the other mentors on the call) - do something small and easy. Maybe I will try to set my first milestone as a full repo/site for Open WIN, and set my pace from that. Note that this was the idea I first went to after thinking that a project about the whole of Oxford Neuroscience was too big. Then I felt like "just" a website would be too small/boring and wouldn't draw in enough of my skills, or rather that other people could do it better. This might be the case (e.g. they could apply a more complicated jekyll theme!), but they still need a decent template/prototype, and I can make that.
 
 Inspired to clean up my README so that it is a decent landing page (currently it's a copy of the OLS GitHub issue). I couldn't remember where the notes about a good readme where, so I've pulled in the other notes from google docs (committed all the notes so we're in a good place. Quite enjoying taking notes in markdown and pushing to repo!!). Now going to clear out the REAME and out place headers based in the example from [STEMM Role Models](https://github.com/KirstieJane/STEMMRoleModels).
