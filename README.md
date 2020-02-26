@@ -6,6 +6,8 @@ Materials are being developed with the support of the [Open Life Sciences (OLS) 
 
 ***
 
+
+
 ## Open Life Sciences Syllabus:
 
 Before Week 1 (Jan 20): Meet your mentor!
