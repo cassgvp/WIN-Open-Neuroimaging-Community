@@ -1,3 +1,10 @@
+---
+title: compare-and-contrast
+parent: assignments
+has_children: false
+nav_order: 3
+---
+
 # Compare & contrast - community interactions
 Designing for equity & engagement through community interactions
 ## POP

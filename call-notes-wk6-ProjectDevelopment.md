@@ -1,3 +1,10 @@
+---
+title: call-notes-wk6-project-dev
+parent: OLS Call Notes
+has_children: false
+nav_order: 6
+---
+
 # Project development
 
 Rachel Ainsworth runs the collaborations workshop - great contact.

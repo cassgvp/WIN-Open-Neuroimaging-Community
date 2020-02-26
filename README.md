@@ -4,7 +4,7 @@ This repository contains materials for the cultivation of the University of Oxfo
 
 Materials are being developed with the support of the [Open Life Sciences (OLS) Mentoring Program](https://openlifesci.org), with the kind assistance of [Naomi Penfold](https://github.com/npscience). Follow my journey on the OLS program on this [blog](./blog/blog)
 
-This README is based on the [STEMM Role Models](https://github.com/KirstieJane/STEMMRoleModels) example highlighted as good practice in the OLS call on community repository essential materials ([week 4](./OLS-Calls/Week4-Week4-LicenceReadmeCoc.md)).
+This README is based on the [STEMM Role Models](https://github.com/KirstieJane/STEMMRoleModels) example highlighted as good practice in the OLS call on community repository essential materials ([week 4](./call-notes-wk4-LicenceReadmeCoc.md)).
 
 ***
 
@@ -14,7 +14,6 @@ This README and project is a work-in-progress. The below are place holders.
 
 Communication channels
 
-<----![![Join the chat at https://gitter.im/KirstieJane/STEMMRoleModels](https://badges.gitter.im/KirstieJane/STEMMRoleModels.svg)](https://gitter.im/KirstieJane/STEMMRoleModels?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)---->
 
 ## Welcome!
 

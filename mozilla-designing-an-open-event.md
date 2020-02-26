@@ -1,3 +1,10 @@
+---
+title: designing-open-events
+parent: assignments
+has_children: false
+nav_order: 2
+---
+
 # Designing and open event
 
 Exercises from this [mozilla open leaders resource](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/designing-an-open-event/)

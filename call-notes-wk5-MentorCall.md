@@ -1,7 +1,14 @@
+---
+title: call-notes-wk5-mentor
+parent: OLS Call Notes
+has_children: false
+nav_order: 5
+---
+
 # OLS Call Week 5
 
 ## Roll call
-* Cass 
+* Cass
 * Naomi
 
 
@@ -26,10 +33,10 @@ N gratitude to C: TY for calendar
 
 4. Review your assignments, reflect on where in your project are they applicable. (10 minutes)
 
-* Cass: So many thoughts [here](https://docs.google.com/document/d/1BTnhgJgSrGeMk3BahN6SU8uvKzfxkbN53DEIPP1QZyw/edit?usp=sharing). 
+* Cass: So many thoughts [here](https://docs.google.com/document/d/1BTnhgJgSrGeMk3BahN6SU8uvKzfxkbN53DEIPP1QZyw/edit?usp=sharing).
 * Starting to turn it into a [trello board](https://trello.com/b/u4FqvNJv/win-open-neuroimaging-hack)
-* Working through [mozilla event tutorial](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/OLS-MiniAssignments/mozilla-designing-an-open-event.md) looks useful. 
-* Interesting to see that the first thing here is not a roadmap, but an event walk through, which is what I've done. 
+* Working through [mozilla event tutorial](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/OLS-MiniAssignments/mozilla-designing-an-open-event.md) looks useful.
+* Interesting to see that the first thing here is not a roadmap, but an event walk through, which is what I've done.
 
 
 5. Review your GitHub repo and get any help you need adding your content developed through the assignment from last week (i.e. vision statement, open canvas, roadmap, community guideline, CoC etc.). (5-10 minutes)

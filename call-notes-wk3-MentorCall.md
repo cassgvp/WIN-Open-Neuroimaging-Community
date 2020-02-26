@@ -1,3 +1,10 @@
+---
+title: call-notes-wk3-mentor
+parent: OLS Call Notes
+has_children: false
+nav_order: 2
+---
+
 # Week 1 (to be done in Week 3)
 ## Roll call
 Cass Gould van Praag

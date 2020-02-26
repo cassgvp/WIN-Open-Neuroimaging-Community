@@ -1,6 +1,6 @@
 ---
-title: OLS Week 2 Cohort Call 1 - notes
-parent: call-notes
+title: call-notes-wk2-vision
+parent: OLS Call Notes
 has_children: false
 nav_order: 1
 ---
