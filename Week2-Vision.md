@@ -1,3 +1,10 @@
+---
+title: OLS Week 2 Cohort Call 1 - notes
+parent: call-notes
+has_children: false
+nav_order: 1
+---
+
 # OLS Week 2 Cohort Call 1 - notes
 
 Prep work
