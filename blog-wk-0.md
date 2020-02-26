@@ -1,5 +1,5 @@
 ---
-title: Week 0
+title: blog-wk-0
 parent: blog
 has_children: false
 nav_order: 1
