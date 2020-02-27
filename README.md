@@ -1,3 +1,9 @@
+---
+title: Home
+has_children: false
+nav_order: 1
+---
+
 # WIN-Open-Neuroimaging-Community
 
 This repository contains materials for the cultivation of the University of Oxford Wellcome Centre for Integrative Neuroimaging (WIN) Open Neuroimaging Community.
