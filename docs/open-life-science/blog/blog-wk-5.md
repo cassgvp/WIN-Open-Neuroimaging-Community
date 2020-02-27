@@ -1,6 +1,6 @@
 ---
 title: blog-wk-5
-parent: blog
+parent: Blog
 has_children: false
 nav_order: 6
 ---
