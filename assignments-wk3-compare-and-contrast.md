@@ -1,6 +1,6 @@
 ---
 title: compare-and-contrast
-parent: assignments
+parent: Assignments
 has_children: false
 nav_order: 3
 ---

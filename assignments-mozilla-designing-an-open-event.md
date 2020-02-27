@@ -1,6 +1,6 @@
 ---
 title: designing-open-events
-parent: assignments
+parent: Assignments
 has_children: false
 nav_order: 2
 ---

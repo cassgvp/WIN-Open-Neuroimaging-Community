@@ -1,6 +1,6 @@
 ---
-title: vision
-parent: assignments
+title: Vision
+parent: Assignments
 has_children: false
 nav_order: 1
 ---
