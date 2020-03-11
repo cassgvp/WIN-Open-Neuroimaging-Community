@@ -1,5 +1,5 @@
 ---
-title: Week 5: Where to host
+title: Week 5 - Where to host
 parent: Blog
 has_children: false
 nav_order: 6

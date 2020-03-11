@@ -1,5 +1,5 @@
 ---
-title: Week 4: Rescaling the Project
+title: Week 4 - Rescaling the Project
 parent: Blog
 has_children: false
 nav_order: 5

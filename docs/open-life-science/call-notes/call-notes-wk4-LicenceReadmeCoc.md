@@ -1,5 +1,5 @@
 ---
-title: Week 4: Community docs
+title: Week 4 - Community docs
 parent: OLS Call Notes
 has_children: false
 nav_order: 3

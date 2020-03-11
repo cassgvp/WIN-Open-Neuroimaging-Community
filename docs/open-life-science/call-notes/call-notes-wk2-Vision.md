@@ -1,5 +1,5 @@
 ---
-title: Week 2: Vision
+title: Week 2 - Vision
 parent: OLS Call Notes
 has_children: false
 nav_order: 1

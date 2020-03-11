@@ -1,5 +1,5 @@
 ---
-title: Week 0: Getting the Job
+title: Week 0 - Getting the Job
 parent: Blog
 has_children: false
 nav_order: 1

@@ -1,5 +1,5 @@
 ---
-title: Week 6: Project Development
+title: Week 6 - Project Development
 parent: OLS Call Notes
 has_children: false
 nav_order: 6
