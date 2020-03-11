@@ -1,5 +1,5 @@
 ---
-title: call-notes-wk5-git
+title: Week 5: Git
 parent: OLS Call Notes
 has_children: false
 nav_order: 4

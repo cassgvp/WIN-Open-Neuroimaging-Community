@@ -1,5 +1,5 @@
 ---
-title: blog-wk-3
+title: Week 3: First Call with Naomi
 parent: Blog
 has_children: false
 nav_order: 4

@@ -1,5 +1,5 @@
 ---
-title: call-notes-wk3-mentor
+title: Week 3: Meet your Mentor
 parent: OLS Call Notes
 has_children: false
 nav_order: 2

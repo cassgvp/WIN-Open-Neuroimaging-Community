@@ -1,5 +1,5 @@
 ---
-title: blog-wk-6
+title: Week 6: Sliming down OLS
 parent: Blog
 has_children: false
 nav_order: 7

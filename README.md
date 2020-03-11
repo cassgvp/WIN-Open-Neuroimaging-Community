@@ -1,4 +1,4 @@
-# Welcome!
+# Welcome
 
 Thank you for visiting the WIN Open Neuroimaging Community project repository.
 
@@ -91,7 +91,7 @@ This repository contains materials for the cultivation of the University of Oxfo
 
 
 
-This README is based on the [STEMM Role Models](https://github.com/KirstieJane/STEMMRoleModels) example highlighted as good practice in the OLS call on community repository essential materials ([week 4](./call-notes-wk4-LicenceReadmeCoc.md)).
+This README is based on the [STEMM Role Models](https://github.com/KirstieJane/STEMMRoleModels) example highlighted as good practice in the OLS call on community repository essential materials ([week 4](./Week 4-LicenceReadmeCoc.md)).
 
 ***
 

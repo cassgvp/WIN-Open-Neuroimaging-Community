@@ -1,5 +1,5 @@
 ---
-title: blog-wk-1
+title: Week 1: Getting started
 parent: Blog
 has_children: false
 nav_order: 2

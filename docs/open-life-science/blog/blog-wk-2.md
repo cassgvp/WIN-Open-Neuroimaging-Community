@@ -1,5 +1,5 @@
 ---
-title: blog-wk-2
+title: Week 2: Joining WIN EDI
 parent: Blog
 has_children: false
 nav_order: 3

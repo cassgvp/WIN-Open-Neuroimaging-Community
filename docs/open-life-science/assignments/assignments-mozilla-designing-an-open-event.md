@@ -1,5 +1,5 @@
 ---
-title: designing-open-events
+title: Designing Open Events
 parent: Assignments
 has_children: false
 nav_order: 2
