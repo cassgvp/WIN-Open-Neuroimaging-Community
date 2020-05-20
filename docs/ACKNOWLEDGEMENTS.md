@@ -7,9 +7,9 @@ nav_order: 5
 # Acknowledgements
 Acknowledging groups and resources that have been influential and incorporated into this material.
 
-- OLS
+- Open Life Sciences
 - Naomi Penfold
-- CSCCE
+- Center for Scientific Collaboration and Community Engagement
 - Mozilla Open Leaders
 - The Turing Way & STEM Role Models
 - OHBM OS-SIG
