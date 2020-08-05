@@ -1,5 +1,5 @@
 ---
-title: Goals of the Ambassador program
+title: Goals of the program
 parent: Open Ambassadors
 has_children: false
 nav_order: 1
@@ -27,16 +27,16 @@ Based on these combined drivers, our initial goals are to:
 - Improve awareness of open research practices, particularly registered reports and open educational materials.
 - Encourage the community to share pre-prints of their papers.
 
-<img src="../images/open-science-survey-results/Slide3.jpg" alt="OS Survey 2019 slide 3" width="50%" height="50%">
+<img src="../../images/open-science-survey-results/Slide3.jpg" alt="OS Survey 2019 slide 3" width="50%" height="50%">
 
 - Appreciate the value of open science practices in career development
 
-<img src="../images/open-science-survey-results/Slide4.jpg" alt="OS Survey 2019 slide 4"  width="50%" height="50%">
+<img src="../../images/open-science-survey-results/Slide4.jpg" alt="OS Survey 2019 slide 4"  width="50%" height="50%">
 
 - Appreciate the value of open sharing of code.
 - Encourage the community to realise the value of sharing data within the current limits of our [open data policy](OpenData.md), and equip them with the tools and knowledge to do so.
 
-<img src="../images/open-science-survey-results/Slide5.jpg" alt="OS Survey 2019 slide 5"  width="50%" height="50%">
+<img src="../../images/open-science-survey-results/Slide5.jpg" alt="OS Survey 2019 slide 5"  width="50%" height="50%">
 
 ## Reduce barriers to engaging in open research practices
 
@@ -44,12 +44,12 @@ Based on these combined drivers, our initial goals are to:
 - Clarify and communicate legal and ethical obligations fo data sharing.
 - Promote and train the community to use the newly developed WIN Open Infrastructure for sharing [data](OpenData.md), [experimental paradigms](OpenParadigms.md), [acquisition protocols](OpenProtocols.md) and [analysis tools](OpenTools.md)
 
-<img src="../images/open-science-survey-results/Slide6.jpg" alt="OS Survey 2019 slide 6"  width="50%" height="50%">
+<img src="../../images/open-science-survey-results/Slide6.jpg" alt="OS Survey 2019 slide 6"  width="50%" height="50%">
 
-<img src="../images/open-science-survey-results/Slide7.jpg" alt="OS Survey 2019 slide 7"  width="50%" height="50%">
+<img src="../../images/open-science-survey-results/Slide7.jpg" alt="OS Survey 2019 slide 7"  width="50%" height="50%">
 
 ## Create and share Acknowledgements
 - Empower the community to learn together as we explore these topics, and share their knowledge on this repository <mark>update when moved</mark> in the form of written documentation.
 - Hold in-person and online training workshops and "hacks" where we can learn together and create documentation.
 
-<img src="../images/open-science-survey-results/Slide8.jpg" alt="OS Survey 2019 slide 8"  width="50%" height="50%">
+<img src="../../images/open-science-survey-results/Slide8.jpg" alt="OS Survey 2019 slide 8"  width="50%" height="50%">
