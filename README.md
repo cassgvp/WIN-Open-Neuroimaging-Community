@@ -1,4 +1,8 @@
-# Welcome
+---
+title: Welcome
+has_children: false
+nav_order: 1
+---
 
 Thank you for visiting the WIN Open Neuroimaging Community project repository.
 
@@ -10,7 +14,7 @@ This page is a hub to give you some information about the project. Jump straight
 * [How can you get involved?](#get-involved)
 * [Get in touch](#contact-us)
 * [Find out more](#find-out-more)
-* [Understand the jargon](#glossary)
+<!-- * [Understand the jargon](#glossary) -->
 
 ## What are we doing?
 
@@ -18,12 +22,11 @@ We are a community built from around 250 members of the University of Oxford Wel
 
 We area committed to supporting transparent and reproducible research practices within WIN, to improve the efficiency and accuracy of our research, and contribute to an equitable, diverse and inclusive research environment.
 
-Materials within this repository are being developed with the support of the [Open Life Sciences (OLS) Mentoring Program](https://openlifesci.org), with the kind assistance of [Naomi Penfold](https://github.com/npscience). Follow the journey of the OLS program on this [blog](./blog/blog)
-
-
 ### The problem
 
-Funders and the Management Board of WIN have identified the value of open science and invested in computational infrastructure to share research outputs. There is however (1) no plan for how to implement widespread usage of these facilities, (2) no assessment of barriers to implementation of open science practices in this setting, and (3) no clear path for those interested in open science (OS) to connect with each other and contribute to this debate.
+Funders and the Management Board of WIN have identified the value of open science and invested in computational infrastructure to support researchers in sharing their data, data acquisition methodology, experimental tools and analysis code, in an open, transparent and reproducible manner.
+
+As these stages near completion, we are entering the second phase of work to build awareness, provide training and increase uptake in the use of this infrastructure. The problem is that there are no centralised resources, communication structures or identified community strategies in place to support researchers in using this new infrastructure.
 
 ### The solution
 
@@ -31,11 +34,13 @@ The WIN Open Neuroimaging Community will address the above problems by working t
 
 We intend to implement these solutions through regular co-working "hacks". These hacks will be full day events where we will discuss, write and build together. A high value outcome of these hacks will be a sense of community among the researchers who attend. All material created during the hack will be openly shared on this repository. We will also generate materials and guidance about how we have created the hacks, so these events are themselves reproducible.
 
+Alongside the hacks, we will develop the Open Ambassadors program, were motivated individuals will be supported in sharing knowledge and sign posting their peers around open research practices and how they are implemented at WIN. The ambassadors will be recognised for the value of their contribution, and invited to shape the policies, incentives, guiding principles and reward systems which will be devised to promote uptake of open research practices at WIN.
+
 ## Who are we?
 
-### Open Neuroimaging Community Co-Ordinator - Cassandra Gould van Praag
+### Open Neuroimaging Community Co-Ordinator - Cassandra Gould van Praag (she/her)
 
-Cass is a postdoctoral researcher with 10 years of neuroimaging (fMRI) research. She is an elected officer to the [Organisation for Human Brain Mapping (OHBM)](https://www.humanbrainmapping.org/) [Open Science Special Interest Group](https://ossig.netlify.com/) and Co-Chair of the [Open Science Room 2020](https://ohbm.github.io/osr2020/). She has been both a participant and speaker at the [Berlin-Oxford Open Science Summer School](https://www.nds.ox.ac.uk/events/oxford-berlin-summer-school-on-open-research-2019), an invited speaker at [Open MR Benelux](https://openmrbenelux.github.io/) and is a Early Career Fellow of [Reproducible Research Oxford](https://ox.ukrn.org/). Cass is an active contributor to a number of open community tools, including [Open Research Calendar](https://openresearchcalendar.github.io/Open-Research-Calendar/), the [COBIDAS Checklist](https://github.com/Remi-Gau/COBIDAS_chckls) and [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction)
+Cass is a postdoctoral researcher with 10 years of neuroimaging (fMRI) research. She was Co-Chair of the [Open Science Room 2020](https://ohbm.github.io/osr2020/).=, and has been both a participant and speaker at the [Berlin-Oxford Open Science Summer School](https://www.nds.ox.ac.uk/events/oxford-berlin-summer-school-on-open-research-2019), an invited speaker at [Open MR Benelux](https://openmrbenelux.github.io/) and is a Fellow of [Reproducible Research Oxford](https://ox.ukrn.org/). Cass is an active contributor to a number of open community tools, including [Open Research Calendar](https://openresearchcalendar.github.io/Open-Research-Calendar/), the [COBIDAS Checklist](https://github.com/Remi-Gau/COBIDAS_chckls) and [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction)
 
 Email: Cassandra.GoudVanPraag@psych.ox.ac.uk  
 GitHub: @cassgvp  
@@ -55,22 +60,24 @@ You can find out more about the WIN Open Neuroimaging Project by joining this [m
 
 ## What do we need?
 
-**You**! We need people to join the community! If you would like to learn more about open research and join one of our hacks, please join the WIN Open Neuroimaging Project [mailing list](https://mail.fmrib.ox.ac.uk/mailman/listinfo/win-open-imaging), and stay tuned for further announcements. We will be putting out a call in the near future, with an official invitation to the community, more information about what will be involved and what is in it for you!
+**You**! We need people to join the community! If you would like to learn more about open research, become an [Ambassador](ambassadors/OpenAmbassadors.md) or join one of our hacks, please join the WIN Open Neuroimaging Project [mailing list](https://mail.fmrib.ox.ac.uk/mailman/listinfo/win-open-imaging), and stay tuned for further announcements. We will be putting out a call in the near future, with an official invitation to the community, more information about what will be involved and what is in it for you!
 
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](/docs/CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
 
 ## Contact us
 
+<mark>To be completed</mark>
+
 If you want to report a problem or suggest an enhancement we'd love for you to ... [open an issue](../../issues) at the project this GitHub repository because then we can get right on it. But you can also contact ...
 
 You can also hang out, ask questions and share stories in the slack ...
 
-## Find out more
+<!-- ## Find out more
 
 You might be interested in:
 
-* Roadmap
+* Roadmap -->
 
 And of course, you'll want to know our:
 
@@ -80,12 +87,14 @@ And of course, you'll want to know our:
 
 ## Thank you
 
+<mark>To be completed</mark>
+
 Thank you so much ...
 
-## Glossary
+<!-- ## Glossary -->
 
 
-# Welcome
+<!-- # Welcome
 
 This repository contains materials for the cultivation of the University of Oxford Wellcome Centre for Integrative Neuroimaging (WIN) Open Neuroimaging Community.
 
@@ -97,8 +106,4 @@ This README is based on the [STEMM Role Models](https://github.com/KirstieJane/S
 
 
 
-I
-
-Communication channels
-
-*
+I -->
