@@ -1,8 +1,8 @@
----
+<!-- ---
 title: Welcome
 has_children: false
 nav_order: 1
----
+--- -->
 
 Thank you for visiting the WIN Open Neuroimaging Community project repository.
 
@@ -40,7 +40,7 @@ Alongside the hacks, we will develop the Open Ambassadors program, were motivate
 
 ### Open Neuroimaging Community Co-Ordinator - Cassandra Gould van Praag (she/her)
 
-Cass is a postdoctoral researcher with 10 years of neuroimaging (fMRI) research. She was Co-Chair of the [Open Science Room 2020](https://ohbm.github.io/osr2020/).=, and has been both a participant and speaker at the [Berlin-Oxford Open Science Summer School](https://www.nds.ox.ac.uk/events/oxford-berlin-summer-school-on-open-research-2019), an invited speaker at [Open MR Benelux](https://openmrbenelux.github.io/) and is a Fellow of [Reproducible Research Oxford](https://ox.ukrn.org/). Cass is an active contributor to a number of open community tools, including [Open Research Calendar](https://openresearchcalendar.github.io/Open-Research-Calendar/), the [COBIDAS Checklist](https://github.com/Remi-Gau/COBIDAS_chckls) and [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction)
+Cass is a postdoctoral researcher with 10 years of neuroimaging (fMRI) research. She was Co-Chair of the [Open Science Room 2020](https://ohbm.github.io/osr2020/), and has been both a participant and speaker at the [Berlin-Oxford Open Science Summer School](https://www.nds.ox.ac.uk/events/oxford-berlin-summer-school-on-open-research-2019), an invited speaker at [Open MR Benelux](https://openmrbenelux.github.io/) and is a Fellow of [Reproducible Research Oxford](https://ox.ukrn.org/). Cass is an active contributor to a number of open community tools, including [Open Research Calendar](https://openresearchcalendar.github.io/Open-Research-Calendar/), the [COBIDAS Checklist](https://github.com/Remi-Gau/COBIDAS_chckls) and [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction)
 
 Email: Cassandra.GoudVanPraag@psych.ox.ac.uk  
 GitHub: @cassgvp  
@@ -57,6 +57,11 @@ This community feeds directly into the [WIN Open Neuroimaging Project](https://w
 
 You can find out more about the WIN Open Neuroimaging Project by joining this [mailing list](https://mail.fmrib.ox.ac.uk/mailman/listinfo/win-open-imaging)
 
+### Ambassadors
+Your name and image here!
+
+### Contributors
+Your name and image here!
 
 ## What do we need?
 
