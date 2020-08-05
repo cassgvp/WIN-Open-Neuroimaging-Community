@@ -10,4 +10,4 @@ Materials within this repository are being developed with the support of the [Op
 
 Other resources have also been developed following example materials developed by [The Turing Way](https://the-turing-way.netlify.app/welcome)
 
-    The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science. Zenodo http://doi.org/10.5281/zenodo.3233853.
+`The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science. Zenodo http://doi.org/10.5281/zenodo.3233853.`
