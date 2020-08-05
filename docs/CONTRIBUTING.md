@@ -1,7 +1,7 @@
 ---
 title: Contributing
 has_children: false
-nav_order: 6
+nav_order: 4
 ---
 
 # Contributing
@@ -18,3 +18,5 @@ Please follow these guidelines to make sure your contributions can be easily int
 In the first instance, we encourage you to contact <Cassandra.GouldVanPraag@psych.ox.ac.uk> or get in touch with one of our [Ambassadors](OpenAmbasadros.md) ...
 
 <mark>This should outline mountain of engagement. Also link to events, mailing lists and slack.</mark>
+
+You can see the things we are working on in the [Ambassadors Trello board](https://trello.com/b/u4FqvNJv) <mark>this board is incomplete</mark>.

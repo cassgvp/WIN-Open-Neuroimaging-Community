@@ -1,7 +1,7 @@
 ---
 title: Open Paradigms
 has_children: false
-nav_order: 9
+nav_order: 7
 ---
 
 # WIN Open Paradigms

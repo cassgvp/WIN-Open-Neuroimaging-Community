@@ -1,7 +1,7 @@
 ---
 title: Code of Conduct
 has_children: false
-nav_order: 3
+nav_order: 2
 ---
 
 ***The following Code Of Conduct was developed for use by [The Turing Way community](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). It will be amended to suit this project, with appropriate acknowledgement and accreditation as per the licence agreement. This is a draft for the WIN Open Neuroimaging Community. All references to the individual named in reporting procedures have been removed.***

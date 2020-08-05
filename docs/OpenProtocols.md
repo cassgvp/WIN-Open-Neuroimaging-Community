@@ -1,7 +1,7 @@
 ---
 title: Open Protocols
 has_children: false
-nav_order: 10
+nav_order: 8
 ---
 
 # WIN Open Protocols
