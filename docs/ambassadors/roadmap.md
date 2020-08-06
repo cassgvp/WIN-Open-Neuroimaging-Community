@@ -15,6 +15,10 @@ These are significant turning points or events which will move the project forwa
 
 <mark>The below status, actions and due date will be incorporated into the repo 'issues'. See [my issue on the Open Life Sciences Mentoring Program](https://github.com/open-life-science/ols-1/issues/15) as an example.</mark>
 
+A summary of these short term milestones is shown below. <mark>[live doc for editing (CGVP only)](https://docs.google.com/spreadsheets/d/1wOoODp3dW50CnkRa0Hl6NGFa6i5EtJwIPqtIH1SuT-s/edit?usp=sharing)</mark>
+
+<img src="~/images/mozilla-framework/roadmap.png" alt="roadmap"  width="50%" height="50%"> 
+
 ### Milestone: Complete Open Leadership tools
 > Complete first draft of all assignments from [Open Life Sciences Mentoring Program](https://openlifesci.org)
 
@@ -65,7 +69,7 @@ September](https://coursesandconferences.wellcomegenomecampus.org/our-events/rep
 
 
 
-*Due date*: 9th-11th November September 2020
+*Due date*: Deadline for poster and video upload 19th August. 9th-11th September 2020 presentation.
 
 ### Milestone: Launch Ambassador program
 
