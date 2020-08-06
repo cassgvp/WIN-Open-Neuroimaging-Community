@@ -2,6 +2,7 @@ remote_theme: pmarsceill/just-the-docs
 title: WIN Open Community
 description: A space for the WIN Open Neuroimaging Community to build and share resources
 # Aux links for the upper right navigation
+site_url: https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/
 aux_links:
   "WIN Open Community on GitHub":
     - "//github.com/cassgvp/WIN-Open-Neuroimaging-Community"
