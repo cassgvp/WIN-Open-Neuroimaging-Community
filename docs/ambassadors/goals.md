@@ -27,13 +27,13 @@ Based on these combined drivers, our initial goals are to:
 - Improve awareness of open research practices, particularly registered reports and open educational materials.
 - Encourage the community to share pre-prints of their papers.
 
-test 7
+test 8
 
-![OS Survey Slide 3](../../img/open-science-survey-results/Slide3.jpg)
+![OS Survey Slide 3](../../img/open-science-survey-results/Slide3.png)
 
 <!-- <img src="/images/strategy/Screenshot-2018-12-07-at-12.43.45.png" alt="" width="835" height="174" /> -->
 
-<img src="/img/open-science-survey-results/Slide3.jpg" alt="OS Survey 2019 slide 3" width="50%" height="50%"/>
+<img src="/img/open-science-survey-results/Slide3.png" alt="OS Survey 2019 slide 3" width="50%" height="50%"/>
 
 
 <!-- <img src="https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/blob/master/images/open-science-survey-results/Slide3.jpg" alt="OS Survey 2019 slide 3" width="50%" height="50%"> -->
