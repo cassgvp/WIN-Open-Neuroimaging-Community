@@ -27,9 +27,9 @@ Based on these combined drivers, our initial goals are to:
 - Improve awareness of open research practices, particularly registered reports and open educational materials.
 - Encourage the community to share pre-prints of their papers.
 
-test 5
+test 6
 
-<!-- ![OS Survey Slide 3](../../images/open-science-survey-results/Slide3.jpg) -->
+![OS Survey Slide 3](../../images/open-science-survey-results/Slide3.jpg)
 
 <!-- <img src="/images/strategy/Screenshot-2018-12-07-at-12.43.45.png" alt="" width="835" height="174" /> -->
 
