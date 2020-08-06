@@ -34,7 +34,11 @@ The WIN Open Neuroimaging Community will address the above problems by working t
 
 We intend to implement these solutions through regular co-working "hacks". These hacks will be full day events where we will discuss, write and build together. A high value outcome of these hacks will be a sense of community among the researchers who attend. All material created during the hack will be openly shared on this repository. We will also generate materials and guidance about how we have created the hacks, so these events are themselves reproducible.
 
-Alongside the hacks, we will develop the Open Ambassadors program, were motivated individuals will be supported in sharing knowledge and sign posting their peers around open research practices and how they are implemented at WIN. The ambassadors will be recognised for the value of their contribution, and invited to shape the policies, incentives, guiding principles and reward systems which will be devised to promote uptake of open research practices at WIN.
+Alongside the hacks, we will develop the WIN Open Ambassadors program, where motivated individuals will be supported in sharing knowledge and sign posting their peers around open research practices and how they are implemented at WIN. The Ambassadors will be recognised for the value of their contribution, and invited to shape the policies, incentives, guiding principles and reward systems which will be devised to promote uptake of open research practices at WIN.
+
+### Why here?
+
+We are building our resources and documenting our growth using this version controlled git repository, rendered into an accessible "book" format. Using git makes it easy to review and accept contributions and flexibly update with a full history of activity. It also provides a starting point for researchers who are unfamiliar with git to practice contributing to a repository and gain confidence using the git process. This is an essential skill in open and reproducible research, an excellent skill to have on your CV, and one which will be vital to using some parts of the WIN Open Infrastructure. We are therefore pleased to offer all our contributors training and support in git throughout their engagement with the project. You will find training and linked resources for using git in our [contributing guide](CONTRIBUTING.md).
 
 ## Who are we?
 
@@ -60,8 +64,12 @@ You can find out more about the WIN Open Neuroimaging Project by joining this [m
 ### Ambassadors
 Your name and image here!
 
+<mark>Ambassadors probably get an additional bio, like https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md. with picture and links. Think about how it is going to grow and be managable code to maintain. Might like to reuse bits from [OSR speakers pages](https://ohbm.github.io/osr2020/speakers/)
+
 ### Contributors
 Your name and image here!
+
+<mark>Using the ['all contributors'](https://github.com/all-contributors/all-contributors) tool and design.
 
 ## What do we need?
 
