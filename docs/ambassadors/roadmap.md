@@ -17,7 +17,7 @@ These are significant turning points or events which will move the project forwa
 
 A summary of these short term milestones is shown below. <mark>[live doc for editing (CGVP only)](https://docs.google.com/spreadsheets/d/1wOoODp3dW50CnkRa0Hl6NGFa6i5EtJwIPqtIH1SuT-s/edit?usp=sharing)</mark>
 
-<img src="~/images/mozilla-framework/roadmap.png" alt="roadmap"  width="50%" height="50%"> 
+<img src="~/images/mozilla-framework/roadmap.png" alt="roadmap"  width="100%" height="50%">
 
 ### Milestone: Complete Open Leadership tools
 > Complete first draft of all assignments from [Open Life Sciences Mentoring Program](https://openlifesci.org)
