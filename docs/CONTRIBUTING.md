@@ -22,4 +22,4 @@ In the first instance, we encourage you to contact <Cassandra.GouldVanPraag@psyc
 You can see the things we are working on in the [Ambassadors Trello board](https://trello.com/b/u4FqvNJv) <mark>this board is incomplete</mark>.
 
 ## Using git
-<mark>Should also contain a how-to on using git to contribute to this repo. Maybe a video recording of the hack-day (and/or Ox-Ber) training, with linked materials</maa=rk>
+<mark>Should also contain a how-to on using git to contribute to this repo. Maybe a video recording of the hack-day (and/or Ox-Ber) training, with linked materials<mark>
