@@ -12,7 +12,9 @@ We will launch the ambassador program at a WIN Wednesday Seminar on 16th Septemb
 
 The Mozilla Open Leadership Framework promotes open and inclusive participation, understanding, and sharing by design. This model has been refined through six years of training to prepare "open" (often open source) <mark>should include a glossary link</mark> projects to be launched into the public arena. The aim of this framework is to mobilise the community, solve shared problems and achieve shared goals. This is achieved by sharing a commitment to transparency and inclusivity in the leadership and contributors to the project. One of the added benefits of this open model is that it forces the project to be very clear and considered about its goals, vision and strategy, so it can be communicated openly and effectively. It also crystallises a "user centric" perspective, by integrating the target audience into the development process. This means when the project is launched, you have a ready-made user base of advocates to support and champion the project to achieve maximum impact.
 
-<img src="/img/mozilla-framework/open-leadership.jpg" alt="Mozilla Open Leadership structure"  width="100%" height="50%">
+![Mozilla Open Leadership structure](../img/mozilla-framework/open-leadership.png)
+
+<!-- <img src="/img/mozilla-framework/open-leadershippng" alt="Mozilla Open Leadership structure"  width="100%" height="50%"> -->
 
 ## Tools for engaging and growing the community
 The open ethos is supported by a series of practices and tools for planning, project management, mentorship, growing a community and running events. We have used these tools to develop our vision for the WIN Open Ambassadors Program. We welcome you feedback on every aspect, and will look to update these documents as the project progresses.
@@ -23,11 +25,15 @@ The WIN Open Ambassadors program will build a community of researchers who are e
 
 ### Open Canvas
 
-The open canvas is designed to help define project goals, strategy and resource needs to create a minimum viable product (MVP). The images below describe the sections for the open canvas and the model we have drafted for the WIN Open Ambassadors Program
+The open canvas is designed to help define project goals, strategy and resource needs to create a minimum viable product (MVP). The images below describe the sections for the open canvas and the model we have drafted for the WIN Open Ambassadors Program.
 
-<img src="/img/mozilla-framework/open-canvas-instruct.jpg" alt="Open canvas section descriptions"  width="100%" height="50%">
+![Open canvas section descriptions](../img/mozilla-framework/open-canvas-instruct.png)
 
-<img src="/img/mozilla-framework/open-canvas-ambass.jpg" alt="Open canvas for WIN Open Ambassadors Program"  width="100%" height="50%">
+<!-- <img src="/img/mozilla-framework/open-canvas-instructpng" alt="Open canvas section descriptions"  width="100%" height="50%"> -->
+
+![Open canvas for WIN Open Ambassadors Program](../img/mozilla-framework/open-canvas-ambass.png)
+
+<!-- <img src="/img/mozilla-framework/open-canvas-ambasspng" alt="Open canvas for WIN Open Ambassadors Program"  width="100%" height="50%"> -->
 
 ### README landing page
 
