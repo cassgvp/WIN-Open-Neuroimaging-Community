@@ -1,8 +1,13 @@
-<!-- Note from mkdocs: "If both an indx.md and a README.md are in the same directorfy, mkdocs will render the index file" and the README will still be rendered on github (https://www.mkdocs.org/user-guide/writing-your-docs/). Adding frontmatter to README breaks it." -->
+---
+layout: default
+title: Home
+nav_order: 1
+description: "Summary: Find out who we are, our aims for the community and how to get involved!"
+---
 
 Thank you for visiting the WIN Open Neuroimaging Community project repository.
 
-**This is the GitHub README**
+**This is the index.md**
 
 This page is a hub to give you some information about the Community and our Open Science Ambassadors. Jump straight to one of the sections below, or scroll down to find out more.
 
