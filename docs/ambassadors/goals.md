@@ -28,24 +28,16 @@ Based on these combined drivers, our initial goals are to:
 - Encourage the community to share pre-prints of their papers.
 
 
-<!-- <img src="/images/strategy/Screenshot-2018-12-07-at-12.43.45.png" alt="" width="835" height="174"> -->
-
-![OS-Survey 2019 slide 3 png](../img/open-science-survey-results/Slide3.png)
-
-![OS-Survey 2019 slide 3 jpg](../img/open-science-survey-results/Slide3.png)
-
-<img src="/img/open-science-survey-results/Slide3.png" alt="OS Survey 2019 slide 3" width="100%" height="50%">
-
-<!-- <img src="/img/open-science-survey-results/Slide3.jpg" alt="OS Survey 2019 slide 3" width="100%" height="50%"> -->
+![OS-Survey 2019 slide 3](../img/open-science-survey-results/Slide3.jpg)
 
 - Appreciate the value of open science practices in career development
 
-<img src="/img/open-science-survey-results/Slide4.jpg" alt="OS Survey 2019 slide 4"  width="100%" height="50%">
+![OS-Survey 2019 slide 4](../img/open-science-survey-results/Slide4.jpg)
 
 - Appreciate the value of open sharing of code.
 - Encourage the community to realise the value of sharing data within the current limits of our [open data policy](OpenData.md), and equip them with the tools and knowledge to do so.
 
-<img src="/img/open-science-survey-results/Slide5.jpg" alt="OS Survey 2019 slide 5"  width="100%" height="50%">
+![OS-Survey 2019 slide 5](../img/open-science-survey-results/Slide5.jpg)
 
 ## Reduce barriers to engaging in open research practices
 
@@ -53,15 +45,15 @@ Based on these combined drivers, our initial goals are to:
 - Clarify and communicate legal and ethical obligations fo data sharing.
 - Promote and train the community to use the newly developed WIN Open Infrastructure for sharing [data](OpenData.md), [experimental paradigms](OpenParadigms.md), [acquisition protocols](OpenProtocols.md) and [analysis tools](OpenTools.md)
 
-<img src="/img/open-science-survey-results/Slide6.jpg" alt="OS Survey 2019 slide 6"  width="100%" height="50%">
+![OS-Survey 2019 slide 6](../img/open-science-survey-results/Slide6.jpg)
 
-<img src="/img/open-science-survey-results/Slide7.jpg" alt="OS Survey 2019 slide 7"  width="100%" height="50%">
+![OS-Survey 2019 slide 7](../img/open-science-survey-results/Slide7.jpg)
 
 ## Create and share documentation
 - Empower the community to learn together as we explore these topics, and share their knowledge on this repository <mark>update when moved</mark> in the form of written documentation.
 - Hold in-person and online training workshops and "hacks" where we can learn together and create documentation.
 
-<img src="/img/open-science-survey-results/Slide8.jpg" alt="OS Survey 2019 slide 8"  width="100%" height="50%">
+![OS-Survey 2019 slide 8](../img/open-science-survey-results/Slide8.jpg)
 
 ## Demonstrate infrastructure engagement
 
