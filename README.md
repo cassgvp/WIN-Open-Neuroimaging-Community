@@ -6,7 +6,7 @@ nav_order: 1
 
 Thank you for visiting the WIN Open Neuroimaging Community project repository.
 
-This page is a hub to give you some information about the project. Jump straight to one of the sections below, or scroll down to find out more.
+This page is a hub to give you some information about the Community and our Open Science Ambassadors. Jump straight to one of the sections below, or scroll down to find out more.
 
 * [What are we doing? (And why?)](#what-are-we-doing)
 * [Who are we?](#who-are-we)
