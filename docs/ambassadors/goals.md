@@ -30,9 +30,9 @@ Based on these combined drivers, our initial goals are to:
 
 <!-- <img src="/images/strategy/Screenshot-2018-12-07-at-12.43.45.png" alt="" width="835" height="174"> -->
 
-img test 1
+![OS-Survey 2019 slide 3 png](../img/open-science-survey-results/Slide3.png)
 
-![](../img/open-science-survey-results/Slide3.png)
+![OS-Survey 2019 slide 3 jpg](../img/open-science-survey-results/Slide3.png)
 
 <img src="/img/open-science-survey-results/Slide3.png" alt="OS Survey 2019 slide 3" width="100%" height="50%">
 
