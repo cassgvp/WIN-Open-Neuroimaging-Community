@@ -28,11 +28,11 @@ Based on these combined drivers, our initial goals are to:
 - Encourage the community to share pre-prints of their papers.
 
 
-![OS-Survey 2019 slide 3](../img/open-science-survey-results/Slide3.jpg)
+![OS-Survey 2019 slide 3](../img/open-science-survey-results/Slide3.png)
 
 - Appreciate the value of open science practices in career development
 
-![OS-Survey 2019 slide 4](../img/open-science-survey-results/Slide4.jpg)
+![OS-Survey 2019 slide 4](../img/open-science-survey-results/Slide4.png)
 
 - Appreciate the value of open sharing of code.
 - Encourage the community to realise the value of sharing data within the current limits of our [open data policy](OpenData.md), and equip them with the tools and knowledge to do so.
