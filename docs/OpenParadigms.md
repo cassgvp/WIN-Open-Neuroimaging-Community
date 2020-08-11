@@ -1,7 +1,8 @@
 ---
 title: Open Paradigms
+parent: grand-tools
 has_children: false
-nav_order: 7
+nav_order: 2
 ---
 
 # WIN Open Paradigms

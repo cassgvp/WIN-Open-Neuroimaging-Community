@@ -5,9 +5,19 @@ nav_order: 1
 description: "Summary: Find out who we are, our aims for the community and how to get involved!"
 ---
 
-Thank you for visiting the WIN Open Neuroimaging Community project repository.
 
-**This is the index.md**
+# Focus on writing good documentation
+{: .fs-9 }
+
+Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+{: .fs-6 .fw-300 }
+
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+
+---
+
+
+Thank you for visiting the WIN Open Neuroimaging Community project repository.
 
 This page is a hub to give you some information about the Community and our Open Science Ambassadors. Jump straight to one of the sections below, or scroll down to find out more.
 

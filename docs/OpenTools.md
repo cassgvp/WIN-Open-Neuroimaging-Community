@@ -1,7 +1,8 @@
 ---
 title: Open Tools
+parent: grand-tools
 has_children: false
-nav_order: 9
+nav_order: 4
 ---
 
 # WIN Open Tools
