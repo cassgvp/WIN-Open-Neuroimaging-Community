@@ -37,7 +37,7 @@ Based on these combined drivers, our initial goals are to:
 - Appreciate the value of open sharing of code.
 - Encourage the community to realise the value of sharing data within the current limits of our [open data policy](OpenData.md), and equip them with the tools and knowledge to do so.
 
-![OS-Survey 2019 slide 5](../img/open-science-survey-results/Slide5png)
+![OS-Survey 2019 slide 5](../img/open-science-survey-results/Slide5.png)
 
 ## Reduce barriers to engaging in open research practices
 
@@ -45,15 +45,15 @@ Based on these combined drivers, our initial goals are to:
 - Clarify and communicate legal and ethical obligations fo data sharing.
 - Promote and train the community to use the newly developed WIN Open Infrastructure for sharing [data](OpenData.md), [experimental paradigms](OpenParadigms.md), [acquisition protocols](OpenProtocols.md) and [analysis tools](OpenTools.md)
 
-![OS-Survey 2019 slide 6](../img/open-science-survey-results/Slide6png)
+![OS-Survey 2019 slide 6](../img/open-science-survey-results/Slide6.png)
 
-![OS-Survey 2019 slide 7](../img/open-science-survey-results/Slide7png)
+![OS-Survey 2019 slide 7](../img/open-science-survey-results/Slide7.png)
 
 ## Create and share documentation
 - Empower the community to learn together as we explore these topics, and share their knowledge on this repository <mark>update when moved</mark> in the form of written documentation.
 - Hold in-person and online training workshops and "hacks" where we can learn together and create documentation.
 
-![OS-Survey 2019 slide 8](../img/open-science-survey-results/Slide8png)
+![OS-Survey 2019 slide 8](../img/open-science-survey-results/Slide8.png)
 
 ## Demonstrate infrastructure engagement
 
