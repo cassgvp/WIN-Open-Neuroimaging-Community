@@ -1,6 +1,6 @@
 ---
 title: First Community Hack Day
-parent: Events
+parent: Open WIN Events
 has_children: false
 nav_order: 10
 ---

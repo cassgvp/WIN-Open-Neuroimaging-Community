@@ -1,5 +1,6 @@
 ---
 title: Acknowledgements
+parent: Using this repository
 has_children: false
 nav_order: 5
 ---

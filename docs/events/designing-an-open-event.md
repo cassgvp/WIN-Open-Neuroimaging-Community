@@ -1,13 +1,13 @@
 ---
 title: Designing Open Events
-parent: Events
+parent: Open WIN Events
 has_children: false
 nav_order: 2
 ---
 
 # Designing and open event
 
-This exercise is from the [mozilla open leaders resource](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/designing-an-open-event/). We will complete this exercise to guide some of the planning of our collaborative hack-days. 
+This exercise is from the [mozilla open leaders resource](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/designing-an-open-event/). We will complete this exercise to guide some of the planning of our collaborative hack-days.
 
 ## Defining Purpose
 

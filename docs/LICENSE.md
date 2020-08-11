@@ -1,5 +1,6 @@
 ---
 title: License and citing this project
+parent: Using this repository
 has_children: false
 nav_order: 3
 ---

@@ -3,6 +3,7 @@ layout: default
 title: Home
 nav_order: 1
 description: "Summary: Find out who we are, our aims for the community and how to get involved!"
+has_children: true
 ---
 
 

@@ -1,5 +1,6 @@
 ---
 title: Code of Conduct
+parent: Open WIN Community
 has_children: false
 nav_order: 2
 ---

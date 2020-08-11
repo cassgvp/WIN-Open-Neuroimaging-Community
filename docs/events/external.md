@@ -1,6 +1,6 @@
 ---
 title: External events
-parent: Events
+parent: Open WIN Events
 has_children: false
 nav_order: 10
 ---
