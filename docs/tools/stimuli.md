@@ -1,5 +1,5 @@
 ---
-title: Open Paradigms
+title: Open Stimuli
 parent: Open WIN Tools
 has_children: false
 nav_order: 2

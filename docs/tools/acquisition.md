@@ -1,5 +1,5 @@
 ---
-title: Open Protocols
+title: Open Acquisition
 parent: Open WIN Tools
 has_children: false
 nav_order: 3

@@ -1,5 +1,5 @@
 ---
-title: Open Tools
+title: Open Analysis
 parent: Open WIN Tools
 has_children: false
 nav_order: 4
