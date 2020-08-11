@@ -1,6 +1,6 @@
 ---
 title: Benefits for Ambassadors
-parent: Open Ambassadors
+parent: Open WIN Ambassadors
 has_children: false
 nav_order: 5
 ---
@@ -17,6 +17,6 @@ These are some potentially harder benefits to achieve
 - Access to a training and development fund to support your growth in open research or a related topic
 - Ring-fenced time within your research activities to contribute to the program <mark>Perhaps something like the  PI agreement letter used for the Oxford-Berlin Summer School could be agreed with PIs. Might need to think about how to enforce it.</mark>
 - Free merchandise :p <mark>Can we get some mugs made?</mark>
-- Access to a dedicated Training Fund to get financial support to organise training in your research group or department. 
+- Access to a dedicated Training Fund to get financial support to organise training in your research group or department.
 
 What else would you like? We're aiming to solve the problems which you face, or your barriers to working open. Why do you want to participate? What would motivate others like you?

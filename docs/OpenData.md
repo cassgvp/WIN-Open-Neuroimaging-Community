@@ -1,6 +1,6 @@
 ---
 title: Open Data
-parent: grand-tools
+parent: Open WIN Tools
 has_children: false
 nav_order: 1
 ---

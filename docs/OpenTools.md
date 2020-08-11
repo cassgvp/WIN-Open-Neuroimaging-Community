@@ -1,6 +1,6 @@
 ---
 title: Open Tools
-parent: grand-tools
+parent: Open WIN Tools
 has_children: false
 nav_order: 4
 ---

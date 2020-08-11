@@ -1,6 +1,6 @@
 ---
 title: Pilot program
-parent: Open Ambassadors
+parent: Open WIN Ambassadors
 has_children: false
 nav_order: 2
 ---

@@ -4,10 +4,5 @@ has_children: true
 nav_order: 4
 ---
 
-<mark> License to be agreed</mark>
-
-Distributed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode)
-
-# How to cite this project
-
-<mark>Upload to zenodo as versions after soft launch and after hack day</mark>
+# WIN Open Ambassadors
+The WIN Open Ambassadors are a team of individuals who are interested in contributing to the WIN Open Neuroimaging Project, by creating materials to guide and train others, shape our policy and infrastructure, and promote the benefits of engagement with Open Neuroimaging at WIN.

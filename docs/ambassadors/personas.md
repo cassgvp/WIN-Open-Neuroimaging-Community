@@ -1,6 +1,6 @@
 ---
 title: Ambassador Personas and Pathways
-parent: Open Ambassadors
+parent: Open WIN Ambassadors
 has_children: false
 nav_order: 7
 ---

@@ -1,6 +1,6 @@
 ---
 title: Goals of the program
-parent: Open Ambassadors
+parent: Open WIN Ambassadors
 has_children: false
 nav_order: 1
 ---

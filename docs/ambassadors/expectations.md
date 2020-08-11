@@ -1,6 +1,6 @@
 ---
 title: Expectations of Ambassadors
-parent: Open Ambassadors
+parent: Open WIN Ambassadors
 has_children: false
 nav_order: 4
 ---
@@ -18,4 +18,4 @@ We would like WIN Open Ambassadors to commit to the following:
 
 In return for their time and commitment, numerous [rewards and incentives](benfits.md) are offered to those who become WIN Open Ambassadors.
 
-We will work to support you in all these activities, with communication channels, additional training, presentation materials and defined routes to development. This support will develop as the project grows, and you have an open invitation to suggest any additional ways we could support you in growing our community. 
+We will work to support you in all these activities, with communication channels, additional training, presentation materials and defined routes to development. This support will develop as the project grows, and you have an open invitation to suggest any additional ways we could support you in growing our community.
