@@ -7,18 +7,32 @@ has_children: true
 ---
 
 
-# Focus on writing good documentation
+# Support WIN as a leader in Open Research Practice
 {: .fs-9 }
 
-Just the Docs gives your documentation a jumpstart with a responsive Jekyll theme that is easily customizable and hosted on GitHub Pages.
+Find out how to share your research outputs effectively and responsibly, for improved impact, access and collaboration.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 } [View it on GitHub](https://github.com/pmarsceill/just-the-docs){: .btn .fs-5 .mb-4 .mb-md-0 }
+---
+
+This repository is the hub for information on how to employ open research practices at the [Wellcome Centre for Integrative Neuroimaging (WIN)](https://www.win.ox.ac.uk).
+
+It is written and maintained by an active community of WIN researchers, and is intended to support all WIN members in using the sharing infrastructure created by the [WIN Open Neuroimaging Project](https://www.win.ox.ac.uk/open-neuroimaging)
+
+[Get started with tools for sharing](grand-tools.md){: .btn .btn-primary .fs-8 .mb-4 .mb-md-0 .mr-2 }
+
+[Find out about the Open WIN Community](grand-community.md){: .btn .btn-primary .fs-8 .mb-4 .mb-md-0 .mr-2 }  
+
+[Find out about the Open WIN Ambassadors](grand-abmassadors.md){: .btn .btn-primary .fs-8 .mb-4 .mb-md-0 .mr-2 }  
+
+[Find out about Open WIN Events](grand-events.md){: .btn .btn-primary .fs-8 .mb-4 .mb-md-0 .mr-2 }  
+
+
 
 ---
 
 
-Thank you for visiting the WIN Open Neuroimaging Community project repository.
+Thank you for visiting the Open WIN Community project repository.
 
 This page is a hub to give you some information about the Community and our Open Science Ambassadors. Jump straight to one of the sections below, or scroll down to find out more.
 
