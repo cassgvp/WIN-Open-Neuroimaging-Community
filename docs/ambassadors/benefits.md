@@ -2,7 +2,7 @@
 title: Benefits for Ambassadors
 parent: Open WIN Ambassadors
 has_children: false
-nav_order: 5
+nav_order: 6
 ---
 
 In recognition of the time, skill and expertise it takes to be an Open Ambassador, these individuals will be rewarded with:

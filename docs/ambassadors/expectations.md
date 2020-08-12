@@ -2,7 +2,7 @@
 title: Expectations of Ambassadors
 parent: Open WIN Ambassadors
 has_children: false
-nav_order: 4
+nav_order: 5
 ---
 
 <mark>This is reproduced from the TU Delft Data Champions resources</mark>
