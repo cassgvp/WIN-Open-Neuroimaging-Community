@@ -1,9 +1,8 @@
 ---
 title: Contributing
-parent: Using this repository
-grand_parent: Home
+parent: Home
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Contributing

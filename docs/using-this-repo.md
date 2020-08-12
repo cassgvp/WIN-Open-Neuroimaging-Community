@@ -1,10 +1,10 @@
 ---
 title: Using this repository
 parent: Home
-has_children: true
+has_children: false
 nav_order: 1
 ---
 
-This repo exists to...
+This repository exists to facilitate rapid and user-centred dissemination of information to members of the Open WIN Community and those looking to engage...
 
-See the sections below or navigate on the sidebar to find out more about this repository.
+Use the sidebar to find essential information on how to cite and contribute to the repository, along with our thanks to those who have helped to develop it.
