@@ -1,8 +1,9 @@
 ---
 title: Acknowledgements
 parent: Using this repository
+grand_parent: Home
 has_children: false
-nav_order: 5
+nav_order: 2
 ---
 
 # Acknowledgements

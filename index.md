@@ -7,7 +7,7 @@ has_children: true
 ---
 
 
-# Be a Support WIN as a leader in Open Research Practice
+# Support Open Research at WIN
 {: .fs-9 }
 
 Find out how to share your research outputs effectively and responsibly, for improved impact, access and collaboration.
@@ -30,4 +30,4 @@ The material shared here is written and maintained by an active community of WIN
 
 ---
 
-See the sections below or navigate on the sidebar to find out more about the Open Win Community.
+See the sections below or navigate on the sidebar to find out more about this repository.

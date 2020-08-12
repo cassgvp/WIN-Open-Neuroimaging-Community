@@ -1,6 +1,7 @@
 ---
 title: License and citing this project
 parent: Using this repository
+grand_parent: Home
 has_children: false
 nav_order: 3
 ---
