@@ -7,7 +7,7 @@ has_children: true
 ---
 
 
-# Support WIN as a leader in Open Research Practice
+# Be a Support WIN as a leader in Open Research Practice
 {: .fs-9 }
 
 Find out how to share your research outputs effectively and responsibly, for improved impact, access and collaboration.
@@ -17,15 +17,13 @@ Find out how to share your research outputs effectively and responsibly, for imp
 
 This repository is the hub for information on how to employ open research practices at the [Wellcome Centre for Integrative Neuroimaging (WIN)](https://www.win.ox.ac.uk).
 
-It is written and maintained by an active community of WIN researchers, and is intended to support all WIN members in using the sharing infrastructure created by the [WIN Open Neuroimaging Project](https://www.win.ox.ac.uk/open-neuroimaging)
+The material shared here is written and maintained by an active community of WIN researchers, and is intended to support all WIN members in using the sharing infrastructure created by the [WIN Open Neuroimaging Project](https://www.win.ox.ac.uk/open-neuroimaging)
 
-[Get started with tools for sharing](tools){: .btn .btn-primary .fs-8 .mb-4 .mb-md-0 .mr-2 }
+[Tools for sharing research outputs](tools){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 } [Find out about the Open WIN Community](community){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
 
-[Find out about the Open WIN Community](community){: .btn .btn-primary .fs-8 .mb-4 .mb-md-0 .mr-2 }  
+[Find out about the Open WIN Ambassadors](abmassadors){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  [Find out about Open WIN Events](events){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
 
-[Find out about the Open WIN Ambassadors](abmassadors){: .btn .btn-primary .fs-8 .mb-4 .mb-md-0 .mr-2 }  
 
-[Find out about Open WIN Events](events){: .btn .btn-primary .fs-8 .mb-4 .mb-md-0 .mr-2 }  
 
 
 
