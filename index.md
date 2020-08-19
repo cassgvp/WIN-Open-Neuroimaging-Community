@@ -7,7 +7,7 @@ has_children: true
 ---
 
 
-# Support Open Research at WIN
+# Open Research at WIN
 {: .fs-9 }
 
 Find out how to share your research outputs effectively and responsibly, for improved impact, access and collaboration.

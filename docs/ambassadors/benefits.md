@@ -12,6 +12,7 @@ In recognition of the time, skill and expertise it takes to be an Open Ambassado
 - Recognition of your contribution on your annual personal development review.
 - Opportunities to network with likeminded colleagues internally and externally.
 - Opportunity to shape the policy and structure of the WIN Open Neuroimaging Community.
+- Career points! Engaging with open research is good for your CV as many funding and fellowship applications are now requesting and recognising research outputs other than solely papers. For example, preprints, code, datasets and documentation can all be referenced with a digital object identifier (doi) and cited. Active participation in this community is also evidence of "Good Citizenship" which can be discussed in new employment and promotion applications.  
 
 These are some potentially harder benefits to achieve
 - Access to a training and development fund to support your growth in open research or a related topic
