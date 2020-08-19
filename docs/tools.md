@@ -7,13 +7,13 @@ nav_order: 2
 # Open WIN Tools
 {: .fs-9 }
 
-How to use WIN infrastructure to share each stage of your research process.
+How to use WIN infrastructure to share each stage of your research outputs
 {: .fs-6 .fw-300 }
 
 ---
 
-![tools](docs/img/img-onwg.png)
+![tools](img/img-onwg-h250.png)
 
-WIN have created a number of tools to help you share your research output effectively and openly...
+WIN have created a number of tools to help you share your research output effectively and openly. In some cases these have been built using infrastructure. In most cases, however, it has been necessary to design custom databases and software solutions to suite our specific needs.
 
-Use the sidebar to find out more about each of the tools we have created to help you share your research outputs, and learn how to use them. 
+**Use the sidebar to find out more about each of the tools we have created to help you share your research outputs. Follow the guides available for each tool to learn how to share your work openly and reproducibly.**
