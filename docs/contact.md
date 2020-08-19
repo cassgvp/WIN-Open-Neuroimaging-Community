@@ -13,7 +13,9 @@ Connect with us via any of the means below depending on  your preference and int
 
 ---
 
-![mail-list](./img/icon-maillist.png =100x)
+![mail-list](./img/icon-maillist.png)
+
+test
 
 ## Open WIN Mailing List
 
