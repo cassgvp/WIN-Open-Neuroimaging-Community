@@ -1,6 +1,6 @@
 ---
 title: Roadmap
-parent: Open WIN Ambassadors
+parent: Open WIN Community
 has_children: false
 nav_order: 4
 ---

@@ -8,19 +8,19 @@ nav_order: 2
 # Contributing
 {: .fs-9 }
 
-How to contribute to this repository.
+How to contribute to this repository
 {: .fs-6 .fw-300 }
 
 ---
 
-We want to ensure that every user and contributor feels welcome and included in the WIN Open Neuroimaging community. We ask all contributors and community members to follow the [code of conduct](/community/CODE_OF_CONDUCT.md)
+We want to ensure that every user and contributor feels welcome and included in the WIN Open Neuroimaging community. We ask all contributors and community members to follow the [code of conduct](/community/CODE_OF_CONDUCT.md) in all community interactions.
 
-We hope that this guideline document will make it as easy as possible for you to get involved.
+**We hope that this guideline document will make it as easy as possible for you to get involved.**
 
 Please follow these guidelines to make sure your contributions can be easily integrated in the projects. As you start contributing to the WIN Open Neuroimaging, don't forget that your ideas are more important than perfect [pull requests](https://opensource.stackexchange.com/questions/352/what-exactly-is-a-pull-request).
 
 ## 1. Contact us
-In the first instance, we encourage you [connect with the Open WIN Community](../contact.md). Let us know that you are reading the repository and you would like to contribute! You might like to introduce yourself on the #welcome channel on our Slack workspace! 👋
+In the first instance, we encourage you [connect with the Open WIN Community](../contact.md). Let us know that you are reading the repository and you would like to contribute! You might like to introduce yourself on the #welcome channel on our [Slack workspace](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html#open-win-slack-)! 👋
 
 ## 2. Check what we're working on
 

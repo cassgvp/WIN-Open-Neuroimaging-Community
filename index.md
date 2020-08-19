@@ -13,7 +13,7 @@ has_children: true
 # Open Research at WIN
 {: .fs-9 }
 
-Find out how to share your research outputs effectively and responsibly, for improved impact, access and collaboration.
+Find out how to share your research outputs effectively and responsibly, for improved impact, access and collaboration
 {: .fs-6 .fw-300 }
 
 ---

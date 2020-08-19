@@ -8,7 +8,7 @@ nav_order: 3
 # Acknowledgements
 {: .fs-9 }
 
-We are grateful to the following open resources for inspiration and shared documentation used to develop this repository.
+We are grateful to the following resources for inspiration and shared documentation used to develop this repository.
 {: .fs-6 .fw-300 }
 
 ---
@@ -19,4 +19,6 @@ Other resources have also been developed following example materials developed b
 
 `The Turing Way Community, Becky Arnold, Louise Bowler, Sarah Gibson, Patricia Herterich, Rosie Higman, … Kirstie Whitaker. (2019, March 25). The Turing Way: A Handbook for Reproducible Data Science. Zenodo http://doi.org/10.5281/zenodo.3233853.`
 
-<mark>Also acknowledge TU Delft Data Champions materials</mark>
+The Ambassadors scheme has been modelled on the [TU Delft Data Champions program](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/support/data-champions/)
+
+Figures have been created from images in the [Noun Project](https://thenounproject.com) repository, contributed by [Alice Design](https://thenounproject.com/rose-alice-design/), [DinosoftLab]((https://thenounproject.com/dinosoftlab/), [Luis Prado]((https://thenounproject.com/Luis/), [Sergey Demushkin]((https://thenounproject.com/mockturtle/), and [Thuy Nguyen]((https://thenounproject.com/milkghost/).

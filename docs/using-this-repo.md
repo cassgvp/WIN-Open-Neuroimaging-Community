@@ -8,7 +8,7 @@ nav_order: 1
 # Using this repository
 {: .fs-9 }
 
-How to use the community developed resources in this repository.
+How to use the community developed resources in this repository
 {: .fs-6 .fw-300 }
 
 ---
@@ -28,3 +28,4 @@ Working this way also provides an accessible starting point for researchers who 
 We are pleased to offer all our contributors training and support in git throughout their engagement with the project.
 
 ![xkcd-git](https://imgs.xkcd.com/comics/git.png)
+https://xkcd.com/1597/

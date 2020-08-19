@@ -1,11 +1,11 @@
 ---
-title: First Community Hack Day
+title: Community Documentation Dash
 parent: Open WIN Events
 has_children: false
 nav_order: 10
 ---
 
-We are currently planning the first (online!) community hack day.
+We are currently planning the first (online!) community documentation dash.
 
 <mark>Date TBC. Potentially 3rd week of October</mark>
 
