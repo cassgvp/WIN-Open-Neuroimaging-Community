@@ -5,7 +5,7 @@ has_children: false
 nav_order: 2
 ---
 
-# Open Analysis
+# Contributing
 {: .fs-9 }
 
 How to contribute to this repository.
@@ -13,9 +13,6 @@ How to contribute to this repository.
 
 ---
 
-
-# Contributing
-How to contribute to this material.
 
 <mark>This section needs completing</mark>
 

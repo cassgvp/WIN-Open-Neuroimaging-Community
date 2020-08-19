@@ -5,10 +5,10 @@ has_children: false
 nav_order: 3
 ---
 
-# Open Analysis
+# Acknowledgements
 {: .fs-9 }
 
-We are grateful to the following open resources for inspiration and shared documentation used to develop this repository. 
+We are grateful to the following open resources for inspiration and shared documentation used to develop this repository.
 {: .fs-6 .fw-300 }
 
 ---
