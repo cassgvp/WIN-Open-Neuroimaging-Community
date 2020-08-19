@@ -40,15 +40,9 @@ This community feeds directly into the [WIN Open Neuroimaging Project](https://w
 
 You can find out more about the WIN Open Neuroimaging Project by joining this [mailing list](https://mail.fmrib.ox.ac.uk/mailman/listinfo/win-open-imaging)
 
-### Ambassadors
-Your name and image here!
-
-<mark>Ambassadors probably get an additional bio, like https://github.com/alan-turing-institute/the-turing-way/blob/master/contributors.md. with picture and links. Think about how it is going to grow and be managable code to maintain. Might like to reuse bits from [OSR speakers pages](https://ohbm.github.io/osr2020/speakers/)
-
 ### Contributors
 Your name and image here!
 
-<mark>Using the ['all contributors'](https://github.com/all-contributors/all-contributors) tool and design.
 
 ## What do we need?
 
