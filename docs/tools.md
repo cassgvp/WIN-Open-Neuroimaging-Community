@@ -11,8 +11,9 @@ How to use WIN infrastructure to share each stage of your research process.
 {: .fs-6 .fw-300 }
 
 ---
-<mark> TBC </mark>
+
+![tools](docs/img/img-onwg.png)
 
 WIN have created a number of tools to help you share your research output effectively and openly...
 
-See the sections below or navigate on the sidebar to find out more about the tools which have been developed to support you in sharing your research outputs.
+Use the sidebar to find out more about each of the tools we have created to help you share your research outputs, and learn how to use them. 
