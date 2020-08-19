@@ -20,7 +20,7 @@ We want to ensure that every user and contributor feels welcome and included in 
 Please follow these guidelines to make sure your contributions can be easily integrated in the projects. As you start contributing to the WIN Open Neuroimaging, don't forget that your ideas are more important than perfect [pull requests](https://opensource.stackexchange.com/questions/352/what-exactly-is-a-pull-request).
 
 ## 1. Contact us
-In the first instance, we encourage you [connect with the Open WIN Community](../contact.md). Let us know that you are reading the repository and you would like to contribute! You might like to introduce yourself on the #welcome channel on our [Slack workspace](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html#open-win-slack-)! 👋
+In the first instance, we encourage you [connect with the Open WIN Community](contact.md). Let us know that you are reading the repository and you would like to contribute! You might like to introduce yourself on the #welcome channel on our [Slack workspace](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html#open-win-slack-)! 👋
 
 ## 2. Check what we're working on
 
@@ -41,4 +41,5 @@ If you are confident using git, markdown, and github pages, you are very welcome
 
 Coming soon
 {: .label .label-yellow }
+
 We will add git and contribution training materials after our first documentation dash, to be held in [October 2020](events/doc-dash-1.md)
