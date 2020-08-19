@@ -1,5 +1,5 @@
 remote_theme: pmarsceill/just-the-docs
-title: Open WIN Community
+title: Open WIN
 description: A space for the WIN Open Neuroimaging Community to build and share resources
 # Aux links for the upper right navigation
 baseurl: "/WIN-Open-Neuroimaging-Community" # the subpath of your site, e.g. /blog

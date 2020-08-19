@@ -2,13 +2,16 @@
 title: Open Data
 parent: Open WIN Tools
 has_children: false
-nav_order: 1
+nav_order: 3
 ---
 
-# WIN Open Data Repository
-How to share your data responsibly.
+# Open Data
+{: .fs-9 }
 
-<mark>To be completed</mark>
+How to share your data responsibly.
+{: .fs-6 .fw-300 }
+
+---
 
 ## Open data policy
 

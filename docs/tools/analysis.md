@@ -5,7 +5,12 @@ has_children: false
 nav_order: 4
 ---
 
-# WIN Open Tools
-How to use FSL reproducibly.
+# Open Analysis
+{: .fs-9 }
+
+How to share reproducible FSL analysis pipelines.
+{: .fs-6 .fw-300 }
+
+---
 
 <mark>To be completed</mark>

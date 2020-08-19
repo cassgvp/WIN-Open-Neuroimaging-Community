@@ -1,8 +1,16 @@
 ---
-title: License and citing this project
+title: License & citation
 parent: Home
 has_children: false
 nav_order: 4
+---
+
+# License and citing this repository
+{: .fs-9 }
+
+How to reuse and credit resources in this repository.
+{: .fs-6 .fw-300 }
+
 ---
 
 <mark> License to be agreed</mark>

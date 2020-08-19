@@ -1,8 +1,16 @@
 ---
-title: Open WIN Community Detail
+title: More information about the Community
 parent: Open WIN Community
 has_children: true
 nav_order: 2
+---
+
+# More information about the Community
+{: .fs-9 }
+
+More information about why the Community was formed, how we intend to achieve our goals, and how you can support or join us! 
+{: .fs-6 .fw-300 }
+
 ---
 
 Thank you for visiting the Open WIN Community project repository.
@@ -42,9 +50,7 @@ We intend to implement these solutions through regular co-working "hacks". These
 
 Alongside the hacks, we will develop the WIN Open Ambassadors program, where motivated individuals will be supported in sharing knowledge and sign posting their peers around open research practices and how they are implemented at WIN. The Ambassadors will be recognised for the value of their contribution, and invited to shape the policies, incentives, guiding principles and reward systems which will be devised to promote uptake of open research practices at WIN.
 
-# Why are we using Git for creating resources?
 
-We are building our resources and documenting our growth using this version controlled git repository, rendered into an accessible "book" format. Using git makes it easy to review and accept contributions and flexibly update with a full history of activity. It also provides a starting point for researchers who are unfamiliar with git to practice contributing to a repository and gain confidence using the git process. This is an essential skill in open and reproducible research, an excellent skill to have on your CV, and one which will be vital to using some parts of the WIN Open Infrastructure. We are therefore pleased to offer all our contributors training and support in git throughout their engagement with the project. You will find training and linked resources for using git in our [contributing guide](CONTRIBUTING.md).
 
 # What do we need?
 

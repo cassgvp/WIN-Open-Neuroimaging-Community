@@ -4,6 +4,16 @@ has_children: true
 nav_order: 3
 ---
 
+# Open WIN Community
+{: .fs-9 }
+
+Find out about the Open WIN Community, what were doing, and how you can be a part of this effort.
+
+{: .fs-6 .fw-300 }
+
+---
+
+
 Thank you for visiting the Open WIN Community project repository.
 
 This section is a hub to give you some information about the Open WIN Community, why the community has been officially formed and recognised, and what we hope to achieve.

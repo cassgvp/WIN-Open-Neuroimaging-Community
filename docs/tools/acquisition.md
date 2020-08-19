@@ -2,10 +2,15 @@
 title: Open Acquisition
 parent: Open WIN Tools
 has_children: false
-nav_order: 3
+nav_order: 1
 ---
 
-# WIN Open Protocols
+# Open Acquisition
+{: .fs-9 }
+
 How to share your magnetic resonance imaging acquisition sequences.
+{: .fs-6 .fw-300 }
+
+---
 
 <mark>To be completed</mark>

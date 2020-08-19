@@ -5,6 +5,17 @@ has_children: true
 nav_order: 2
 ---
 
+
+# Who is "The Community?!"
+{: .fs-9 }
+
+Find out who is already a member of the Open WIN Community, and where we sit in the wider WIN context.
+
+{: .fs-6 .fw-300 }
+
+---
+
+
 # Who are we?
 
 <mark>to be completed, maybe with some diagrams</mark>

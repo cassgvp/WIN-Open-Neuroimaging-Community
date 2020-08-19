@@ -5,6 +5,14 @@ has_children: false
 nav_order: 2
 ---
 
+# Code of Conduct
+{: .fs-9 }
+
+How Open WIN Community members are expected to work, communicate and interact with each other, so we can all perform at our best. 
+{: .fs-6 .fw-300 }
+
+---
+
 ***The following Code Of Conduct was developed for use by [The Turing Way community](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). It will be amended to suit this project, with appropriate acknowledgement and accreditation as per the licence agreement. This is a draft for the WIN Open Neuroimaging Community. All references to the individual named in reporting procedures have been removed.***
 
 # Code of Conduct
