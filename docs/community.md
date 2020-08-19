@@ -8,7 +8,6 @@ nav_order: 3
 {: .fs-9 }
 
 Find out about the Open WIN Community, what were doing, and how you can be a part of this effort.
-
 {: .fs-6 .fw-300 }
 
 ---
