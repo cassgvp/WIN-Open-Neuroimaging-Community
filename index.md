@@ -19,13 +19,13 @@ This repository is the hub for information on how to employ open research practi
 
 The material shared here is written and maintained by an active community of WIN researchers, and is intended to support all WIN members in using the sharing infrastructure created by the [WIN Open Neuroimaging Project](https://www.win.ox.ac.uk/open-neuroimaging)
 
-[Tools for sharing research outputs](tools.html){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }
+[Tools for sharing research outputs](docs/tools.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }
 
-[Find out about the Open WIN Community](community.html){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
+[Find out about the Open WIN Community](docs/community.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
 
-[Find out about the Open WIN Ambassadors](abmassadors.html){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
+[Find out about the Open WIN Ambassadors](docs/abmassadors.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
 
-[Find out about Open WIN Events](events.html){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
+[Find out about Open WIN Events](docs/events.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
 
 
 ---
