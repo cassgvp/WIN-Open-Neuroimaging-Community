@@ -8,7 +8,7 @@ nav_order: 2
 # More information about the Community
 {: .fs-9 }
 
-More information about why the Community was formed, how we intend to achieve our goals, and how you can support or join us! 
+More information about why the Community was formed, how we intend to achieve our goals, and how you can support or join us!
 {: .fs-6 .fw-300 }
 
 ---
@@ -59,13 +59,7 @@ Alongside the hacks, we will develop the WIN Open Ambassadors program, where mot
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](/docs/CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
 
-## Contact us
 
-<mark>To be completed</mark>
-
-If you want to report a problem or suggest an enhancement we'd love for you to ... [open an issue](../../issues) at the project this GitHub repository because then we can get right on it. But you can also contact ...
-
-You can also hang out, ask questions and share stories in the slack ...
 
 <!-- ## Find out more
 
