@@ -1,7 +1,7 @@
 ---
 title: Open WIN Community
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 
 Thank you for visiting the Open WIN Community project repository.

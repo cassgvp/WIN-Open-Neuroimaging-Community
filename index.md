@@ -21,11 +21,11 @@ The material shared here is written and maintained by an active community of WIN
 
 [Tools for sharing research outputs](docs/tools.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }
 
-[Find out about the Open WIN Community](docs/community.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
+[Open WIN Community](docs/community.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
 
-[Find out about the Open WIN Ambassadors](docs/abmassadors.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
+[Open WIN Ambassadors](docs/abmassadors.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
 
-[Find out about Open WIN Events](docs/events.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
+[Open WIN Events](docs/events.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
 
 
 ---
