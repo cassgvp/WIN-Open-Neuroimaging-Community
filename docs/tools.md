@@ -12,7 +12,7 @@ How to use WIN infrastructure to share each stage of your research outputs
 
 ---
 
-![tools](img/img-onwg-h250.png)
+![tools](img/img-tools.png)
 
 WIN have created a number of tools to help you share your research output effectively and openly. In some cases these have been built using infrastructure. In most cases, however, it has been necessary to design custom databases and software solutions to suite our specific needs.
 
