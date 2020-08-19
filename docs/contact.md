@@ -13,7 +13,9 @@ Connect with us via any of the means below depending on  your preference and int
 
 ---
 
-## Open WIN Mailing List ![mail-list](img/icon-maillist.png =100x)
+![mail-list](./img/icon-maillist.png =100x)
+
+## Open WIN Mailing List
 
 Anyone interested in this community or resource can join the [WIN Open Neuroimaging mailing list](https://mail.fmrib.ox.ac.uk/mailman/listinfo/win-open-imaging). This is open to both WIN members and external email addresses. This mailing list is used for open distribution of information. We will also email round-ups of the discussion happening on the [Slack](#Open-WIN-Slack)
 
@@ -34,7 +36,7 @@ Note the above invite link will accept email addresses from any of the Universit
 - psych.ox.ac.uk
 - win.ox.ac.uk
 
-## Comment on the GitHub repository ![github](img/icon-github.png =100x)
+## Comment on the GitHub repository ![github](/docs/img/icon-github.png =100x)
 
 If you want to report a problem or suggest an enhancement for this repository, we'd love for you to [open an issue](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/issues) on out GitHub page.
 
