@@ -15,12 +15,12 @@ How to reuse and credit resources in this repository
 
 The materials contained within this repository are distributed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/legalcode).
 
-You are free to:
-- Share: copy and redistribute the material in any medium or format
-- Adapt: remix, transform, and build upon the material for any purpose, even commercially.
+**You are free to**:
+- **Share**: copy and redistribute the material in any medium or format.
+- **Adapt**: remix, transform, and build upon the material for any purpose, even commercially.
 
-As long as you:
-- Attribute:  must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+**As long as you**:
+- **Attribute**:  must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
 
 # How to cite this project
 
