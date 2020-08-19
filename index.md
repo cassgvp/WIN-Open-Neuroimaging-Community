@@ -23,7 +23,13 @@ The material shared here is written and maintained by an active community of WIN
 
 Jump straight into one of the sections below, or use the sidebar to find out more about this repository.
 
+[![tools](docs/img/btn-tools.png)](docs/tools.md)
+
+
+
+
 [Open WIN Tools](docs/tools.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }
+
 Learn how to share your research outputs
 
 [Open WIN Community](docs/community.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
