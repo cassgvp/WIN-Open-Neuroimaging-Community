@@ -6,7 +6,7 @@ description: "Summary: Find out who we are, our aims for the community and how t
 has_children: true
 ---
 
-![WIN-logo](docs/img/WIN-h100.png)
+<!-- ![WIN-logo](docs/img/WIN-h100.png) -->
 
 
 
