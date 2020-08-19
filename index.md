@@ -22,7 +22,7 @@ This repository is the hub for information on how to employ open research practi
 
 The material shared here is written and maintained by an active community of WIN researchers, and is intended to support all WIN members in using the sharing infrastructure created by the [WIN Open Neuroimaging Project](https://www.win.ox.ac.uk/open-neuroimaging).
 
-Jump straight into one of the sections below, or use the sidebar to find out more about this repository.
+**Jump straight into one of the sections below, or use the sidebar to find out more about this repository.**
 
 [![tools](docs/img/btn-tools.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools.html)  [![community](docs/img/btn-community.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/community.html)  [![ambassadors](docs/img/btn-ambass.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/ambassadors.html)  [![events](docs/img/btn-events.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/events.html)
 

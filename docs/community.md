@@ -10,7 +10,7 @@ nav_order: 3
 Find out about the Open WIN Community, what were doing, and how you can be a part of this effort.
 {: .fs-6 .fw-300 }
 
-![WIN-logo](docs/img/img-people.png)
+![people](img/img-people.png)
 
 ---
 

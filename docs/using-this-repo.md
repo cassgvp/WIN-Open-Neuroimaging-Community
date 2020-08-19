@@ -13,10 +13,16 @@ How to use the community developed resources in this repository.
 
 ---
 
-This repository exists to facilitate rapid and user-centred dissemination of information to members of the Open WIN Community and those looking to engage...
+This repository exists to facilitate rapid, user-centred dissemination of information to members of the Open WIN Community and those looking to employ open research practices at WIN.
 
 Use the sidebar to find essential information on how to cite and contribute to the repository, along with our thanks to those who have helped to develop it.
 
 # Why are we using Git for creating resources?
 
-We are building our resources and documenting our growth using this version controlled git repository, rendered into an accessible "book" format. Using git makes it easy to review and accept contributions and flexibly update with a full history of activity. It also provides a starting point for researchers who are unfamiliar with git to practice contributing to a repository and gain confidence using the git process. This is an essential skill in open and reproducible research, an excellent skill to have on your CV, and one which will be vital to using some parts of the WIN Open Infrastructure. We are therefore pleased to offer all our contributors training and support in git throughout their engagement with the project. You will find training and linked resources for using git in our [contributing guide](CONTRIBUTING.md).
+This repository and the resources contained within it are built using a [version controlled git repository](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community), rendered into an accessible "book" format.
+
+Using git makes it easy to review and accept contributions and flexibly update our resources with a full history of activity.
+
+Working this way also provides an accessible starting point for researchers who are unfamiliar with git to practice contributing to a repository and gain confidence using the git process. Using git is essential in open and reproducible research and an excellent skill to have on your CV.
+
+We are pleased to offer all our contributors training and support in git throughout their engagement with the project. You will also find linked resources for using git in our [contributing guide](CONTRIBUTING.md).
