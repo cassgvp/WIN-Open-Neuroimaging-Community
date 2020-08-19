@@ -6,7 +6,7 @@ description: "Summary: Find out who we are, our aims for the community and how t
 has_children: true
 ---
 
-![WIN-logo](docs/img/WIN-h150.png)
+![WIN-logo](docs/img/WIN-h150-long.png)
 
 
 # Open Research at WIN
@@ -23,7 +23,7 @@ The material shared here is written and maintained by an active community of WIN
 
 Jump straight into one of the sections below, or use the sidebar to find out more about this repository.
 
-[![tools](docs/img/btn-tools.png)](docs/tools.md)
+[![tools](docs/img/btn-tools.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools.html)
 
 
 
