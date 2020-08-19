@@ -2,13 +2,13 @@
 title: Code of Conduct
 parent: Open WIN Community
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 # Code of Conduct
 {: .fs-9 }
 
-How Open WIN Community members are expected to work, communicate and interact with each other, so we can all perform at our best. 
+How Open WIN Community members are expected to work, communicate and interact with each other, so we can all perform at our best.
 {: .fs-6 .fw-300 }
 
 ---

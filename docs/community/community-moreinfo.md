@@ -2,7 +2,7 @@
 title: More information about the Community
 parent: Open WIN Community
 has_children: true
-nav_order: 2
+nav_order: 3
 ---
 
 # More information about the Community
