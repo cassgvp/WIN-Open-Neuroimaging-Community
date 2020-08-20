@@ -27,4 +27,4 @@ The materials contained within this repository are distributed under [CC-BY-4.0]
 Coming soon
 {: .label .label-yellow }
 
-A citable doi for this repository will be created using [Zenodo](https://zenodo.org). Please check back for a complete citation, including contributing authors.
+A citable digital object identifier (DOI) for this repository will be created using [Zenodo](https://zenodo.org). Please check back for a complete citation, including contributing authors.

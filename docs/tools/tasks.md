@@ -33,3 +33,4 @@ Coming soon
 Detailed guidance on how to use the Open Tasks repository will be produced during one of our [documentation dashes](../events/doc-dash-1.md)
 
 ## Working group members
+- [Laurence Hunt](https://www.win.ox.ac.uk/people/laurence-hunt)

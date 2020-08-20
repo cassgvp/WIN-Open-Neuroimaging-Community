@@ -25,7 +25,7 @@ The acquisition database is version controlled, so WIN members are invited to up
 Versions (with minor and major edits) can be assigned a digital object identified (DOI) using the [Oxford Research Archive (ORA) Data repository](https://deposit.ora.ox.ac.uk) using the stable link provided by the acquisition database. Once a DOI has been created, your acquisition protocol becomes a citable object which you can add to your list of research outputs.
 
 ## Access
-Access the Open Acquisition Database (requires a connection to the [FMRIB VPN](https://sharepoint.nexus.ox.ac.uk/sites/NDCN/FMRIB/IT/User%20Guides/VPN.aspx))
+Access the [Open Acquisition Database](https://open.win.ox.ac.uk/protocols/) (requires a connection to the [FMRIB VPN](https://sharepoint.nexus.ox.ac.uk/sites/NDCN/FMRIB/IT/User%20Guides/VPN.aspx))
 
 ## How to use
 Coming soon
