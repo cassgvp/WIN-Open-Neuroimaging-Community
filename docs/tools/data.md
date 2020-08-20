@@ -11,13 +11,17 @@ nav_order: 4
 How to share your data responsibly
 {: .fs-6 .fw-300 }
 
-![open-data](../img/img-open-data.png)
-
 ---
+
+![open-data](../img/img-open-data-flow.png)
 
 ## Purpose
 
-We will develop a searchable, user friendly database to store MRI, EEG and MEG scan data directly from the scanners.  The database will also have the capability to store other research data alongside the scans to create a research dataset.  Image conversion tools will be integrated into the database to convert raw image files to standard formats.  The database will have the capability to share data at PI group level, WIN level and externally at the control of the PI.  Shared research datasets will be able to be combined to create new research datasets.
+the Opebn Data Wroking Group has built a searchable, user friendly database to store MRI, EEG and MEG scan data directly from the scanners.  The database also has the capability to store other research data alongside the scans to create a research dataset.  Image conversion tools are be integrated into the database to convert raw image files to standard formats and file structures.   
+
+The database has the capability to share data at PI group level, WIN level and externally at the control of the PI. Before data can be shared, it will be checked against a list of defined criteria
+
+Shared research datasets will be able to be combined to create new research datasets.
 
 
 
@@ -42,3 +46,5 @@ Coming soon
 {: .label .label-yellow }
 
 ## Working group members (alphabetically)
+Coming soon
+{: .label .label-yellow }

@@ -21,7 +21,6 @@ This page is a hub to give you some information about the Community and our Open
 * [What are we doing?](#what-are-we-doing)
 * [Why are we doing it?](#why-are-we-doing-it)
 * [How will we achieve our goals?](#How-will-we-achieve-our-goals)
-* [Why are we using Git for creating resources](#Why-are-we-using-Git-for-creating-resources)
 * [Get in touch](#contact-us)
 * [Find out more](#find-out-more)
 <!-- * [Understand the jargon](#glossary) -->

@@ -13,9 +13,9 @@ nav_order: 3
 How to share reproducible FSL analysis pipelines
 {: .fs-6 .fw-300 }
 
-![open-analysis](../img/img-open-anal.png)
-
 ---
+
+![open-analysis](../img/img-open-anal-flow.png)
 
 ## Purpose
 

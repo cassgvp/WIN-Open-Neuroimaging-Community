@@ -12,9 +12,9 @@ nav_order: 1
 How to share your magnetic resonance imaging acquisition sequences
 {: .fs-6 .fw-300 }
 
-![open-acquisition](../img/img-open-acq.png)
-
 ---
+
+![open-acquisition](../img/img-open-acq-flow.png)
 
 ## Purpose
 

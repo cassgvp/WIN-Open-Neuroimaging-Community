@@ -12,9 +12,9 @@ nav_order: 2
 How to share your experimental tasks
 {: .fs-6 .fw-300 }
 
-![open-tasks](../img/img-open-tasks.png)
-
 ---
+
+![open-tasks](../img/img-open-tasks-flow.png)
 
 ## Purpose
 The Open Tasks working group aims to encourage and incentivise researchers designing experimental paradigms for functional neuroimaging to share these paradigms freely with other researchers. They have established online repository for these paradigms to be shared, alongside documentation and analysis scripts for behavioural results. This working group also aims to train new members of the centre in open-source coding languages for paradigm development.
