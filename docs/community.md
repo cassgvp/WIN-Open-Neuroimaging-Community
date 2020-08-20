@@ -20,13 +20,16 @@ We are a community built from around 250 members of the University of Oxford Wel
 
 We area committed to supporting transparent and reproducible research practices within WIN, to improve the efficiency and accuracy of our research, and contribute to an equitable, diverse and inclusive research environment.
 
+**See the sections below or navigate using the sidebar to find out more about the Open WIN Community.**
+
 ## Join the community
 
-<mark>to be completed, with nice graphics etc.</mark>
-You can join the Open WIN Community through any of the channels below:
+If you are interested in learning more about open research, incorporating open research practices in your research, or developing resources to make open research at WIN easier and well incentivised, you should be  member of our community!
 
-- Join our slack channel
-- Join our mailing list
-- Contact the Community Engagement Co-ordinator by email.
+👋 Subscribe to the [Open WIN mailing list](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html#open-win-mailing-list-) to find out about events and resources as they are shared.
 
-See the sections below or navigate on the sidebar to find out more about the Open WIN Community.
+👋 Say "hello" on our [Slack workspace](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html#open-win-slack-) to follow and contribute to discussions about the [Open WIN Tools](tools.md), [events](events.md) or plans for the community.
+
+👋 [Comment on this GitHub repository](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html#comment-on-the-github-repository-), add an issue or submit a pull request to suggest changes to this documentation.
+
+👋 [Email the Open WIN Community Coordinator](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html#email-the-open-win-community-coordinator-directly-) to introduce yourself, or ask a question about any aspect of this repository or the work of the Open WIN Community or Working Groups.
