@@ -22,14 +22,16 @@ The Open Acquisition working group have developed a database for scanner protoco
 
 Each deposited protocol contains all information necessary to reproduce that sequence on an appropriately licensed scanner, allowing yourself and others to have a permanent and full record of your data acquisition methodology.
 
+[For WIN members](#For-WIN-members){: .btn .btn-primary .fs-4 .mb-4 .mb-md-0 .mr-2 } [For external users](#For-external-users){: .btn .btn-primary .fs-4 .mb-4 .mb-md-0 .mr-2 }
+
 ### For WIN members
-#### Version control
+#### Version control ![version-control](../img/icon-version-control.png)
 The acquisition database is version controlled, so WIN members are invited to upload their protocols during pilotting to keep track of optimisation and final versions. Comments and notes can be added to each entry to you can keep well structured documentation about why certain decisions were made. You can also link database entries with acquired data held on the [Open Data](data.md) server
 
-#### Citable research output
+#### Citable research output ![doi](../img/icon-doi.png)
 Versions (with minor and major edits) can be assigned a digital object identified (DOI) using the [Oxford Research Archive (ORA) Data repository](https://deposit.ora.ox.ac.uk) using the stable link provided by the acquisition database. Once a DOI has been created, your acquisition protocol becomes a citable object which you can add to your list of research outputs.
 
-#### Reproducible methods detail
+#### Reproducible methods detail ![reproduce](../img/icon-reproduce.png)
 Depositing your acquisition protocol in the database is as simple as uploading the sequence pdf available from the scanner console, or alternatively you can upload the .exar file used by our [Siemens scanners](https://www.win.ox.ac.uk/about/facilities). All sequence detail is captured from either document, and parsed into a unified machine readable and searchable format. You can upload a single sequence, or all sequences used in a single imaging session (a protocol) together.
 
 ### For external users
