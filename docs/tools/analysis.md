@@ -23,8 +23,16 @@ The Open Analysis Working Group has worked with researchers to capture details o
 
 International community data standards - specifically the [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io) - have been employed to ensure that shared pipelines are compatible with tools developed elsewhere. This working group is also committed to actively engaging with the future development of BIDS, to ensure lifetime compatibility between FSL and the wide data standards.
 
-## Usage
+[![For WIN members](../img/btn-win.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-win-members)      [![For external researchers](../img/btn-external.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-external-researchers)
+
 ### For WIN members
+#### Version control ![version-control](../img/icon-version-control.png)
+
+
+#### Citable research output ![doi](../img/icon-doi.png)
+
+
+#### Reproducible methods detail ![reproduce](../img/icon-reproduce.png)
 
 Coming soon
 {: .label .label-yellow }

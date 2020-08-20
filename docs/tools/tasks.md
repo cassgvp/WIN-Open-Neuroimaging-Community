@@ -21,8 +21,6 @@ The Open Tasks working group aims to encourage and incentivise researchers desig
 
 [![For WIN members](../img/btn-win.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-win-members)      [![For external researchers](../img/btn-external.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-external-researchers)
 
-**External users will be able to search the repository for experimental tasks which individual research teams have chosen to make openly available**. Searches may be conducted using keyword terms based on the author, theoretical application, or stimulus type.
-
 ### For WIN members
 #### Version control ![version-control](../img/icon-version-control.png)
 The Open Tasks repository is maintained in the WIN GitLab server. WIN members are invited to deposit their task code and materials when they are using a stable version, by cloning from their own GitLab or GitHub repository. This implies that WIN members will be using a git process when developing their task, and as such their development journey will be version controlled.
