@@ -22,7 +22,7 @@ The Open Acquisition working group have developed a database for scanner protoco
 
 Each deposited protocol contains all information necessary to reproduce that sequence on an appropriately licensed scanner, allowing yourself and others to have a permanent and full record of your data acquisition methodology.
 
-[For WIN members](#For-WIN-members){: .btn .btn-primary .fs-4 .mb-4 .mb-md-0 .mr-2 } [For external users](#For-external-users){: .btn .btn-primary .fs-4 .mb-4 .mb-md-0 .mr-2 }
+[![For WIN members](../img/btn-win.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-win-members) [![For external researchers](../img/btn-external.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-external-researchers) 
 
 ### For WIN members
 #### Version control ![version-control](../img/icon-version-control.png)
@@ -34,7 +34,7 @@ Versions (with minor and major edits) can be assigned a digital object identifie
 #### Reproducible methods detail ![reproduce](../img/icon-reproduce.png)
 Depositing your acquisition protocol in the database is as simple as uploading the sequence pdf available from the scanner console, or alternatively you can upload the .exar file used by our [Siemens scanners](https://www.win.ox.ac.uk/about/facilities). All sequence detail is captured from either document, and parsed into a unified machine readable and searchable format. You can upload a single sequence, or all sequences used in a single imaging session (a protocol) together.
 
-### For external users
+### For external researchers
 External users will be able to search the database for acquisition protocols which individual research teams have chosen to make openly available. These may be deposited to support publications as supplementary methods material, or they may form the main body of research in acquisition sequence development.
 
 Both internal and external users can search the database using keyword terms based on anatomy, the imaging system, sequence types, or the theoretical application.
