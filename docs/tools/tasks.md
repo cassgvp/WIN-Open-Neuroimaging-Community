@@ -19,9 +19,9 @@ How to share your experimental tasks
 ## Purpose
 The Open Tasks working group aims to encourage and incentivise researchers designing experimental tasks for functional neuroimaging to share these tasks openly with other researchers. They have established online repository for these paradigms to be shared, alongside documentation and analysis scripts for behavioural results. This working group also aims to train new members of the centre in open-source coding languages for paradigm development, and sharing reproducible environments.
 
-[![For WIN members](../img/btn-win.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-win-members)      [![For external researchers](../img/btn-external.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-external-researchers)
+[![For WIN members](../img/btn-win.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/tasks.html#for-win-members)      [![For external researchers](../img/btn-external.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/tasks.html#for-external-researchers)
 
-### For WIN members
+## For WIN members
 #### Version control ![version-control](../img/icon-version-control.png)
 The Open Tasks repository is maintained in the WIN GitLab server. WIN members are invited to deposit their task code and materials when they are using a stable version, by cloning from their own GitLab or GitHub repository. This implies that WIN members will be using a git process when developing their task, and as such their development journey will be version controlled.
 
@@ -32,7 +32,7 @@ Versions of task materials can be assigned a digital object identified (DOI) usi
 WIN members will be supported in developing the necessary and sufficient documentation and running environments to enable others to launch, maintain and adapting their tasks. This facilitates effective re-use and modification of tasks within a research group, and with external collaborators.
 
 
-### For external researchers
+## For external researchers
 External users will be able to search the repository for experimental tasks which individual research teams have chosen to make openly available. Searches may be conducted using keyword terms based on the author, theoretical application, or stimulus type. Task materials may be deposited to support publications as supplementary methods material, or they may form the main body of research in new task development.
 
 ## How to use

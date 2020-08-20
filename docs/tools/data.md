@@ -29,7 +29,7 @@ Shared research datasets will be able to be combined to create new research data
 International community data standards - specifically the [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io) - have been employed to ensure that shared pipelines are compatible with tools developed elsewhere. This working group is also committed to actively engaging with the future development of BIDS, to ensure lifetime compatibility between FSL and the wide data standards.
 
 ## Usage
-### For WIN members
+## For WIN members
 Coming soon
 {: .label .label-yellow }
 

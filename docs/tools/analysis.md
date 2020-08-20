@@ -19,13 +19,15 @@ How to share reproducible FSL analysis pipelines
 
 ## Purpose
 
-The Open Analysis Working Group has worked with researchers to capture details of the magnetic resonance imaging (MRI) tools that they use in data processing. WIN is the developmental home to the popular [FMRIB Software Library (FSL)](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/) analysis package, and this is the tool of choice for most of our researchers. The Working Group has devised a  processes which researchers can lot into their normal FSL usage to ensure their analysis is reproducible and can be easily shared with others.
+The Open Analysis Working Group has worked with researchers to capture details of the magnetic resonance imaging (MRI) tools that they use in data processing. WIN is the developmental home of the popular [FMRIB Software Library (FSL)](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/) analysis package, which has been free to all users since its inception. Accordingly FSL this is the tool of choice for most of our researchers. The Working Group has devised a processes which researchers can slot into their normal FSL usage to ensure their analysis is reproducible and can be easily shared with others.
 
 International community data standards - specifically the [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io) - have been employed to ensure that shared pipelines are compatible with tools developed elsewhere. This working group is also committed to actively engaging with the future development of BIDS, to ensure lifetime compatibility between FSL and the wide data standards.
 
+Another large focus of this working group is in programming literacy, to support users in creating robust code to run their analysis. Significant efforts have been made to update the FSL training material, which is now available
+
 [![For WIN members](../img/btn-win.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-win-members)      [![For external researchers](../img/btn-external.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-external-researchers)
 
-### For WIN members
+## For WIN members
 #### Version control ![version-control](../img/icon-version-control.png)
 
 
