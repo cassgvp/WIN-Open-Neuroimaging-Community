@@ -5,6 +5,8 @@ has_children: false
 nav_order: 3
 ---
 
+![open-analysis](img/img-open-anal.png)
+
 # Open Analysis
 {: .fs-9 }
 

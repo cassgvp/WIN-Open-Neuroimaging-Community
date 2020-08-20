@@ -4,6 +4,7 @@ parent: Open WIN Tools
 has_children: false
 nav_order: 1
 ---
+![open-acquisition](img/img-open-acq.png)
 
 # Open Acquisition
 {: .fs-9 }

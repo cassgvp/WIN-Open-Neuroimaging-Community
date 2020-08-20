@@ -5,6 +5,8 @@ has_children: false
 nav_order: 4
 ---
 
+![open-data](img/img-open-data.png)
+
 # Open Data
 {: .fs-9 }
 

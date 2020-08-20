@@ -4,6 +4,7 @@ parent: Open WIN Tools
 has_children: false
 nav_order: 2
 ---
+![open-tasks](img/img-open-tasks.png)
 
 # Open Tasks
 {: .fs-9 }
