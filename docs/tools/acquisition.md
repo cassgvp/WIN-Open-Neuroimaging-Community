@@ -51,6 +51,7 @@ Detailed guidance on how to use the Open Acquisition database will be produced d
 ## Working group members (alphabetically)
 We are grateful to the following WIN members for their contributions to developing the Open Acquisition database
 - [Jon Campbell](https://www.win.ox.ac.uk/people/jon-campbell)
+- [Stuart Clare](https://www.win.ox.ac.uk/people/stuart-clare)
 - [Geoff Ferrari](https://www.linkedin.com/in/geoffrey-ferrari-a96871b2/?originalSubdomain=uk)
 - [Dave Flitney](https://www.win.ox.ac.uk/people/david-flitney)
 - [Gary Gibbs](https://www.linkedin.com/in/gary-gibbs-36a78541/?originalSubdomain=uk)

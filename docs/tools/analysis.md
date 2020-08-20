@@ -21,8 +21,10 @@ How to share reproducible FSL analysis pipelines
 
 The Open Analysis Working Group has worked with researchers to capture details of the magnetic resonance imaging (MRI) tools that they use in data processing. WIN is the developmental home of the popular [FMRIB Software Library (FSL)](https://fsl.fmrib.ox.ac.uk/fsl/fslwiki/) MRI analysis package, which has been free to all users since its inception. FSL this is the tool of choice for most WIN researchers. The Working Group has devised a processes which researchers can slot into their normal FSL usage to ensure their analysis is reproducible and can be easily shared with others.
 
+### Data standards for interoperable code
 International community data standards - specifically the [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io) - have been employed to ensure that shared pipelines are compatible with tools developed elsewhere. This working group is also committed to actively engaging with the future development of BIDS, to ensure lifetime compatibility between FSL and the wide data standards.
 
+### Education
 Another large focus of this working group is developing programming literacy among WIN members, to support users in creating robust code to run their analysis. Significant efforts have been made to update the [FSL training material](https://fsl.fmrib.ox.ac.uk/fslcourse/), which is now available for free both internally and externally, and has been updated to include basic training in Unix command line access. The FSL course is being run remotely and at reduced registration rates for the first time in 2020, for improved accessibility and inclusivity.
 
 [![For WIN members](../img/btn-win.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/analysis.html#for-win-members)      [![For external researchers](../img/btn-external.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/analysis.html#for-external-researchers)
@@ -51,12 +53,12 @@ External users will be able to access the shared code and singularity containers
 Coming soon
 {: .label .label-yellow }
 
-Detailed guidance on how to use the Open Analysis process will be produced during one of our [documentation dashes](../events/doc-dash-1.md)
+Detailed guidance on how to use the Open Analysis tools will be produced during one of our [documentation dashes](../events/doc-dash-1.md)
 
 ## Working group members (alphabetically)
-We are grateful to the following WIN members for their contributions to developing the Open Acquisition database
-
-## Working group members (alphabetically)
+We are grateful to the following WIN members for their contributions to developing the Open Analysis tools
 - [Taylor Hanayik](https://www.win.ox.ac.uk/people/taylor-hanayik)
 - [Mark Jenkinson](https://www.win.ox.ac.uk/people/mark-jenkinson)
+- Paul McCarthy
+- [Andrew Quinn](https://www.win.ox.ac.uk/people/andrew-quinn)
 - [Matthew Webster](https://www.win.ox.ac.uk/people/matthew-webster)
