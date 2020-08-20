@@ -1,7 +1,7 @@
 ---
 title: Who Are We
 parent: Open WIN Community
-has_children: true
+has_children: false
 nav_order: 1
 ---
 
