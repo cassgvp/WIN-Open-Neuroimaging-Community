@@ -33,7 +33,7 @@ International community data standards - specifically the [Brain Imaging Data St
 Coming soon
 {: .label .label-yellow }
 
-### For external users
+## For external researchers
 Coming soon
 {: .label .label-yellow }
 
