@@ -22,7 +22,7 @@ The Open Acquisition working group have developed a database for scanner protoco
 
 Each deposited protocol contains all information necessary to reproduce that sequence on an appropriately licensed scanner, allowing yourself and others to have a permanent and full record of your data acquisition methodology.
 
-[![For WIN members](../img/btn-win.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-win-members) [![For external researchers](../img/btn-external.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-external-researchers) 
+[![For WIN members](../img/btn-win.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-win-members)      [![For external researchers](../img/btn-external.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/acquisition.html#for-external-researchers) 
 
 ### For WIN members
 #### Version control ![version-control](../img/icon-version-control.png)
