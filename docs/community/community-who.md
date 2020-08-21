@@ -19,11 +19,11 @@ Find out who is already a member of the Open WIN Community, and where we sit in 
 
 # Who are we?
 
-We are a community built from around 250 members of the University of Oxford [Wellcome Centre for Integrative Neuroimaging (WIN)](https://www.win.ox.ac.uk). We welcome students, researchers, [core staff](https://www.win.ox.ac.uk/about/core-staff) and faculty, and anyone in between!
+We are a community built from around 250 members of the University of Oxford [Wellcome Centre for Integrative Neuroimaging (WIN)](https://www.win.ox.ac.uk). We welcome students, researchers, [core staff](https://www.win.ox.ac.uk/about/core-staff), faculty, and anyone in between!
 
-We were formed to facilitate the dissemination of knowledge and experience from the developers of the Open WIN Tools into the hands of the WIN Members who will make use of them. In doing so, we are well placed to inform the policy and incentives around the implementation of open research practices at WIN.
+We were formed to facilitate the dissemination of knowledge and experience from the developers of the Open WIN Tools into the hands of the WIN Members who will make use of them. We are interested in the development of open research practices in our discipline, and informing the policy and incentives around the implementation of open research at WIN.
 
-Anyone can join and contribute to this community with any level of commitment which is appropriate for them. You are free to dip in-and-out when you have capacity to engage, and you will always be welcomed into the discussion.
+Anyone can join and contribute to this community, with any level of commitment. You are free to dip in-and-out when you have capacity to engage, and you will always be welcomed into the discussion. We welcome peripheral contributions such as minor edits to documentation, all the way through to leadership of the community. Find out more about this in our [Mountain of Engagement](mountain-of-engagement.md) community model.
 
 ## Contributors
 
