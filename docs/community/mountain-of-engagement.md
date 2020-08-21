@@ -2,14 +2,14 @@
 title: Mountain of Engagement
 parent: Open WIN Community
 has_children: false
-nav_order: 1
+nav_order: 5
 ---
 
 
 # Mountain of Engagement"
 {: .fs-9 }
 
-Learn about how we aim to work with community members to help them reach the level of participation which it right for them.
+Learn about how we aim to work with community members to help them reach the level of participation which it right for them
 {: .fs-6 .fw-300 }
 
 ---

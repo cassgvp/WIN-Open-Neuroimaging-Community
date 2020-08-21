@@ -9,15 +9,18 @@ nav_order: 1
 # Who is "The Community?!"
 {: .fs-9 }
 
-Find out who is already a member of the Open WIN Community, and where we sit in the wider WIN context.
+Find out who we are and where we sit in the wider WIN context.
 {: .fs-6 .fw-300 }
 
 ---
 
 ![community-schematic](../img/img-community-schematic-h400-gold.png)
 
-
 # Who are we?
+
+* [Community members](#Community-members)
+* [Community Coordinator](#Community-Coordinator---Cassandra-Gould-van-Praag-(she/her))
+* [WIN Open Neuroimaging Working Group](#WIN-Open-Neuroimaging-Working-Group)
 
 We are a community built from around 250 members of the University of Oxford [Wellcome Centre for Integrative Neuroimaging (WIN)](https://www.win.ox.ac.uk). We welcome students, researchers, [core staff](https://www.win.ox.ac.uk/about/core-staff), faculty, and anyone in between!
 
@@ -25,9 +28,9 @@ We were formed to facilitate the dissemination of knowledge and experience from 
 
 Anyone can join and contribute to this community, with any level of commitment. You are free to dip in-and-out when you have capacity to engage, and you will always be welcomed into the discussion. We welcome peripheral contributions such as minor edits to documentation, all the way through to leadership of the community. Find out more about this in our [Mountain of Engagement](mountain-of-engagement.md) community model.
 
-## Contributors
+## Community members
 
-Community members who made a contribution to this resource are shown below.
+Community members are shown below.  
 
 Coming soon
 {: .label .label-yellow }

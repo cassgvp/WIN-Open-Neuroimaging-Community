@@ -17,7 +17,7 @@ How to share your data responsibly
 
 ## Purpose
 
-The Open Data Working Group has built a searchable, user friendly database to store MRI, EEG and MEG scan data directly from the scanners.  The database also has the capability to store other research data alongside the scans to create a research dataset.  Image conversion tools are be integrated into the database to convert raw image files to standard formats and the community standard [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io) file structures.
+The Open Data Working Group has built a searchable, user friendly [XNAT](https://www.xnat.org) database to store MRI, EEG and MEG scan data directly from the scanners.  The database also has the capability to store other research data alongside the scans to create a research dataset.  Image conversion tools are be integrated into the database to convert raw image files to standard formats and the community standard [Brain Imaging Data Structure (BIDS)](https://bids.neuroimaging.io) file structures.
 
 Data will only ever be shared when the participant has given explicit consent to open sharing. All access protocols have been developed to ensure the highest levels of security to protect against accidental or malicious data breaches.  
 
