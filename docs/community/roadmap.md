@@ -19,7 +19,7 @@ There are a number of significant turning points or events which will move the O
 
 Alongside individual tasks, we have listed below the larger milestones we have currently prioritised to move the project forwards. You are welcome to read through the whole list (🤯) or jump straight to any that interest you.
 
-* [Short term](#short-term)
+* [**Short term**](#short-term)
 	* [Milestone 1: Complete Open Leadership community documents](#milestone-1:-complete-open-leadership-community-documents)
 	* [Milestone 2: Soft launch of the community repository](#milestone-2:-soft-launch-of-the-community-repository)
 	* [Milestone 3: External presentation of community program](#milestone-3:-external-presentation-of-community-program-and-communication-of-models-for-feedback)
@@ -27,9 +27,9 @@ Alongside individual tasks, we have listed below the larger milestones we have c
 	* [Milestone 5: Launch, close and analyse WIN Open Research Survey 2020](#milestone-5:-launch,-close-and-analyse-win-open-research-survey-2020)
 	* [Milestone 6: First community hack day](#milestone-6:-first-community-hack-day)
 	* [Milestone 7: External Advisor Board meeting](#milestone-7:-external-advisor-board-meeting)
-* [Medium term](#medium-term)
+* [**Medium term**](#medium-term)
 	* [Milestone 8: Plan for sustainability and growth of community](#milestone-8:-plan-for-sustainability-and-growth-of-community)
-* [Long term](#long-term)
+* [**Long term**](#long-term)
 	* [Milestone 9: Incorporation of open practices and infrastructure use into WIN Graduate program](#milestone-9:-incorporation-of-open-practices-and-infrastructure-use-into-win-graduate-program)
 	* [Milestone 10: Communication of open research outputs and access to resources by external researchers](#milestone-10:-communication-of-open-research-outputs-and-access-to-resources-by-external-researchers)
 
