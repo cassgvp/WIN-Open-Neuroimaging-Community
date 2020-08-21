@@ -42,7 +42,7 @@ Access the Open Tasks repository via the [WIN Open Science GitLab group](https:/
 Coming soon
 {: .label .label-yellow }
 
-Detailed guidance on how to use the Open Tasks repository will be produced during one of our [documentation dashes](../events/doc-dash-1.md)
+Detailed guidance on how to use the Open Tasks repository will be produced during one of our [documentation hacks](../events/doc-hack-1.md)
 
 ## Working group members (alphabetically)
 We are grateful to the following WIN members for their contributions to developing the Open Acquisition database

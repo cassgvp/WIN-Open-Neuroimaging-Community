@@ -53,7 +53,7 @@ External users will be able to access the shared code and singularity containers
 Coming soon
 {: .label .label-yellow }
 
-Detailed guidance on how to use the Open Analysis tools will be produced during one of our [documentation dashes](../events/doc-dash-1.md)
+Detailed guidance on how to use the Open Analysis tools will be produced during one of our [documentation hacks](../events/doc-hack-1.md)
 
 ## Working group members (alphabetically)
 We are grateful to the following WIN members for their contributions to developing the Open Analysis tools

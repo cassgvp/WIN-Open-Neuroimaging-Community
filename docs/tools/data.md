@@ -59,7 +59,7 @@ External users will be able to search the database for data which individual res
 Coming soon
 {: .label .label-yellow }
 
-Detailed guidance on how to use the Open Data server will be produced during one of our [documentation dashes](../events/doc-dash-1.md)
+Detailed guidance on how to use the Open Data server will be produced during one of our [documentation hacks](../events/doc-hack-1.md)
 
 ## Working group members (alphabetically)
 We are grateful to the following WIN members for their contributions to developing the Open Data server.

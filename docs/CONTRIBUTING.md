@@ -28,12 +28,12 @@ You can see the things we are working on in the [Open WIN Repository Trello boar
 
 We also invite you to review our [roadmap](community/roadmap.md) and see how we are progressing against our community milestones.
 
-## 3. Join us at a documentation dash!
-We will be holding regular "documentation dashes", where you will be guided through the process of contributing to the repository, and can participate in a git tutorial if you'd benefit from this. Take a look at our [events page](events.md) to find out when the next documentation dash will be held.
+## 3. Join us at a documentation hack!
+We will be holding regular "documentation hacks", where you will be guided through the process of contributing to the repository, and can participate in a git tutorial if you'd benefit from this. Take a look at our [events page](events.md) to find out when the next documentation hack will be held.
 
-At the documentation dash, you will hear from members of the [Open Neuroimaging Project Working Groups](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/community/community-who.html#win-open-neuroimaging-working-group) and learn about the progress of each tool. You will lean how to use each tool, be invited to contribute feedback to the tool developers, and invited to write "how to" guides to walk novice users through the process of shearing their research outputs using the [Open WIN Tools](tools.md).
+At the documentation hack, you will hear from members of the [Open Neuroimaging Project Working Groups](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/community/community-who.html#win-open-neuroimaging-working-group) and learn about the progress of each tool. You will lean how to use each tool, be invited to contribute feedback to the tool developers, and invited to write "how to" guides to walk novice users through the process of shearing their research outputs using the [Open WIN Tools](tools.md).
 
-We will also use the documentation dashes to plan as a community, learn about what policy or guidance we need to support working open at WIN, and think about how we would like to develop. This will include community-led planning of the [Open WIN Ambassadors scheme](ambassadors.md).
+We will also use the documentation hacks to plan as a community, learn about what policy or guidance we need to support working open at WIN, and think about how we would like to develop. This will include community-led planning of the [Open WIN Ambassadors scheme](ambassadors.md).
 
 ## Or, 4. Jump straight in!
 
@@ -42,4 +42,4 @@ If you are confident using git, markdown, and github pages, you are very welcome
 Coming soon
 {: .label .label-yellow }
 
-We will add git and contribution training materials after our first documentation dash, to be held in [October 2020](events/doc-dash-1.md)
+We will add git and contribution training materials after our first documentation hack, to be held in [October 2020](events/doc-hack-1.md)
