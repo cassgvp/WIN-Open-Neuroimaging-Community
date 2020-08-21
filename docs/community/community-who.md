@@ -41,15 +41,16 @@ Coming soon
 
 Cass is a postdoctoral researcher with 10 years of neuroimaging (fMRI) research. She was Co-Chair of the [Open Science Room 2020](https://ohbm.github.io/osr2020/), and has been both a participant and speaker at the [Berlin-Oxford Open Science Summer School](https://www.nds.ox.ac.uk/events/oxford-berlin-summer-school-on-open-research-2019), an invited speaker at [Open MR Benelux](https://openmrbenelux.github.io/) and is a Fellow of [Reproducible Research Oxford](https://ox.ukrn.org/). Cass is an active contributor to a number of open community tools, including [Open Research Calendar](https://openresearchcalendar.github.io/Open-Research-Calendar/), the [COBIDAS Checklist](https://github.com/Remi-Gau/COBIDAS_chckls) and [The Turing Way](https://the-turing-way.netlify.com/introduction/introduction)
 
-Email: Cassandra.GoudVanPraag@psych.ox.ac.uk  
-GitHub: @cassgvp  
-Twitter: @cassgvp
+Email: [Cassandra.GoudVanPraag@psych.ox.ac.uk](mailto:cassandra.gouldvanpraag@psych.ox.ac.uk)
+Twitter: [@cassgvp](https://twitter.com/cassgvp)
+GitHub: [@cassgvp](https://github.com/cassgvp)
+WIN GitLab: [@cassag](https://git.fmrib.ox.ac.uk/cassag)
 
 ## WIN Open Neuroimaging Working Group
 
-This community feeds directly into the [WIN Open Neuroimaging Project](https://www.win.ox.ac.uk/open-neuroimaging/open-neuroimaging-project) and its working groups listed below along with their leads.
+This community feeds directly into the [WIN Open Neuroimaging Project](https://www.win.ox.ac.uk/open-neuroimaging/open-neuroimaging-project) and its working groups:
 
-* Open Data [Clare Mackay](https://www.win.ox.ac.uk/people/clare-mackay)
-* Open Analysis [Mark Jenkinson](https://www.win.ox.ac.uk/people/mark-jenkinson)
-* Open Acquisition [Stuart Clare](https://www.win.ox.ac.uk/people/stuart-clare)
-* Open Tasks [Laurence Hunt](https://www.win.ox.ac.uk/people/laurnece-hunt)
+* [Open Acquisition](../tools/acquisition.md) (lead: [Stuart Clare](https://www.win.ox.ac.uk/people/stuart-clare))
+* [Open Tasks](../tools/tasks.md) (lead: [Laurence Hunt](https://www.win.ox.ac.uk/people/laurnece-hunt))
+* [Open Analysis](../tools/analysis.md) (lead: [Mark Jenkinson](https://www.win.ox.ac.uk/people/mark-jenkinson))
+* [Open Data](../tools/data.md) (lead: [Clare Mackay](https://www.win.ox.ac.uk/people/clare-mackay))
