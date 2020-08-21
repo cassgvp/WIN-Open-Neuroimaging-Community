@@ -8,7 +8,7 @@ nav_order: 3
 # Roadmap
 {: .fs-9 }
 
-Individual short, medium and long term targets towards achieving our goals
+Short, medium and long term milestones as we work towards our goals
 {: .fs-6 .fw-300 }
 
 ---
