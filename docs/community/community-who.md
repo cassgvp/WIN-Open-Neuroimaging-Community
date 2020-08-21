@@ -14,7 +14,7 @@ Find out who is already a member of the Open WIN Community, and where we sit in 
 
 ---
 
-![community-schematic](../img/img-community-schematic-h400.png)
+![community-schematic](../img/img-community-schematic-h400-gold.png)
 
 
 # Who are we?
