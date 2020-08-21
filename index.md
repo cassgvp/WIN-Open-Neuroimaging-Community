@@ -10,9 +10,7 @@ has_children: true
 
 
 
-# Open Research
-{: .fs-9 }
-# at the Wellcome Centre for Integrative Neuroscience (WIN)
+# Open Research at the Wellcome Centre for Integrative Neuroimaging (WIN)
 {: .fs-8 }
 
 Find out how to share your research outputs effectively and responsibly, for improved impact, access and collaboration
