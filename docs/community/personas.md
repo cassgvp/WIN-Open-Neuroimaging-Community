@@ -1,5 +1,5 @@
 ---
-title: Community Members Personas and Pathways
+title: Personas and Pathways
 parent: Open WIN Community
 has_children: false
 nav_order: 4
@@ -14,4 +14,4 @@ Find out about how the benefits of becoming an Open WIN Ambassador
 
 ---
 
-This exercise helps us think about who might be looking to join our community, how we can connect with them, and the journey they might go on. It is designed to help us reach different audiences and be welcoming to diverse contributors. 
+This exercise helps us think about who might be looking to join our community, how we can connect with them, and the journey they might go on. It is designed to help us reach different audiences and be welcoming to diverse contributors.
