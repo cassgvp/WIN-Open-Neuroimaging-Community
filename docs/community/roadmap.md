@@ -5,187 +5,213 @@ has_children: false
 nav_order: 3
 ---
 
-**Building a community of researchers who are empowered to develop the training, policies, governance and structures we would like in place to support us in practicing open research at the Wellcome Centre for Integrative Neuroimaging.**
+# Roadmap ⚽️
+{: .fs-9 }
+
+How we will know when we have achieved our goals
+{: .fs-6 .fw-300 }
+
+---
 
 # Project milestones
 
-These are significant turning points or events which will move the project forwards. These will be linked to issues on our repository to we can be transparent with our community about progress of the Program. <mark>Not created these issues yet as we should migrate the repo first.</mark>.
+There are a number of significant turning points or events which will move the Open WIN Community project forwards. These are linked to [task cards on our Trello board](https://trello.com/b/u4FqvNJv) so we can be transparent with our community about progress of the project.
+
+Alongside individual tasks, we have listed below the larger milestones we have currently prioritised to move the project forwards. You are welcome to read through the whole list (🤯) or jump straight to any that interest you.
+
+* [Short term](#short-term)
+	* [Milestone 1: Complete Open Leadership community documents](#milestone-1:-complete-open-leadership-community-documents)
+	* [Milestone 2: Soft launch of the community repository](#milestone-2:-soft-launch-of-the-community-repository)
+	* [Milestone 3: External presentation of community program](#milestone-3:-external-presentation-of-community-program-and-communication-of-models-for-feedback)
+	* [Milestone 4: Launch the Community](#milestone-4:-launch-the-community)
+	* [Milestone 5: Launch, close and analyse WIN Open Research Survey 2020](#milestone-5:-launch,-close-and-analyse-win-open-research-survey-2020)
+	* [Milestone 6: First community hack day](#milestone-6:-first-community-hack-day)
+	* [Milestone 7: External Advisor Board meeting](#milestone-7:-external-advisor-board-meeting)
+* [Medium term](#medium-term)
+	* [Milestone 8: Plan for sustainability and growth of community](#milestone-8:-plan-for-sustainability-and-growth-of-community)
+* [Long term](#long-term)
+	* [Milestone 9: Incorporation of open practices and infrastructure use into WIN Graduate program](#milestone-9:-incorporation-of-open-practices-and-infrastructure-use-into-win-graduate-program)
+	* [Milestone 10: Communication of open research outputs and access to resources by external researchers](#milestone-10:-communication-of-open-research-outputs-and-access-to-resources-by-external-researchers)
 
 ## Short term
 
-<mark>The below status, actions and due date will be incorporated into the repo 'issues'. See [my issue on the Open Life Sciences Mentoring Program](https://github.com/open-life-science/ols-1/issues/15) as an example.</mark>
+### Milestone 1: Complete Open Leadership community documents
 
-A summary of these short term milestones is shown below. <mark>[live doc for editing (CGVP only)](https://docs.google.com/spreadsheets/d/1wOoODp3dW50CnkRa0Hl6NGFa6i5EtJwIPqtIH1SuT-s/edit?usp=sharing)</mark>
+#### Description
+These documents have been devised as part of the [Mozilla Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/framework/). They are intended to support the planning and execution of any project which seeks community involvement and intends to promote the values of open and transparent leadership.
 
-![roadmap](../img/mozilla-framework/roadmap.png)
-<!-- <img src="~/images/mozilla-framework/roadmap.png" alt="roadmap"  width="100%" height="50%"> -->
+#### Status
+Work in progress
 
-### Milestone: Complete Open Leadership tools
-> Complete first draft of all assignments from [Open Life Sciences Mentoring Program](https://openlifesci.org)
+#### Tasks completed
+- [x] [Project vision](open-leadership.md)
+- [x] [Lean canvas: a 1-page business plan describing how you will execute your vision](open-leadership.md)
+- [x] [Project landing page or README](../../index.md)
+- [x] [Roadmap for identifying milestones in the project](roadmap.md)
+- [ ] [Personas and pathways: Understanding who you contributors are](personas.md)
+- [ ] [Code of conduct](CODE_OF_CONDUCT.md)
+- [x] [Contributor guidelines](../../CONTRIBUTING.md)
+- [ ] [Mountain of engagement](mountain-of-engagement.md)
+- [x] [License and citation guidelines](../../LICENSE)
+- [x] [Publish repository openly](../../index.md)
 
-*Status*: Work in progress
+#### Due date
+End of August 2020
 
-*Actions*:
+### Milestone 2: Soft launch of the community repository
 
-<mark>Add links for each completed item and placeholder below</mark>
+#### Description
+Open this repository up to a small group of individuals for feedback and bug reporting
 
-- [x] [Vision](pilot.md) <mark>Fix link to point to the appropriate section heading</mark>
-- [x] [Canvas](pilot.md) <mark> Fix link to point to the appropriate section heading</mark>
-- [x] [README](~/README.md)
-- [x] [Roadmap](roadmap.md)
-- [ ] Personas and pathways
-- [ ] Code of conduct
-- [ ] Contributor guidelines
-- [ ] License
-- [ ] Publish repository openly via WIN gitlab
+#### Status
+Work in progress
 
-*Due date*: End of August 2020
-
-### Milestone: Soft launch of the Ambassador Program
-
-> Open this repo up to a small group of individuals for feedback and bug reporting
-
-
-*Status*: Work in progress
-
-*Actions*:
+#### Tasks completed
 - [ ] Identify testers
 - [ ] Set aims and scope for review
 - [ ] Receive feedback
 - [ ] Action feedback
 
-*Due date*: 1st September 2020, in time for feedback to be incorporated into presentation for [Wellcome Reproducibility meeting 9th-11th
+#### Due date
+1st September 2020, in time for feedback to be incorporated into presentation for [Wellcome Reproducibility meeting 9th-11th
 September](https://coursesandconferences.wellcomegenomecampus.org/our-events/reproducibility-replicability-trust-in-science-2020/)
 
-### Milestone: External presentation of Ambassador program and communication of models for feedback
+### Milestone 3: External presentation of community program
 
-> Present the work of the WIN Open Neuroimaging Project and plans for the ambassador program at the Wellcome meeting. Collect feedback and incorporate into Internal launched
+#### Description
+Present the work of the WIN Open Neuroimaging Project and plans for the community and ambassador program at the Wellcome meeting. Collect feedback and incorporate into Internal launched
 
-*Status*: Work in progresses
+#### Status
+Work in progresses
 
-*Actions*:
+#### Tasks completed
 - [x] Submit abstract
-- [ ] Prepare talk/poster
+- [x] Prepare talk (10 minutes)
 - [ ] Collect feedback on how to present Mozilla framework and other identified gaps in the project
 
 
 
-*Due date*: Deadline for poster and video upload 19th August. 9th-11th September 2020 presentation.
+#### Due date
+Talk being recorded 26th August.
 
-### Milestone: Launch Ambassador program
+### Milestone 4: Launch the Community
 
-> Present the work of the WIN Open Neuroimaging Project and plans for the ambassador program at WIN Wednesday Seminar. Invite identified potential ambassadors to attend.
+#### Description
+Present the work of the WIN Open Neuroimaging Project, this repository and plans for community engagement at WIN Wednesday Seminar. Invite identified potential community members to attend
 
-*Status*: Work in progresses
+#### Status
+Work in progresses
 
-*Actions*:
+#### Tasks completed
 - [ ] Action feedback from external presentation
-- [ ] Prepare talk (20 min)
-- [ ] Define and document route for interested Ambassadors to contact
-- [ ] Set up and communicate slack
+- [ ] Prepare talk (20 minutes)
+- [x] [Define and document routes for interested WIN members to engage](../../contact.md)
+- [x] [Set up and communicate slack](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html#open-win-slack-)
 - [ ] Advertise approximate date for hack-day
 
-*Due date*: 16th September 2020
+#### Due date
+16th September 2020
 
+### Milestone 5: Launch, close and analyse WIN Open Research Survey 2020
 
-### Milestone: Launch, close and analyse WIN Open Research Survey 2020
-> Modify and repeat 2019 survey. Involve Ambassadors in designing survey questions.
+#### Description
+Modify and repeat 2019 survey. Involve community in designing survey questions.
 
-*Status*: Work in progresses
+#### Status
+Work in progresses
 
-*Actions*:
-- [ ] Define question set. Keep as much of original as possible, with framing for new infrastructure <mark>See note on hack day evaluation metrics</mark> and measures of engagement.
+#### Tasks completed
+- [ ] Define question set. Keep as much of original as possible, with framing for new infrastructure and measures of community engagement.
 - [ ] Liaise with WIN Core Team for dissemination
 - [ ] Plan and code for analysis
-- [ ] Tell interested Ambassadors to wait until after hack-day to complete
 - [ ] Write report for External Advisor Board
 
-*Due date*: Launch 1st October 2020; Close 30th October 2020 (TBC); Analyse and report 7th November
+#### Due date
+Launch 1st October 2020; Close 30th October 2020 (TBC); Analyse and report 7th November
 
 
-### Milestone: Ambassadors first hack day
-> Hold first [co-working hack day](../events/Events.md). Involve soft launch researchers in designing programming and evaluation.
+### Milestone 6: First community hack day
 
-*Status*: Work in progresses
+#### Description
+Hold first [co-working hack day](../events/doc-hack-1.md). Involve soft launch researchers and other interested parties in designing programming and evaluation.
 
-*Actions*:
+#### Status
+Work in progresses
+
+#### Tasks completed
 - [ ] Complete Mozilla events exercise and review [CSCCE resources](https://www.cscce.org/resources/organizing-community-events/)
-- [x] Draft program
+- [x] [Draft program](../events/dock-hack-1.md)
 - [ ] Invite speakers and check availability
 - [ ] Set date
 - [ ] Technology choices
 - [ ] Presenters prepare talks and pitches for co-working
-- [ ] Identify evaluation criteria <mark>Might want to use this to form new survey questions</mark>
+- [ ] Identify evaluation criteria
 
-*Due date*: 3rd week of October 2020
+#### Due date
+3rd week of October 2020
 
 
-### Milestone: External Advisor Board (EAB) meeting
-> Visit of WIN EAB to review progress of entire WIN. Involve Ambassadors in reviewing/contributing to reports on infrastructure and community.
+### Milestone 7: External Advisor Board meeting
 
-*Status*: Work in progresses
+#### Description
+Visit of WIN External Advisor Board (EAB) to review progress of entire WIN. Involve community in reviewing/contributing to reports on infrastructure and community activities.
 
-*Actions*:
+#### Status
+Work in progresses
+
+#### Tasks completed
 - [ ] Collate data against for inclusion against project goals
 - [ ] Draft report
 - [ ] Finalise report
 
-*Due date*: TBC November 2020
-
-### Milestone: Plan for sustainability and growth of Ambassador program December 2020 - August 2021
-
-*Status*: Work in progresses
-
-*Actions*:
-- [ ] Identify potential leaders
-- [ ] Devise regularity of future hack days (consider termly)
-- [ ] Devise communication strategy
-- [ ] Plan for departmental training events. Co-create re-usable materials.
-- [ ] Strategy for sustained recruitment of new Ambassadors with natural turn-over or grad students
-- [ ] Monitor and make growth plans for user (not Ambassador) engagement. <mark>Some of this follow from the Ambassador [expectations](expectations.md)
-- [ ] Plan for outstanding policy decisions
-- [ ] New ways for Ambassadors to contribute? How can we keep delivering value to them? How can Ambassadors keep delivering value to users and each other.
-- [ ] Any long-term content creation ideas? Blog?
-
-
-
-*Due date*: 17th November 2020
+#### Due date
+4th November 2020
 
 
 ## Medium term
 
-### Milestone: Incorporation of open practices and infrastructure use into WIN Graduate program
+### Milestone 8: Plan for sustainability and growth of community
 
-*Status*: Work in progresses
+#### Description
+How we will ensure there is continued growth and engagement within the community
 
-*Actions*:
-- [ ] TBC
+#### Status
+Work in progresses
 
-*Due date*: TBC
+#### Tasks completed
+- [ ] Identify potential leaders
+- [ ] Devise regularity of future hack days (consider termly)
+- [ ] Devise communication strategy
+- [ ] Plan for departmental training events. Co-create re-usable materials.
+- [ ] Strategy for sustained recruitment of new community members with natural turn-over or grad students
+- [ ] Plan for outstanding policy decisions
+- [ ] New ways for community members to contribute? How can we keep delivering value to them? How can they keep delivering value to each other?
+- [ ] Long-term content creation ideas? Blog?
+
+#### Due date
+16th November 2020
 
 ## Long term
 
-### Milestone: External data sharing
+### Milestone 9: Incorporation of open practices and infrastructure use into WIN Graduate program
 
-*Status*: Work in progresses
+#### Status
+Work in progresses
 
-*Actions*:
+#### Tasks completed
 - [ ] TBC
 
-*Due date*: TBC
+#### Due date
+TBC
 
 
+### Milestone 10: Communication of open research outputs and access to resources by external researchers
 
+#### Status
+Work in progresses
 
---------
+#### Tasks completed
+- [ ] TBC
 
-### Milestone:
-
-*Status*: Work in progresses
-
-*Actions*:
-- [x] Submit abstract
-
-*Due date*:
-
---------
+#### Due date
+TBC

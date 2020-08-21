@@ -20,7 +20,7 @@ Funders and the Management Board of WIN have committed to develop both the infra
 
 As these stages near completion, we are entering the second phase of work to build awareness, provide training and increase uptake in the use of this infrastructure. The problem is that until now there have been no centralised resources, communication structures or identified community strategies in place to support researchers in using this new infrastructure.
 
-# How will we achieve our goals? ⚽️
+# How will we achieve our goals?
 
 The WIN Open Neuroimaging Community will address the above problems by working together to:
 1. Develop tools, policies and governance recommendations to promote open research practices;

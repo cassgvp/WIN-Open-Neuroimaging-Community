@@ -1,8 +1,8 @@
 ---
-title: Pilot program
+title: Open Leadership
 parent: Open WIN Ambassadors
 has_children: false
-nav_order: 3
+nav_order: 12
 ---
 
 # Launching the program
