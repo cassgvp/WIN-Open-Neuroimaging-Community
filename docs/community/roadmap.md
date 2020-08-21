@@ -5,10 +5,10 @@ has_children: false
 nav_order: 3
 ---
 
-# Roadmap ⚽️
+# Roadmap
 {: .fs-9 }
 
-How we will know when we have achieved our goals
+Individual short, medium and long term targets towards achieving our goals
 {: .fs-6 .fw-300 }
 
 ---
