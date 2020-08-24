@@ -33,6 +33,7 @@ Rowan is a PhD Student. They completed a Masters course with a WIN supervisor, a
 
 
 ## Asfar
+
 | Career stage | Open research experience | Communication and teamwork | Time available | Neuroimaging and Institutional experience | Computational literacy |
 |--------------|--------------------------|----------------------------|----------------|-------------------------------------------|------------------------|
 |      😸      |             ‍👎           |             🙈            |       🌧       |                    💃                     |         🌤             |
@@ -41,6 +42,7 @@ Rowan is a PhD Student. They completed a Masters course with a WIN supervisor, a
 Asfar is a postdoctoral researcher. They think they know what open research is, but they are worried that their code will be heavily criticised if they share it online. They see open research as a time suck and distraction from papers. They are often asked to support students in running the code and experiments they have written, but this is usually limited to handing over some thin notes. They will be attempting to secure a fellowship in under two years.
 
 ## Huan
+
 | Career stage | Open research experience | Communication and teamwork | Time available | Neuroimaging and Institutional experience | Computational literacy |
 |--------------|--------------------------|----------------------------|----------------|-------------------------------------------|------------------------|
 |      😼      |             👋           |             💯           |       ⛈      |                    🌦                       |         🙈            |   
@@ -48,6 +50,7 @@ Asfar is a postdoctoral researcher. They think they know what open research is, 
 Huan is a postdoctoral researcher. They have significant experience working with clinical populations and are actively engaged in Patient and Public Involvement in research design and Public Engagement outreach. They manage a constant flow of students, and feel as though they are at capacity with their workload. They enjoy their research, but are considering looking outside of academia as the Principle Investigator track does not appeal. They like the idea of open research, but are not sure if they have much to contribute.
 
 ## Siya
+
 | Career stage | Open research experience | Communication and teamwork | Time available | Neuroimaging and Institutional experience | Computational literacy |
 |--------------|--------------------------|----------------------------|----------------|-------------------------------------------|------------------------|
 |      🦁      |             ‍🙄           |             💃            |       😶      |                    👑                       |         🐙            |   
