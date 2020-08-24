@@ -1,12 +1,12 @@
 ---
-title: How are our personas motivated?
+title: 2. How are our personas motivated?
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
 nav_order: 2
 ---
 
-# How are our personas motivated?
+# 2. How are our personas motivated?
 {: .fs-9 }
 
 Why are our persons interested in engaging with this community?

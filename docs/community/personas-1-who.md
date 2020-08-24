@@ -1,12 +1,12 @@
 ---
-title: Who do we need in the community
+title: 1. Who do we need in the community
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
 nav_order: 1
 ---
 
-# Who do we need in the community?
+# 1. Who do we need in the community?
 {: .fs-9 }
 
 What range of people should we cover in our personas exploration?
