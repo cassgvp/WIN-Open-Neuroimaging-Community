@@ -14,22 +14,6 @@ How will our [personas](personas-descriptions.md) journey through this project?
 
 ---
 
----
-title: 3. Persona descriptions
-parent: Personas and Pathways
-grand_parent: Open WIN Community
-has_children: false
-nav_order: 3
----
-
-# 3. Persona descriptions
-{: .fs-9 }
-
-What imaginary characters can we create based on our descriptions of [who we need](personas-1-who.md) and [how they are motivated](personas-2-motivations.md)
-{: .fs-6 .fw-300 }
-
----
-
 ## Jesse
 
 | Career stage | Open research experience | Communication and teamwork | Time available | Neuroimaging and Institutional experience | Computational literacy |
@@ -49,22 +33,26 @@ What imaginary characters can we create based on our descriptions of [who we nee
 
 
 ## Asfar
+
 | Career stage | Open research experience | Communication and teamwork | Time available | Neuroimaging and Institutional experience | Computational literacy |
 |--------------|--------------------------|----------------------------|----------------|-------------------------------------------|------------------------|
-|      😸      |             👎           |             🙈            |       🌧      |                    💃                       |          🌤           |   
+|      😸      |             ‍👎           |             🙈            |       🌧       |                    💃                     |         🌤             |
 
-Asfar is a postdoctoral researcher. They think they know what open research is, but they are worried that their code will be heavily criticised if they share it online. They see open research as a time suck and distraction from papers. They are often asked to support students in running the code and experiments they have written, but this is usually limited to handing over some thin notes. They will be attempting to secure a fellowship in under two years.
+
+<!-- Asfar is a postdoctoral researcher. They think they know what open research is, but they are worried that their code will be heavily criticised if they share it online. They see open research as a time suck and distraction from papers. They are often asked to support students in running the code and experiments they have written, but this is usually limited to handing over some thin notes. They will be attempting to secure a fellowship in under two years. -->
 
 ## Huan
+
 | Career stage | Open research experience | Communication and teamwork | Time available | Neuroimaging and Institutional experience | Computational literacy |
 |--------------|--------------------------|----------------------------|----------------|-------------------------------------------|------------------------|
 |      😼      |             👋           |             💯           |       ⛈      |                    🌦                       |         🙈            |   
 
-Huan is a postdoctoral researcher. They have significant experience working with clinical populations and are actively engaged in Patient and Public Involvement in research design and Public Engagement outreach. They manage a constant flow of students, and feel as though they are at capacity with their workload. They enjoy their research, but are considering looking outside of academia as the Principle Investigator track does not appeal. They like the idea of open research, but are not sure if they have much to contribute.
+<!-- Huan is a postdoctoral researcher. They have significant experience working with clinical populations and are actively engaged in Patient and Public Involvement in research design and Public Engagement outreach. They manage a constant flow of students, and feel as though they are at capacity with their workload. They enjoy their research, but are considering looking outside of academia as the Principle Investigator track does not appeal. They like the idea of open research, but are not sure if they have much to contribute. -->
 
 ## Siya
+
 | Career stage | Open research experience | Communication and teamwork | Time available | Neuroimaging and Institutional experience | Computational literacy |
 |--------------|--------------------------|----------------------------|----------------|-------------------------------------------|------------------------|
 |      🦁      |             ‍🙄           |             💃            |       😶      |                    👑                       |         🐙            |   
 
-Siya is an established Principle Investigator. They have had a successful academic career and feel comfortable within the WIN and University of Oxford structures. They have seen the requirement for open research sneak into different aspects of their work, for example in requirements for Research Data Management plans in grant applications, and the [Research Excellence Framework reference to "research practice that supports reproducible science"](https://www.ref.ac.uk/media/1084/ref-2019_02-panel-criteria-and-working-methods.pdf), but have yet to see where this has been truly beneficial for an individual scientist or the research filed as a whole.
+<!-- Siya is an established Principle Investigator. They have had a successful academic career and feel comfortable within the WIN and University of Oxford structures. They have seen the requirement for open research sneak into different aspects of their work, for example in requirements for Research Data Management plans in grant applications, and the [Research Excellence Framework reference to "research practice that supports reproducible science"](https://www.ref.ac.uk/media/1084/ref-2019_02-panel-criteria-and-working-methods.pdf), but have yet to see where this has been truly beneficial for an individual scientist or the research filed as a whole. -->
