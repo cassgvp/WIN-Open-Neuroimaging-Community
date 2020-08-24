@@ -14,13 +14,13 @@ Find out who we are and where we sit in the wider WIN context.
 
 ---
 
-![community-schematic](../img/img-community-schematic-h400-gold.png)
-
 # Who are we?
 
 * [Community members](#community-members)
-* [Community Coordinator](#community-coordinator---cassandra-gould-van-praag-(she/her))
+* [Community Coordinator](##community-coordinator---cassandra-gould-van-praag-sheher)
 * [WIN Open Neuroimaging Working Group](#win-open-neuroimaging-working-group)
+
+![community-schematic](../img/img-community-schematic-h400-gold.png)
 
 We are a community built from around 250 members of the University of Oxford [Wellcome Centre for Integrative Neuroimaging (WIN)](https://www.win.ox.ac.uk). We welcome students, researchers, [core staff](https://www.win.ox.ac.uk/about/core-staff), faculty, and anyone in between!
 
