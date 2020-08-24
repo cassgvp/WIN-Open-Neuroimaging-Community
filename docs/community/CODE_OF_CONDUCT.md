@@ -13,7 +13,7 @@ How Open WIN Community members are expected to work, communicate and interact wi
 
 ---
 
-***The following Code Of Conduct was developed for use by [The Turing Way community](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). It will be amended to suit this project, in collaboration with community members and WIN Management. It will not supersede any WIN or University of Oxford complaint or disciplinary procedures.***
+***The following Code Of Conduct was developed for use by [The Turing Way community](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). It will be amended to suit this project, in collaboration with community members and WIN Management. It will not supersede any Departmental, WIN or University of Oxford complaint or disciplinary procedures, including those related to harassment or bullying.***
 
 # Code of Conduct
 
