@@ -22,5 +22,3 @@ These people all want to learn and they are interested in new technologies. They
 
 ## What do they need to be motivated?
 These people need to feel like they are ahead of the curve, or at the leading edge, in adoption. They are comfortable being trail-blazers. They would probably enjoyed being challenged or stretched. They need to feel like they have something to offer and need to feel their contributions are valued. They need to feel comfortable in sharing. They need enjoy being creators rather than simple consumers. They need development opportunities, and to observe the growth of others. They need to feel welcome in the community, and place some value in community membership (or that the community values them). They need to feel like they are contributing to an ethical and justice oriented project, and/or that they are seeing direct gains for themselves. -->
-
-* [Pathway descriptions](#pathway-descriptions)
