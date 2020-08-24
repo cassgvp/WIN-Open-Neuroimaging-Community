@@ -35,7 +35,8 @@ Rowan is a PhD Student. They completed a Masters course with a WIN supervisor, a
 ## Asfar
 | Career stage | Open research experience | Communication and teamwork | Time available | Neuroimaging and Institutional experience | Computational literacy |
 |--------------|--------------------------|----------------------------|----------------|-------------------------------------------|------------------------|
-|      😸      |             👎           |             🙈            |       🌧      |                    💃                       |          🌤           |   
+|      😸      |             ‍👎           |             🙈            |       🌧       |                    💃                     |         🌤             |
+
 
 Asfar is a postdoctoral researcher. They think they know what open research is, but they are worried that their code will be heavily criticised if they share it online. They see open research as a time suck and distraction from papers. They are often asked to support students in running the code and experiments they have written, but this is usually limited to handing over some thin notes. They will be attempting to secure a fellowship in under two years.
 
