@@ -44,6 +44,15 @@ Assumed knowledge. We could be creating material which is inaccessible unless we
 
 Catching students at the right point in their courses
 
+Welcoming
+
+Feeling valued
+
+Make sure some messaging goes to masters and UG students, maybe in advertising of masters course?
+
+Make small ways to contribute - e.g. simple polls, a "little contributions" channel?
+
+
 
 
 
