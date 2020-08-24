@@ -13,14 +13,14 @@ How Open WIN Community members are expected to work, communicate and interact wi
 
 ---
 
-***The following Code Of Conduct was developed for use by [The Turing Way community](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). It will be amended to suit this project, with appropriate acknowledgement and accreditation as per the licence agreement. This is a draft for the WIN Open Neuroimaging Community. All references to the individual named in reporting procedures have been removed.***
+***The following Code Of Conduct was developed for use by [The Turing Way community](https://github.com/alan-turing-institute/the-turing-way/blob/master/CODE_OF_CONDUCT.md). It will be amended to suit this project, in collaboration with community members. It is not expected to supersede any WIN or University of Oxford complaint or disciplinary procedures.***
 
 # Code of Conduct
 
 We value the participation of every member of our community and want to ensure that every contributor has an enjoyable and fulfilling experience.
 Accordingly, everyone who participates in the Turing Way project is expected to show respect and courtesy to other community members at all times.
 
-XXXXX, as PI of this project, and all project members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age or religion. **We do not tolerate harassment by and/or of members of our community in any form**.
+XXXXX, as PI of this project, and all project members, are dedicated to a ***harassment-free experience for everyone***, regardless of gender, gender identity and expression, sexual orientation, disability, physical appearance, body size, race, age, religion or technology choices. **We do not tolerate harassment by and/or of members of our community in any form**.
 
 We are particularly motivated to support new and/or anxious collaborators, people who are looking to learn and develop their skills, and anyone who has experienced discrimination in the past.
 
