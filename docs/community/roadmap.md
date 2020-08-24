@@ -15,9 +15,7 @@ Short, medium and long term milestones as we work towards our goals
 
 # Project milestones
 
-There are a number of significant turning points or events which will move the Open WIN Community project forwards. These are linked to [task cards on our Trello board](https://trello.com/b/u4FqvNJv) so we can be transparent with our community about progress of the project.
-
-Alongside individual tasks, we have listed below the larger milestones we have currently prioritised to move the project forwards. You are welcome to read through the whole list (🤯) or jump straight to any that interest you.
+There are a number of significant turning points or events which will move the Open WIN Community project forwards. We have listed below the larger milestones we have currently prioritised to move the project forwards. You are welcome to read through the whole list (🤯) or jump straight to any that interest you.
 
 * [**Short term**](#short-term)
 	* [Milestone 1: Complete Open Leadership community documents](#milestone-1:-complete-open-leadership-community-documents)
@@ -31,7 +29,7 @@ Alongside individual tasks, we have listed below the larger milestones we have c
 	* [Milestone 8: Plan for sustainability and growth of community](#milestone-8:-plan-for-sustainability-and-growth-of-community)
 * [**Long term**](#long-term)
 	* [Milestone 9: Incorporation of open practices and infrastructure use into WIN Graduate program](#milestone-9:-incorporation-of-open-practices-and-infrastructure-use-into-win-graduate-program)
-	* [Milestone 10: Communication of open research outputs and access to resources by external researchers](#milestone-10:-communication-of-open-research-outputs-and-access-to-resources-by-external-researchers)
+	* [Milestone 10: Communication of open research outputs and access to resources for external researchers](#milestone-10:-communication-of-open-research-outputs-and-access-to-resources-for-external-researchers)
 
 ## Short term
 
@@ -133,7 +131,7 @@ Launch 1st October 2020; Close 30th October 2020 (TBC); Analyse and report 7th N
 ### Milestone 6: First community hack day
 
 #### Description
-Hold first [co-working hack day](../events/doc-hack-1.md). Involve soft launch researchers and other interested parties in designing programming and evaluation.
+Hold first [co-working documentation hack day](../events/doc-hack-1.md). Involve soft launch researchers and other interested parties in designing programming and evaluation.
 
 #### Status
 Work in progresses
@@ -205,7 +203,7 @@ Work in progresses
 TBC
 
 
-### Milestone 10: Communication of open research outputs and access to resources by external researchers
+### Milestone 10: Communication of open research outputs and access to resources for external researchers
 
 #### Status
 Work in progresses

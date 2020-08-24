@@ -29,21 +29,4 @@ Recycle by vectlab from the Noun Project
 
 --------
 
-* [Short Term](Short Term
 
-	* [Milestone 1: Complete Open Leadership community documents]
-	* [Milestone 2: Soft launch of the Ambassador Program
-	* [Milestone 3: External presentation of Ambassador program and communication of models for feedback
-	* [Milestone 4: Launch the Community
-	* [Milestone 5: Launch, close and analyse WIN Open Research Survey 2020
-	* [Milestone 6: First community hack day
-	* [Milestone 7: External Advisor Board (EAB) meeting
-
-* Medium Term
-
-	* [Milestone 8: Plan for sustainability and growth of community
-
-* Long term
-
-	* [Milestone 9: Incorporation of open practices and infrastructure use into WIN Graduate program
-	* [Milestone 10: Communication of open research outputs and access to resources by external researchers
