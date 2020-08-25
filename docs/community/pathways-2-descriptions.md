@@ -30,22 +30,25 @@ For each persona we will model their path through the [mountain of engagement](m
 |--------------|--------------------------|----------------------------|----------------|-------------------------------------------|------------------------|
 | 🐣 Very fresh! | 🐣 Very fresh! | 💃 Big fan! | 😨 Concerned | 🐣 Very fresh! | 🐣 Very fresh!|   
 
-<!-- Jesse is a Masters student. They have come to WIN and Oxford from a different University and have never heard of "open research". They worked hard to get here, they are ambitious, and they want to make friends. They are keen to impress their supervisor and are going to every departmental meeting they can. They are worried about their workload and running our of time for their project. They are a bit overwhelmed by how much there is to learn, but want to be exposed to everything. -->
+Jesse is a Masters student. They have come to WIN and Oxford from a different University and have never heard of "open research". They worked hard to get here, they are ambitious, and they want to make friends. They are keen to impress their supervisor and are going to every departmental meeting they can. They are worried about their workload and running our of time for their project. They are a bit overwhelmed by how much there is to learn, but want to be exposed to everything.
 
 #### 1. Discovery
 Told about the Open WIN Community when research projects are introduced.
 
 #### 2. First contact
-Visits the Community Repository. Tries to join Slack but they only have a college email address. Contacts the Community Coordinator for invite link.
+Visits the Community Repository. Tries to join Slack (via the "join us" link) but they only have a College email address. Contacts the Community Coordinator for invite link. Gets a lovely welcome message and invite link.
 
 #### 3. Participation
-Introduces themselves on the Slack Welcome channel
+Introduces themselves on the Slack Welcome channel. Community acknowledges arrival. Jesse observes conversation and gets excited about open research and applies to attend an externally organised event.
 
 #### 4. Sustained Participation
+Asks their supervisor if any of their project material can be shared. Unfortunately none ready. Reaches out for other ways to contribute. Not available for a documentation hack. Works with Community Coordinator or representative to create "good first issue" list.
 
 #### 5. Networked Participation
+Tells other Masters students about their experience. More join Slack.
 
 #### 6. Leadership
+Discusses resources for Masters students with Community Coordinator. Starts a channel in Slack relevant for their needs as "good first issue" people or Masters students explicitly.
 
 <!-- Discovery - Sees poster advertising study group around campus.
 First Contact - Attends a meeting of the group, and is encouraged to return in a follow up email.
@@ -62,20 +65,25 @@ Leadership - Agrees to present an intro session on Java, and creates a learning 
 |--------------|--------------------------|----------------------------|----------------|-------------------------------------------|------------------------|
 | 🐥 Beginning to know the world | 🙅‍♀️ No thank you! | 🎉  Very experienced | 🌤 Could be better | 🐥 Beginning to know the world | 🐣 Very fresh! |   
 
-<!-- Rowan is a PhD Student. They completed a Masters course with a WIN supervisor, and worked as a research assistant for one year before starting a PhD in a different lab. They have worked as part of a team writing ethics applications and collecting data, but now they are leading the whole process for themselves. They have made lots of friends in their time at WIN, but know they need to keep a competitive edge, so they are cautious about how much they share. They have heard people talk unfavourably about open research - it takes too much time; it brings you no personal benefits - and tend to think it's for "someone else". -->
+Rowan is a PhD Student. They completed a Masters course with a WIN supervisor, and worked as a research assistant for one year before starting a PhD in a different lab. They have worked as part of a team writing ethics applications and collecting data, but now they are leading the whole process for themselves. They have made lots of friends in their time at WIN, but know they need to keep a competitive edge, so they are cautious about how much they share. They have heard people talk unfavourably about open research - it takes too much time; it brings you no personal benefits - and tend to think it's for "someone else".
 
 #### 1. Discovery
+Doesn't attend WIN presentation on Open Community. Hears about it from a friend.
 
 #### 2. First contact
-Joins the Slack workspace. Someone says "Hi" 👋
+See announcement of WIN presentation recording on WIN mailing list. Watches talk recording. Doesn't hate it.
 
 #### 3. Participation
+Sees announcement of documentation hack preparatory "Ask Me Anything" call. Attends. Expresses concerns about sharing research outputs taking time.
 
 #### 4. Sustained Participation
+Joins Slack. Follows updates about documentation release. Uses shares acquisition protocol using community developed documentation.
 
 #### 5. Networked Participation
+Wants to add more research outputs to their CV, so asks about how to become a named contributor.
 
 #### 6. Leadership
+Reviews, restructures and updates open acquisition documentation.
 
 
 ## Asfar
@@ -85,20 +93,25 @@ Joins the Slack workspace. Someone says "Hi" 👋
 | 😸 Knows what is going on and loves it | 👎 Not a great idea | 🙈 Don't ask! | 🌧 Outlook not great! | 💃 Got this down! | 🌤 Could be better |
 
 
-<!-- Asfar is a postdoctoral researcher. They think they know what open research is, but they are worried that their code will be heavily criticised if they share it online. They see open research as a time suck and distraction from papers. They are often asked to support students in running the code and experiments they have written, but this is usually limited to handing over some thin notes. They will be attempting to secure a fellowship in under two years. -->
+Asfar is a postdoctoral researcher. They think they know what open research is, but they are worried that their code will be heavily criticised if they share it online. They see open research as a time suck and distraction from papers. They are often asked to support students in running the code and experiments they have written, but this is usually limited to handing over some thin notes. They will be attempting to secure a fellowship in under two years.
 
 #### 1. Discovery
+Attends WIN presentation, because the title promotes time saving and CV boost.  
 
 #### 2. First contact
+Reviews this repository for open tasks and analysis documentation. Spots opportunity to lead some of the community decision making for career advancement.  
 
 #### 3. Participation
+Attends documentation hack. Creates material for how to contribute to open tasks repository.
 
 #### 4. Sustained Participation
+Writes good documentation for their own tasks, shares them on open tasks repository.
 
 #### 5. Networked Participation
+Sends students to open tasks repository.
 
 #### 6. Leadership
-
+Contributes to leadership conversations about how students should be trained in programming.
 
 ## Huan
 
@@ -106,19 +119,25 @@ Joins the Slack workspace. Someone says "Hi" 👋
 |--------------|--------------------------|----------------------------|----------------|-------------------------------------------|------------------------|
 | 😼 Knows what is going on and isn't enjoying it | 👋 Welcome! | 💯 Love this! | ⛈ Stormy! | 🌦 Mixed experience  | 🙈 Don't ask! |   
 
-<!-- Huan is a postdoctoral researcher. They have significant experience working with clinical populations and are actively engaged in both Patient and Public Involvement in research design and Public Engagement outreach. They manage a constant flow of students, and feel as though they are at capacity with their workload. They enjoy their research, but are considering looking outside of academia as the Principle Investigator track does not appeal. They like the idea of open research, but are not sure if they have much to contribute. -->
+Huan is a postdoctoral researcher. They have significant experience working with clinical populations and are actively engaged in both Patient and Public Involvement in research design and Public Engagement outreach. They manage a constant flow of students, and feel as though they are at capacity with their workload. They enjoy their research, but are considering looking outside of academia as the Principle Investigator track does not appeal. They like the idea of open research, but are not sure if they have much to contribute.
 
 #### 1. Discovery
+Attends WIN presentation. Excited by the initiative but not sure what they can contribute.
 
 #### 2. First contact
+Asks a question after WIN presentation.
 
 #### 3. Participation
+Joins Slack. Enjoys the community discussion and welcoming environment.
 
 #### 4. Sustained Participation
+Attends documentation hack. Enjoys training and supportive environment. Submits minor documentation edits.
 
 #### 5. Networked Participation
+Tells their outreach groups about the Open WIN Community work.
 
 #### 6. Leadership
+Presents on the Open WIN Community to Public Engagement Team and suggests it is promoted with the general public.
 
 
 ## Siya
@@ -127,16 +146,22 @@ Joins the Slack workspace. Someone says "Hi" 👋
 |--------------|--------------------------|----------------------------|----------------|-------------------------------------------|------------------------|
 | 🦁 King of the Jungle! | 🙄 Waiting for a mandate | 💃 Big fan! | 😶 Does anyone have time?! | 👑 Knows all the rules | 🐙 Multi-skilled |   
 
-<!-- Siya is an established Principle Investigator. They have had a successful academic career and feel comfortable within WIN and University of Oxford structures. They have seen the requirement for open research start to appear in different aspects of their work, for example in requirements for Research Data Management plans in grant applications, and the Research Excellence Framework reference to ["research practice that supports reproducible science"](https://www.ref.ac.uk/media/1084/ref-2019_02-panel-criteria-and-working-methods.pdf), but they are yet to see where this has been truly beneficial for an individual scientist or the research filed as a whole. -->
+Siya is an established Principle Investigator. They have had a successful academic career and feel comfortable within WIN and University of Oxford structures. They have seen the requirement for open research start to appear in different aspects of their work, for example in requirements for Research Data Management plans in grant applications, and the Research Excellence Framework reference to ["research practice that supports reproducible science"](https://www.ref.ac.uk/media/1084/ref-2019_02-panel-criteria-and-working-methods.pdf), but they are yet to see where this has been truly beneficial for an individual scientist or the research filed as a whole.
 
 #### 1. Discovery
+Hears mention of Open WIN Community in Head of Department briefing.
 
 #### 2. First contact
+One of their students asks to attend a documentation hack.
 
 #### 3. Participation
+One of their postdocs asks to share an acquisition protocol or task (nothing too controversial). They agree and attach it as supplementary information on a paper. They are a named author.
 
 #### 4. Sustained Participation
+Discusses with lab what other outputs can be shared.
 
 #### 5. Networked Participation
+Speaks to other Principle Investigators about how their latest paper is more "REF-able" with the added supplementary outputs.
 
 #### 6. Leadership
+Sets lab policy or intention to make all possible outputs openly shareable. Gives team time and resources to contribute to the community. 
