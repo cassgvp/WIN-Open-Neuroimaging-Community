@@ -1,5 +1,5 @@
 ---
-title: Practicalities
+title: Practical issues
 parent: Open WIN Ambassadors
 has_children: false
 nav_order: 1

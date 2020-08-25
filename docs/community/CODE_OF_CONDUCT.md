@@ -2,7 +2,7 @@
 title: Code of Conduct
 parent: Open WIN Community
 has_children: false
-nav_order: 10
+nav_order: 7
 ---
 
 # Code of Conduct

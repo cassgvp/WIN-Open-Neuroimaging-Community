@@ -1,9 +1,19 @@
 ---
 title: Open Leadership
-parent: Open WIN Ambassadors
+parent: Open WIN Community
 has_children: false
-nav_order: 12
+nav_order: 1
 ---
+
+# What is "Open Leadership" and why is it relevant to this community?
+{: .fs-9 }
+
+Find out about the principles which are guiding this community
+{: .fs-6 .fw-300 }
+
+---
+
+Based on open source projects and community engagement.
 
 # Launching the program
 We will launch the ambassador program at a WIN Wednesday Seminar on 16th September. Event details and joining instructions will be listed on the [WIN Intranet](https://sharepoint.nexus.ox.ac.uk/sites/NDCN/FMRIB/Lists/Calendar/DispForm.aspx?ID=316&Source=https%3A%2F%2Fsharepoint%2Enexus%2Eox%2Eac%2Euk%2Fsites%2FNDCN%2FFMRIB%2FLists%2FCalendar%2Fcalendar%2Easpx). At this meeting we will provide an overview of the WIN Open Infrastructure <mark>Make sure I'm using "WIN Open Infrastructure" consistently, decide on capitalisation etc</mark> and describe the Mozilla models for community engagement we will be pilotting. We will initially aim to recruit 10-15 people into the pilot Ambassador Program.

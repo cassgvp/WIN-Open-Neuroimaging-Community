@@ -45,7 +45,7 @@ How will our [personas](personas-descriptions.md) journey through this project?
 
 | Career stage | Open research experience | Communication and teamwork | Time available | Neuroimaging and Institutional experience | Computational literacy |
 |--------------|--------------------------|----------------------------|----------------|-------------------------------------------|------------------------|
-| 😼 Knows what is going on and isn't enjoying it | 👋 Welcome! | 💯 Love this! | ⛈ Not looking great!! | 🌦 Mixed experience  | 🙈 Don't ask! |   
+| 😼 Knows what is going on and isn't enjoying it | 👋 Welcome! | 💯 Love this! | ⛈ Stormy! | 🌦 Mixed experience  | 🙈 Don't ask! |   
 
 <!-- Huan is a postdoctoral researcher. They have significant experience working with clinical populations and are actively engaged in both Patient and Public Involvement in research design and Public Engagement outreach. They manage a constant flow of students, and feel as though they are at capacity with their workload. They enjoy their research, but are considering looking outside of academia as the Principle Investigator track does not appeal. They like the idea of open research, but are not sure if they have much to contribute. -->
 
