@@ -15,7 +15,7 @@ What imaginary characters can we create based on our descriptions of [who we nee
 ---
 
 #### Emoji key
-We have used an emoji key to summarise our personas' experience and attitudes to each of the [attributes](personas-1-who.md) we identified as being valuable to the community. These are intended to give you a quick feel for how each persona relates to an attribute. They can be conceptualised by the descriptions given with each image.
+We have used an emoji key to summarise our personas' experience and attitudes to each of the [attributes](personas-1-who.md)  identified as being valuable to the community. These emojis are intended to give you a quick feel for how each persona relates to an attribute. They can be conceptualised by the descriptions given with each image.
 
 
 ## Jesse
