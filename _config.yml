@@ -5,6 +5,8 @@ description: A space for the WIN Open Neuroimaging Community to build and share 
 baseurl: "/WIN-Open-Neuroimaging-Community" # the subpath of your site, e.g. /blog
 url: "https://cassgvp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 aux_links:
+  "Contact Us":
+    - "https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html"
   "View this repository on GitHub":
     - "//github.com/cassgvp/WIN-Open-Neuroimaging-Community"
 # Footer content appears at the bottom of every page's main content
