@@ -48,7 +48,7 @@ Work in progress
 - [x] [Roadmap for identifying milestones in the project](roadmap.md)
 - [ ] [Personas and pathways: Understanding who you contributors are](personas.md)
 - [ ] [Mountain of engagement](mountain-of-engagement.md)
-- [ ] [Code of conduct](CODE_OF_CONDUCT.md)
+- [x] [Code of conduct](CODE_OF_CONDUCT.md)
 - [x] [Contributor guidelines](../../CONTRIBUTING.md)
 - [x] [License and citation guidelines](../../LICENSE)
 - [x] [Publish repository openly](../../index.md)
@@ -65,7 +65,7 @@ Open this repository up to a small group of individuals for feedback and bug rep
 Work in progress
 
 #### Tasks completed
-- [ ] Identify testers
+- [x] Identify testers
 - [ ] Set aims and scope for review
 - [ ] Receive feedback
 - [ ] Action feedback
