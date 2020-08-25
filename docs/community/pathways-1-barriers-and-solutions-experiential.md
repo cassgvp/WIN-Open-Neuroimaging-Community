@@ -1,5 +1,5 @@
 ---
-title: 4.2 Pathway barriers and solutions: Experiential
+title: 4.2 Experiential barriers
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false

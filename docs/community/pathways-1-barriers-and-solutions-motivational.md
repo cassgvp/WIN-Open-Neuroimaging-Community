@@ -1,5 +1,5 @@
 ---
-title: 4.4 Pathway barriers and solutions: Motivational
+title: 4.4 Motivational barriers
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false

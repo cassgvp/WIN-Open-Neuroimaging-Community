@@ -1,5 +1,5 @@
 ---
-title: 4.3 Pathway barriers and solutions: Welcoming and Inclusivity
+title: 4.3 Inclusivity barriers
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false

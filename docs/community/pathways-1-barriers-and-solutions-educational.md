@@ -1,5 +1,5 @@
 ---
-title: 4.1 Pathway barriers and solutions: Educational
+title: 4.1 Educational barriers
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
