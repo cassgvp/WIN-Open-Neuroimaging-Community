@@ -24,6 +24,13 @@ For each persona we will model their path through the [mountain of engagement](m
 5. Networked Participation - How they may network within the community.
 6. Leadership - How they may take on some additional responsibility on the project, or begin to lead.
 
+**Jump to one of the personas below to see how these people could be developed to leadership roles in our community, or read through all the examples!**
+* [Jesse - Enthusiastic Masters student with no preconceptions of open research](#Jesse)
+* [Rowan - Strong PhD student who has been warned away from open research](#Rowan)
+* [Asfar - Senior postdoc with negative preconceptions but looking for career points](#Asfar)
+* [Huan - Postdoc who likes the idea of open research but doesn't think they can contribute](#Huan)
+* [Siya - Principle Investigator who thinks they are doing fine without open research](#Siya)
+
 ## Jesse
 
 | Career stage | Open research experience | Communication and teamwork | Time available | Neuroimaging and Institutional experience | Computational literacy |
@@ -45,10 +52,10 @@ Introduces themselves on the Slack Welcome channel. Community acknowledges arriv
 Asks their supervisor if any of their project material can be shared. Unfortunately none ready. Reaches out for other ways to contribute. Not available for a documentation hack. Works with Community Coordinator or representative to create "good first issue" list.
 
 #### 5. Networked Participation
-Tells other Masters students about their experience. More join Slack.
+Finds Masters students in the Community and discusses their experience.
 
 #### 6. Leadership
-Discusses resources for Masters students with Community Coordinator. Starts a channel in Slack relevant for their needs as "good first issue" people or Masters students explicitly.
+Discusses resources for Masters students with Community Coordinator. Starts a channel in Slack relevant for their needs.
 
 <!-- Discovery - Sees poster advertising study group around campus.
 First Contact - Attends a meeting of the group, and is encouraged to return in a follow up email.
@@ -108,10 +115,11 @@ Attends documentation hack. Creates material for how to contribute to open tasks
 Writes good documentation for their own tasks, shares them on open tasks repository.
 
 #### 5. Networked Participation
-Sends students to open tasks repository.
+Asks others how their line managers have responded to their engagement with the community or tools.
 
 #### 6. Leadership
 Contributes to leadership conversations about how students should be trained in programming.
+
 
 ## Huan
 
@@ -134,7 +142,7 @@ Joins Slack. Enjoys the community discussion and welcoming environment.
 Attends documentation hack. Enjoys training and supportive environment. Submits minor documentation edits.
 
 #### 5. Networked Participation
-Tells their outreach groups about the Open WIN Community work.
+Finds others who are interested in public engagement in the community.
 
 #### 6. Leadership
 Presents on the Open WIN Community to Public Engagement colleagues and suggests it is promoted with the general public.

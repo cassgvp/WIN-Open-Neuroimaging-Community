@@ -14,6 +14,13 @@ What imaginary characters can we create based on our descriptions of [who we nee
 
 ---
 
+**Jump to one of the personas below to see how we we envisage our community members varying in key aspects of experience and motivations, or read through all the examples!**
+* [Jesse - Enthusiastic Masters student with no preconceptions of open research](#Jesse)
+* [Rowan - Strong PhD student who has been warned away from open research](#Rowan)
+* [Asfar - Senior postdoc with negative preconceptions but looking for career points](#Asfar)
+* [Huan - Postdoc who likes the idea of open research but doesn't think they can contribute](#Huan)
+* [Siya - Principle Investigator who thinks they are doing fine without open research](#Siya)
+
 #### Emoji key
 We have used an emoji key to summarise our personas' experience and attitudes to each of the [attributes](personas-1-who.md)  identified as being valuable to the community. These emojis are intended to give you a quick feel for how each persona relates to an attribute. They can be conceptualised by the descriptions given with each image.
 
