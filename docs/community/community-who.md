@@ -17,7 +17,7 @@ Find out who we are and where we sit in the wider WIN context.
 # Who are we?
 
 * [Community members](#community-members)
-* [Community Coordinator](##community-coordinator---cassandra-gould-van-praag-sheher)
+* [Community Coordinator](#community-coordinator---cassandra-gould-van-praag-sheher)
 * [WIN Open Neuroimaging Working Group](#win-open-neuroimaging-working-group)
 
 ![community-schematic](../img/img-community-schematic-h400-gold.png)
