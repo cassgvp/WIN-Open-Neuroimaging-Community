@@ -3,7 +3,7 @@ title: 6. Pathway descriptions
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
-nav_order: 6
+nav_order: 5
 ---
 
 # 6. Pathway descriptions
