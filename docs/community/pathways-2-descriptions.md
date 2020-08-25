@@ -137,7 +137,7 @@ Attends documentation hack. Enjoys training and supportive environment. Submits 
 Tells their outreach groups about the Open WIN Community work.
 
 #### 6. Leadership
-Presents on the Open WIN Community to Public Engagement Team and suggests it is promoted with the general public.
+Presents on the Open WIN Community to Public Engagement colleagues and suggests it is promoted with the general public.
 
 
 ## Siya
@@ -164,4 +164,4 @@ Discusses with lab what other outputs can be shared.
 Speaks to other Principle Investigators about how their latest paper is more "REF-able" with the added supplementary outputs.
 
 #### 6. Leadership
-Sets lab policy or intention to make all possible outputs openly shareable. Gives team time and resources to contribute to the community. 
+Sets lab policy or intention to make all possible outputs openly shareable. Gives team time and resources to contribute to the community.
