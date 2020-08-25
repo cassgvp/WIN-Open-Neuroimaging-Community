@@ -5,9 +5,9 @@ description: A space for the WIN Open Neuroimaging Community to build and share 
 baseurl: "/WIN-Open-Neuroimaging-Community" # the subpath of your site, e.g. /blog
 url: "https://cassgvp.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 aux_links:
-  "Contact Us":
+  "Join the Community":
     - "https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html"
-  "View this repository on GitHub":
+  "View on GitHub":
     - "//github.com/cassgvp/WIN-Open-Neuroimaging-Community"
 # Footer content appears at the bottom of every page's main content
 footer_content: "Copyright &copy; 2020 Cassandra Gould van Praag. Distributed by an <a href=\"https://https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/tree/master/LICENSE.md\">CC-BY-4.0 license.</a>"
