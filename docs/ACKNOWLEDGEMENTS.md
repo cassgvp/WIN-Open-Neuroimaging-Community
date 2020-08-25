@@ -23,4 +23,8 @@ Other resources have also been developed following example materials developed b
 
 The Ambassadors scheme has been modelled on materials available from the [TU Delft Data Champions program](https://www.tudelft.nl/en/library/current-topics/research-data-management/r/support/data-champions/). 🙏
 
-Figures have been created from images in the [Noun Project](https://thenounproject.com) repository, contributed by [Alice Design](https://thenounproject.com/rose-alice-design/), [Andrejs Kirma](https://thenounproject.com/andrejs/), [DinosoftLab](https://thenounproject.com/dinosoftlab/), [Luis Prado](https://thenounproject.com/Luis/), [Sergey Demushkin]((https://thenounproject.com/mockturtle/), [Thuy Nguyen]((https://thenounproject.com/milkghost/), and [vectlab](https://thenounproject.com/vectlabmail/). 🙏 
+Resources for creating the our community documentation hackathons have been created using templates and structures devised for the [Organisation of Human Brain Mapping](https://www.humanbrainmapping.org) [Open Science Special Interest Group](https://ossig.netlify.app) [Hackathon 2020](https://ohbm.github.io/hackathon2020/). 🙏
+
+`Remi Gau, Liza Levitis, Dorien Huijser, Camille Maumet, Steffen Bollmann, Anibal Sólon, … Kanishk Kalra. (2020, August 25). ohbm/hackathon2020: post-hackathon-20200825 (Version v0.0.1). Zenodo. http://doi.org/10.5281/zenodo.4000205`
+
+Figures have been created from images in the [Noun Project](https://thenounproject.com) repository, contributed by [Alice Design](https://thenounproject.com/rose-alice-design/), [Andrejs Kirma](https://thenounproject.com/andrejs/), [DinosoftLab](https://thenounproject.com/dinosoftlab/), [Luis Prado](https://thenounproject.com/Luis/), [Sergey Demushkin]((https://thenounproject.com/mockturtle/), [Thuy Nguyen]((https://thenounproject.com/milkghost/), and [vectlab](https://thenounproject.com/vectlabmail/). 🙏
