@@ -3,7 +3,7 @@ title: 4.4 Motivational barriers
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
-nav_order: 4
+nav_order: 7
 ---
 
 # 4.4 Pathway barriers and solutions: Motivational
