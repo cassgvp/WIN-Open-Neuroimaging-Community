@@ -33,4 +33,4 @@ Access to the materials and Open Tools should be rapid. Students and others shou
 There should be routes for engagement which do not require significant time commitments. For example, we could have a channel specifically for surveying opinions via quick limited choice polls. This would enable us to gain the input of a wider community without their needing to engage too deeply. Such a resource should be used sparingly, and advertised specifically for the purpose of low effort participation.
 
 #### Dip-in, dip-out participation
-People will have more or less time to engage at various stages of their appointment at WIN. We should make it clear that it is totally acceptable to dip into and out of active roles in the community whenever is appropriate. This behaviour should be modelled and expected.
+People will have more or less time to engage at various stages of their appointment at WIN. We should make it clear that it is totally acceptable to dip into and out of active roles in the community whenever necessary. This behaviour should be modelled and expected.

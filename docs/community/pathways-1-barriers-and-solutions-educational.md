@@ -16,7 +16,7 @@ What might be the barriers to engagement for our [personas](personas-3-descripti
 
 ## Educational
 
-We are expecting (and hoping!) that many of the people who engage with the community will have little experience in the details of open research, processes specific to WIN, or technical aspects of how to contribute to this project. It is clear that we need to welcome these people into the community, so we can benefit from their fresh perspective on the material we create.
+We are expecting (and hoping!) that many of the people who engage with the community will have little experience in the details of open research, processes specific to WIN, or technical aspects of how to contribute to this project. We need to welcome these people into the community, so we can benefit from their fresh perspective on the material created.
 
 ### Externally curated resources
 Where possible we would like to direct to existing resources to fulfil educational needs. These should be carefully curated and relevant to what we are trying to achieve. This material should be easy to assimilate (for example captioned videos) as we should aim to minimise pre-reading as an entry requirement.  

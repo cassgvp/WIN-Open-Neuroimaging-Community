@@ -1,15 +1,15 @@
 ---
-title: 6. Pathway descriptions
+title: 5. Pathway descriptions
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
 nav_order: 8
 ---
 
-# 6. Pathway descriptions
+# 5. Pathway descriptions
 {: .fs-9 }
 
-How will our [personas](personas-descriptions.md) journey through this project?
+How will our [personas](personas-3-descriptions.md) journey through this project?
 {: .fs-6 .fw-300 }
 
 ---

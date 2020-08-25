@@ -14,13 +14,20 @@ What might be the barriers to engagement for our [personas](personas-3-descripti
 
 ---
 
-### Welcoming and inclusivness
+## Welcoming and inclusivness
 We should be mindful of the fact that open research can be perceived as a "closed" group. We would also like to promote [inclusivity as a key factor in the progress of open science, in so far as it pertains to reproducibility](https://slides.com/cassgvp/deck-573b79).
 
+### Traditionally under-represented groups
 We are working closely with the [WIN Member Networks](https://www.win.ox.ac.uk/about/edi/member-networks) to review our materials and events to make sure they are explicitly inclusive for marginalised folks.
 
+### Explicit welcome
 We could consider devising a protocol for welcoming new members into the community and making that explicit to those who are able to engage more. For example, noticing when someone joins the slack group and giving them a wave or invite them to introduce themselves 👋
 
+### Accessible point contact
 We could consider offering new community members the opportunity for a one-to-one meeting with the [Community Coordinator](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/community/community-who.html#community-coordinator---cassandra-gould-van-praag-sheher), so they feel comfortable in making a direct approach where necessary and that they "know" at least one person before attending events or contributing.
 
+### Open communication
 We should develop universally accessible ways to communicate and explain the results of in-person activities. This is essential for anyone missing from a conversation and neurodiverse individuals.
+
+### All contributions valued
+We need to effectively convey that any and all contributions to the community are valuable. There is not a single skill set which is more important than another, and every person should have a voice.
