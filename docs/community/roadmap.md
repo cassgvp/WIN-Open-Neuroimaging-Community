@@ -42,7 +42,7 @@ These documents have been devised as part of the [Mozilla Open Leadership Framew
 Complete 🥳
 
 #### Tasks completed
-- [x] [Project vision](open-leadership.md)
+- [x] [Project vision](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/open-leadership.html#open-ambassadors-vision-statement)
 - [x] [Lean canvas: One page business plan describing how you will execute your vision](open-leadership.md)
 - [x] [Project landing page or README](../../index.md)
 - [x] [Roadmap for identifying milestones in the project](roadmap.md)
