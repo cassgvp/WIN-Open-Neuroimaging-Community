@@ -66,7 +66,7 @@ Work in progress
 
 #### Tasks completed
 - [x] Identify testers
-- [ ] Set aims and scope for review
+- [x] Set aims and scope for review
 - [ ] Receive feedback
 - [ ] Action feedback
 
