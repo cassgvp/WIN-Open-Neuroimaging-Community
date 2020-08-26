@@ -16,13 +16,7 @@ What imaginary characters can we create based on our descriptions of [who we nee
 
 For each of our personas, we have imagined how they might interact with the project. Our consideration of barriers to participation ([educational](pathways-1-barriers-and-solutions-educational.md), [experiential](pathways-1-barriers-and-solutions-experiential.md), [inclusivity](pathways-1-barriers-and-solutions-inclusivity.md) and [motivational](pathways-1-barriers-and-solutions-motivational.md)) should have caught any potential sticking points in their progression.
 
-For each persona we will model their path through the [mountain of engagement](mountain-of-engagement.md) in the following steps:
-1. Discovery - How they first hear about the project or group.
-2. First Contact - How they first engage with the project or group, that initial interaction.
-3. Participation - How they first participate or contribute.
-4. Sustained Participation - How their contribution or involvement can continue.
-5. Networked Participation - How they may network within the community.
-6. Leadership - How they may take on some additional responsibility on the project, or begin to lead.
+For each persona we will model their path through the [mountain of engagement](mountain-of-engagement.md).
 
 **Jump to one of the personas below to see how these people could be developed to leadership roles in our community, or read through all the examples!**
 * [Jesse - Enthusiastic Masters student with no preconceptions of open research](#Jesse)
