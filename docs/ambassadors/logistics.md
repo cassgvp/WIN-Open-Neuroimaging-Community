@@ -1,13 +1,30 @@
 ---
-title: Practical issues
+title: Logistics
 parent: Open WIN Ambassadors
 has_children: false
 nav_order: 1
 ---
 
+# Logistics
+{: .fs-9 }
+
+Find out about our proposed logistics of running and participating in the Ambassadors program
+{: .fs-6 .fw-300 }
+
+---
+
+Below we have answered some questions about how the pilot Ambassadors program will be structured. Jump straight to one of the questions or go through them all!
+
+* [How many Ambassadors will take part in the pilot program?](#how-many-ambassadors-will-take-part-in-the-pilot-program)
+* [How will the Ambassadors work together?](#how-will-the-ambassadors-work-together)
+* [How long will Ambassadors be in-post for?](#how-long-will-ambassadors-be-in-post-for)
+* [Who can be an ambassador?](#who-can-be-an-ambassador)
+* [How can I become an Ambassador?](#wow-can-i-become-an-ambassador)
+
+
 # How many Ambassadors will take part in the pilot program?
 
-In this pilot program, we will look to engage ten Ambassadors. Ultimately we would like to have an Ambassador in each of the WIN research  groups.
+In this pilot program, we will look to engage up to ten Ambassadors. Ultimately we would like to have an Ambassador in each of the WIN research  groups.
 
 # How will the Ambassadors work together?
 
