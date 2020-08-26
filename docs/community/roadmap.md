@@ -47,7 +47,7 @@ Work in progress
 - [x] [Project landing page or README](../../index.md)
 - [x] [Roadmap for identifying milestones in the project](roadmap.md)
 - [ ] [Personas and pathways: Understanding who you contributors are](personas.md)
-- [ ] [Mountain of engagement](mountain-of-engagement.md)
+- [x] [Mountain of engagement](mountain-of-engagement.md)
 - [x] [Code of conduct](CODE_OF_CONDUCT.md)
 - [x] [Contributor guidelines](../../CONTRIBUTING.md)
 - [x] [License and citation guidelines](../../LICENSE)
