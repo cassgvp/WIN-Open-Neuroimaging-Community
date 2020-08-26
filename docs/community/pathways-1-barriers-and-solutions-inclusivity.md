@@ -1,12 +1,12 @@
 ---
-title: 3.3 Inclusivity barriers
+title: 3.3. Inclusivity barriers
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
 nav_order: 5
 ---
 
-# 3.3 Pathway barriers and solutions: Welcoming and Inclusivity
+# 3.3. Pathway barriers and solutions: Welcoming and Inclusivity
 {: .fs-9 }
 
 What might be the barriers to engagement for our [personas](personas-3-descriptions.md) and how can we address these?

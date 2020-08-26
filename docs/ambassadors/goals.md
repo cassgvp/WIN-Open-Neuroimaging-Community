@@ -5,7 +5,7 @@ has_children: false
 nav_order: 2
 ---
 
-# What are the goals of the ambassador program?
+# What are the goals of the Ambassador program?
 {: .fs-9 }
 
 Find out about why we are running the Ambassador program and what we hoe to achieve.

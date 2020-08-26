@@ -1,12 +1,12 @@
 ---
-title: 3.4 Motivational barriers
+title: 3.4. Motivational barriers
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
 nav_order: 6
 ---
 
-# 3.4 Pathway barriers and solutions: Motivational
+# 3.4. Pathway barriers and solutions: Motivational
 {: .fs-9 }
 
 What might be the barriers to engagement for our [personas](personas-3-descriptions.md) and how can we address these?

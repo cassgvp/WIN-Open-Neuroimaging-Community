@@ -1,11 +1,11 @@
 ---
-title: Participation Guideline
+title: Participation Guidelines
 parent: Open WIN Community
 has_children: false
 nav_order: 7
 ---
 
-# Participation Guideline
+# Participation Guidelines
 {: .fs-9 }
 
 How Open WIN Community members are expected to work, communicate and interact with each other, so we can all perform at our best.

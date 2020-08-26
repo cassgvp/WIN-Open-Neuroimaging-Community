@@ -1,12 +1,12 @@
 ---
-title: 3.2 Experiential barriers
+title: 3.2. Experiential barriers
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
 nav_order: 4
 ---
 
-# 3.2 Pathway barriers and solutions: Experiential
+# 3.2. Pathway barriers and solutions: Experiential
 {: .fs-9 }
 
 What might be the barriers to engagement for our [personas](personas-3-descriptions.md) and how can we address these?

@@ -1,12 +1,12 @@
 ---
-title: 4.0 Persona and pathway descriptions
+title: 4.0. Persona and pathway descriptions
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
 nav_order: 7
 ---
 
-# 4.0 Persona and pathway descriptions
+# 4.0. Persona and pathway descriptions
 {: .fs-9 }
 
 What imaginary characters can we create based on our descriptions of [who we need](personas-1-who.md) and [how they are motivated](personas-2-motivations.md) and how will they journey through this project?

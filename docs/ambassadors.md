@@ -9,7 +9,6 @@ nav_order: 4
 {: .fs-9 }
 
 Find out about our plans for the Open WIN Ambassadors scheme
-
 {: .fs-6 .fw-300 }
 
 ---
