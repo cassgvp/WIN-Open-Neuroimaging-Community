@@ -1,8 +1,8 @@
 ---
-title: Contact Us
+title: Join the Community
 parent: Home
 has_children: false
-nav_order: 5
+nav_order: 6
 ---
 
 # Contact Us

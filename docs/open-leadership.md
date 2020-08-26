@@ -1,28 +1,27 @@
 ---
 title: Open Leadership
-parent: Open WIN Community
+parent: Home
 has_children: false
-nav_order: 1
+nav_order: 3
 ---
 
 # What is "Open Leadership" and why is it relevant to this community?
 {: .fs-9 }
 
-Find out about the principles which are guiding this community
+Find out about the principles guiding this community effort
 {: .fs-6 .fw-300 }
 
 ---
 
-Based on open source projects and community engagement.
+The Open Leadership framework was developed by Mozilla to support open source community projects. It describes a set of tools and practices which have been used in creating this repository along with exercises which have helped design effective paths to contribution. These principles were passed to the Open WIN Community Coordinator through participation in the [Open Life Science](https://openlifesci.org) program.
 
-# Launching the program
-We will launch the ambassador program at a WIN Wednesday Seminar on 16th September. Event details and joining instructions will be listed on the [WIN Intranet](https://sharepoint.nexus.ox.ac.uk/sites/NDCN/FMRIB/Lists/Calendar/DispForm.aspx?ID=316&Source=https%3A%2F%2Fsharepoint%2Enexus%2Eox%2Eac%2Euk%2Fsites%2FNDCN%2FFMRIB%2FLists%2FCalendar%2Fcalendar%2Easpx). At this meeting we will provide an overview of the WIN Open Infrastructure <mark>Make sure I'm using "WIN Open Infrastructure" consistently, decide on capitalisation etc</mark> and describe the Mozilla models for community engagement we will be pilotting. We will initially aim to recruit 10-15 people into the pilot Ambassador Program.
+![Mozilla Open Leadership structure](../img/img-open-leadership.png)
 
 # Mozilla Open Leadership Framework
 
 The Mozilla Open Leadership Framework promotes open and inclusive participation, understanding, and sharing by design. This model has been refined through six years of training to prepare "open" (often open source) <mark>should include a glossary link</mark> projects to be launched into the public arena. The aim of this framework is to mobilise the community, solve shared problems and achieve shared goals. This is achieved by sharing a commitment to transparency and inclusivity in the leadership and contributors to the project. One of the added benefits of this open model is that it forces the project to be very clear and considered about its goals, vision and strategy, so it can be communicated openly and effectively. It also crystallises a "user centric" perspective, by integrating the target audience into the development process. This means when the project is launched, you have a ready-made user base of advocates to support and champion the project to achieve maximum impact.
 
-![Mozilla Open Leadership structure](../img/img-open-leadership.png)
+
 
 <!-- <img src="/img/mozilla-framework/open-leadershippng" alt="Mozilla Open Leadership structure"  width="100%" height="50%"> -->
 
