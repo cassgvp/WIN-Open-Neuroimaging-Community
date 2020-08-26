@@ -52,11 +52,11 @@ We are working open as this is an effective way to develop a user focused and in
 
 The open canvas is designed to help define project goals, strategy and resource needs to create a minimum viable product (MVP). The images below describe the sections for the open canvas and the model we have drafted for the future [Open WIN Ambassadors](ambassadors.md) program.
 
-![Open-canvas section descriptions](img/mozilla-framework/open-canvas-instruct.png)
+![Open canvas section descriptions](img/mozilla-framework/open-canvas-instruc.png)
 
 <!-- <img src="/img/mozilla-framework/open-canvas-instructpng" alt="Open canvas section descriptions"  width="100%" height="50%"> -->
 
-![Open canvas for WIN Open Ambassadors Program](img/mozilla-framework/open-canvas-ambass.png)
+![Open canvas for WIN Open Ambassadors Program](img/mozilla-framework/open-canvas-ambas.png)
 
 <!-- <img src="/img/mozilla-framework/open-canvas-ambasspng" alt="Open canvas for WIN Open Ambassadors Program"  width="100%" height="50%"> -->
 
@@ -64,7 +64,7 @@ The open canvas is designed to help define project goals, strategy and resource 
 
 A project README is your welcome mat. It should set the tone for the project, clearly describe the motivations and orient potential contributors.
 
-The README for the Open WIN Community is the [home page of this repository](index.md).
+The README for the Open WIN Community is the [home page of this repository](../index.md).
 
 ### Project Roadmap
 
@@ -82,7 +82,7 @@ Take a look at our [personas and pathways analysis for the community](community/
 
 This sets out how we will interact with each other when working on this project, and how we will report and take appropriate actions against violations of this code of conduct
 
-Take a look at our [participation guidelines and how we will support enacting University wide policies on harassment](CODE_OF_CONDUCT.md).
+Take a look at our [participation guidelines](community/CODE_OF_CONDUCT.md) and how we will support enacting University wide policies on harassment
 
 ### Contributor guidelines
 
