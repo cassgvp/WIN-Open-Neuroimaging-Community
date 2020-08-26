@@ -15,7 +15,7 @@ Find out about the principles guiding this community effort
 
 The Open Leadership framework was developed by Mozilla to support open source community projects. It describes a set of tools and practices which have been used in creating this repository along with exercises which have helped design effective paths to contribution. These principles were passed to the Open WIN Community Coordinator through participation in the [Open Life Science](https://openlifesci.org) program.
 
-![Mozilla Open Leadership structure](../img/img-open-leadership.png)
+![Mozilla Open Leadership structure](img/img-open-leadership.png)
 
 # Mozilla Open Leadership Framework
 
