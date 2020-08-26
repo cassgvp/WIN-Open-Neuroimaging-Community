@@ -39,18 +39,18 @@ There are a number of significant turning points or events which will move the O
 These documents have been devised as part of the [Mozilla Open Leadership Framework](https://mozilla.github.io/open-leadership-framework/framework/). They are intended to support the planning and execution of any project which seeks community involvement and intends to promote the values of open and transparent leadership.
 
 #### Status
-Work in progress
+Complete 🥳
 
 #### Tasks completed
 - [x] [Project vision](open-leadership.md)
 - [x] [Lean canvas: One page business plan describing how you will execute your vision](open-leadership.md)
 - [x] [Project landing page or README](../../index.md)
 - [x] [Roadmap for identifying milestones in the project](roadmap.md)
-- [ ] [Personas and pathways: Understanding who you contributors are](personas.md)
+- [x] [Personas and pathways: Understanding who you contributors are](personas.md)
 - [x] [Mountain of engagement](mountain-of-engagement.md)
-- [x] [Code of conduct](CODE_OF_CONDUCT.md)
+- [x] [Participation guidelines](CODE_OF_CONDUCT.md)
 - [x] [Contributor guidelines](../../CONTRIBUTING.md)
-- [x] [License and citation guidelines](../../LICENSE)
+- [x] [License and citation guidelines](../../LICENSE.md)
 - [x] [Publish repository openly](../../index.md)
 
 #### Due date
