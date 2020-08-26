@@ -30,3 +30,13 @@ Recycle by vectlab from the Noun Project
 --------
 
 Mountain By Victor Llavata Bartual, GB 
+
+---------
+
+
+1. Discovery - How they first hear about the project or group.
+2. First Contact - How they first engage with the project or group, that initial interaction.
+3. Participation - How they first participate or contribute.
+4. Sustained Participation - How their contribution or involvement can continue.
+5. Networked Participation - How they may network within the community.
+6. Leadership - How they may take on some additional responsibility on the project, or begin to lead.

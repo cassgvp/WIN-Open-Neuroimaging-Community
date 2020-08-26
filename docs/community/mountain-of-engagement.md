@@ -14,4 +14,4 @@ Learn about how we aim to work with community members to build a sustainable com
 
 ---
 
-<!-- ![community-schematic](../img/img-community-schematic-h400-gold.png) -->
+![mountain-of-engagement](../img/img-m-o-e.png)
