@@ -2,12 +2,23 @@
 title: External events
 parent: Open WIN Events
 has_children: false
-nav_order: 10
+nav_order: 2
 ---
 
-Things you might be interest in will be listed here.
+# External events
+{: .fs-9 }
 
-The community will be invited to submit pull requests for event details. <mark> probably need a template for this. Could even use Open Research Calendar?! Maybe just embed it here!</mark>
+Events created by other open research communities.
+{: .fs-6 .fw-300 }
+
+---
+
+Below is a live copy of the [Open Research Calendar](https://openresearchcalendar.github.io/Open-Research-Calendar/). This is a community tool which allows individuals to add their "open research events" to a single place. This is a great resource to keep track of and contribute to!
+
+Visit [@OpenResearchCal](https://twitter.com/OpenResearchCal) on twitter to find out how to add your events.
+
+![open-research-calendar](../img/img-orc.png)
+
 
 <div class="span3">
 	<h3>List of 2013 Events</h3>
