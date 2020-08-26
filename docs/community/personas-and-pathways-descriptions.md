@@ -1,20 +1,20 @@
 ---
-title: 5. Pathway descriptions
+title: 4.0 Persona and pathway descriptions
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
-nav_order: 8
+nav_order: 7
 ---
 
-# 5. Pathway descriptions
+# 4.0 Persona and pathway descriptions
 {: .fs-9 }
 
-How will our [personas](personas-descriptions.md) journey through this project?
+What imaginary characters can we create based on our descriptions of [who we need](personas-1-who.md) and [how they are motivated](personas-2-motivations.md) and how will they journey through this project?
 {: .fs-6 .fw-300 }
 
 ---
 
-For each of our personas, we will imagine how they might interact with the project. Our consideration of barriers to participation ([educational](pathways-1-barriers-and-solutions-educational.md), [experiential](pathways-1-barriers-and-solutions-experiential.md), [inclusivity](pathways-1-barriers-and-solutions-inclusivity.md) and [motivational](pathways-1-barriers-and-solutions-motivational.md)) should have caught any potential sticking points in their progression.
+For each of our personas, we have imagined how they might interact with the project. Our consideration of barriers to participation ([educational](pathways-1-barriers-and-solutions-educational.md), [experiential](pathways-1-barriers-and-solutions-experiential.md), [inclusivity](pathways-1-barriers-and-solutions-inclusivity.md) and [motivational](pathways-1-barriers-and-solutions-motivational.md)) should have caught any potential sticking points in their progression.
 
 For each persona we will model their path through the [mountain of engagement](mountain-of-engagement.md) in the following steps:
 1. Discovery - How they first hear about the project or group.

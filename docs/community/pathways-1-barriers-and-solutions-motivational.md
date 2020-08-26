@@ -1,12 +1,12 @@
 ---
-title: 4.4 Motivational barriers
+title: 3.4 Motivational barriers
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
-nav_order: 7
+nav_order: 6
 ---
 
-# 4.4 Pathway barriers and solutions: Motivational
+# 3.4 Pathway barriers and solutions: Motivational
 {: .fs-9 }
 
 What might be the barriers to engagement for our [personas](personas-3-descriptions.md) and how can we address these?
@@ -34,4 +34,4 @@ As this is a young community, early adopters will also be identified as leaders 
 ### 3. Creating
 There is significant room to shape this community through participation. We should emphasise opportunities to create not only written materials, but also online structure, graphics, events and community governance. New ideas will always be welcome.
 
-Regarding governance, we may wish to consider the explicit governance model of [Martha's Rules](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296). 
+Regarding governance, we may wish to consider the explicit governance model of [Martha's Rules](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1007296).

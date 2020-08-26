@@ -1,12 +1,12 @@
 ---
-title: 4.1 Educational barriers
+title: 3.1 Educational barriers
 parent: Personas and Pathways
 grand_parent: Open WIN Community
 has_children: false
-nav_order: 4
+nav_order: 3
 ---
 
-# 4.1 Pathway barriers and solutions: Educational
+# 3.1 Pathway barriers and solutions: Educational
 {: .fs-9 }
 
 What might be the barriers to engagement for our [personas](personas-3-descriptions.md) and how can we address these?
