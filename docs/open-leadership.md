@@ -8,7 +8,7 @@ nav_order: 3
 # What is "Open Leadership" and why is it relevant to this community?
 {: .fs-9 }
 
-Find out about the principles guiding this community effort
+Find out about the principles guiding this project
 {: .fs-6 .fw-300 }
 
 ---
@@ -32,15 +32,15 @@ The open ethos is supported by a series of practices and tools for planning, pro
 
 We welcome you feedback on every aspect, and will update these documents as the project progresses.
 
-[Vision statement](#vision-statement)
-[Open Canvas](#open-canvas)
-[README landing page](#readme-landing-page)
-[Project Roadmap](#project-roadmap)
-[Personas and pathways](#personas-and-pathways)
-[Code of conduct](#code-of-conduct)
-[Contributor guidelines](#contributor-guidelines)
-[License and citing the repository](#license-and-citing-the-repository)
-[Publish your project openly](#publish-your-project-openly)
+* [Vision statement](#vision-statement)
+* [Open Canvas](#open-canvas)
+* [README landing page](#readme-landing-page)
+* [Project Roadmap](#project-roadmap)
+* [Personas and pathways](#personas-and-pathways)
+* [Code of conduct](#code-of-conduct)
+* [Contributor guidelines](#contributor-guidelines)
+* [License and citing the repository](#license-and-citing-the-repository)
+* [Publish your project openly](#publish-your-project-openly)
 
 ### Vision statement
 
@@ -52,7 +52,7 @@ We are working open as this is an effective way to develop a user focused and in
 
 The open canvas is designed to help define project goals, strategy and resource needs to create a minimum viable product (MVP). The images below describe the sections for the open canvas and the model we have drafted for the future [Open WIN Ambassadors](ambassadors.md) program.
 
-![Open canvas section descriptions](img/mozilla-framework/open-canvas-instruct.png)
+![Open-canvas section descriptions](img/mozilla-framework/open-canvas-instruct.png)
 
 <!-- <img src="/img/mozilla-framework/open-canvas-instructpng" alt="Open canvas section descriptions"  width="100%" height="50%"> -->
 
