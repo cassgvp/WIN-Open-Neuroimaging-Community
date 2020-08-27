@@ -32,7 +32,7 @@ The open ethos is supported by a series of practices and tools for planning, pro
 
 We welcome you feedback on every aspect, and will update these documents as the project progresses.
 
-* [Vision statement](#vision-statement)
+* [Mission and vision](#mission-and-vision)
 * [Open Canvas](#open-canvas)
 * [README landing page](#readme-landing-page)
 * [Project Roadmap](#project-roadmap)
@@ -42,11 +42,11 @@ We welcome you feedback on every aspect, and will update these documents as the 
 * [License and citing the repository](#license-and-citing-the-repository)
 * [Publish your project openly](#publish-your-project-openly)
 
-### Vision statement
-
-The Open WIN Community will build a community of researchers who are empowered to develop the training, policies, governance and structures we would like in place to support us in practicing open science.
-
-We are working open as this is an effective way to develop a user focused and inclusive project which all members of our community can contribute to and benefit from.  
+### Mission and vision
+#### Mission
+To support the use of open research practices to improve human brain health
+#### Vision
+Open and considered sharing of our research outputs
 
 ### Open Canvas
 
