@@ -34,12 +34,29 @@ Mountain By Victor Llavata Bartual, GB
 ---------
 
 
-### Vision statement
-### Open Canvas
-### README landing page
-### Project Roadmap
-### Personas and pathways
-### Code of conduct
-### Contributor guidelines
-### License and citing the repository
-### Publish your project openly
+
+Named authors (alphabetically *corresponding):
+Cassandra Gould van Praag*
+Clare Mackay
+Non-author contributors (alphabetically)
+Jon Campbell
+Stuart Clare
+Geoff Ferrari
+Dave Flitney
+Gary Gibbs
+Taylor Hanayik
+Verena Heise
+Laurence Hunt
+Mark Jenkinson
+Paul McCarthy
+Duncan Mortimer 
+Caroline Nettekoven
+Tom Nichols
+Sebastien Rieger
+Nancy Rawlings 
+Paul Semple
+Duncan Smith 
+Matthew South 
+Andrew Quinn
+Natalie Voets
+Mathew Webster 
