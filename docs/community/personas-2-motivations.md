@@ -9,7 +9,7 @@ nav_order: 2
 # 2.0. How are our personas motivated?
 {: .fs-9 }
 
-Why are our personas interested in engaging with this community?
+What reasons will researchers have for engaging with this community?
 {: .fs-6 .fw-300 }
 
 ---

@@ -44,10 +44,10 @@ Providing feedback about this site is a contribution to  the community. Thank yo
 ## What is an "issue"
 An "issue" is a term used by GitHub for a place to track ideas, enhancements, tasks, or bugs.
 
-You can leave feedback on this site by commenting on the [issues in our github repository](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc).  You are welcome to comment on any issue that feels relevant. If you are new to the community you might like to first have a go with the issues labelled "good first issue".
+You can leave feedback on this site by commenting on the [issues in our GitHub repository](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/issues?q=is%3Aissue+is%3Aopen+sort%3Acreated-asc).  You are welcome to comment on any issue that feels relevant. If you are new to the community you might like to first have a go with the issues labelled "good first issue".
 
 ## Creating a GitHub account to comment
-To comment on the issues you will need a GitHub login. If you haven’t got one, it takes two seconds to create one here: https://github.com/join. Accounts are free and you can close them at any time.
+To comment on the issues you will need a GitHub login. If you haven’t got one, it takes two seconds to [create a GitHub account](https://github.com/join). Accounts are free and you can close them at any time.
 
 ## Do I have to write something?
 No. If you don't feel like writing out something, you are very welcome to add a quick emoji to something someone else has written. Feedback on other people's feedback is also really helpful!
@@ -60,3 +60,6 @@ If you are able to write something, you are welcome to add just a few words, sen
 Yes. We'd really like for all feedback to be public. This will ensure that everything is transparent and well recorded. The aim is to show that community members have had input on these pages, and we’ve listened to and incorporated your feedback.
 
 Please don’t be worried about being critical (if something’s not right, I need to know about it!), but please try to be respectful and courteous, as per the [community participation guidelines](community/CODE_OF_CONDUCT.md).
+
+## Do I *really* have to use GitHub?
+If this process really doesn't work for you, I'd still love to receive your feedback one way or another. By email is just fine 😊.
