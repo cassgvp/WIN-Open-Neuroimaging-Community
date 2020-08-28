@@ -35,28 +35,10 @@ Mountain By Victor Llavata Bartual, GB
 
 
 
-Named authors (alphabetically *corresponding):
-Cassandra Gould van Praag*
-Clare Mackay
-Non-author contributors (alphabetically)
-Jon Campbell
-Stuart Clare
-Geoff Ferrari
-Dave Flitney
-Gary Gibbs
-Taylor Hanayik
-Verena Heise
-Laurence Hunt
-Mark Jenkinson
-Paul McCarthy
-Duncan Mortimer 
-Caroline Nettekoven
-Tom Nichols
-Sebastien Rieger
-Nancy Rawlings 
-Paul Semple
-Duncan Smith 
-Matthew South 
-Andrew Quinn
-Natalie Voets
-Mathew Webster 
+After have a quick look through the [Open WIN Community](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/) pages:
+
+
+
+
+
+
