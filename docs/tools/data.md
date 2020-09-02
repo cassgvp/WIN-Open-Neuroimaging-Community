@@ -37,6 +37,11 @@ WIN members will also be encouraged to run and share the results of predefined q
 
 [![For WIN members](../img/btn-win.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/data.html#for-win-members)      [![For external researchers](../img/btn-external.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/data.html#for-external-researchers)
 
+Coming soon
+{: .label .label-yellow }
+
+**THIS TOOL IS CURRENTLY IN DEVELOPMENT. PLEASE REFER TO THE INFORMATION BELOW TO UNDERSTAND THE AIM AND AMBITION OF THIS PROJECT. THE "HOW TO" GUIDE WILL BE BUILT BY THE COMMUNITY AND TOOL DEVELOPERS IN THE COMING MONTHS.**
+
 ## For WIN members
 #### Version control ![version-control](../img/icon-version-control.png)
 Coming soon

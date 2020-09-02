@@ -19,6 +19,11 @@ How to share your experimental tasks
 ## Purpose
 The Open Tasks working group aims to encourage and incentivise researchers designing experimental tasks for functional neuroimaging to share these tasks openly with other researchers. They have established online repository for these paradigms to be shared, alongside documentation and analysis scripts for behavioural results. This working group also aims to train new members of the centre in open-source coding languages for paradigm development, and sharing reproducible environments.
 
+Coming soon
+{: .label .label-yellow }
+
+**THIS TOOL IS CURRENTLY IN DEVELOPMENT. PLEASE REFER TO THE INFORMATION BELOW TO UNDERSTAND THE AIM AND AMBITION OF THIS PROJECT. THE "HOW TO" GUIDE WILL BE BUILT BY THE COMMUNITY AND TOOL DEVELOPERS IN THE COMING MONTHS.**
+
 [![For WIN members](../img/btn-win.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/tasks.html#for-win-members)      [![For external researchers](../img/btn-external.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/tasks.html#for-external-researchers)
 
 ## For WIN members

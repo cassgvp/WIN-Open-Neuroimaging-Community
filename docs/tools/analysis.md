@@ -27,6 +27,11 @@ International community data standards - specifically the [Brain Imaging Data St
 ### Education
 Another large focus of this working group is developing programming literacy among WIN members, to support users in creating robust code to run their analysis. Significant efforts have been made to update the [FSL training material](https://fsl.fmrib.ox.ac.uk/fslcourse/), which is now available for free both internally and externally, and has been updated to include basic training in Unix command line access. The FSL course is being run remotely and at reduced registration rates for the first time in 2020, for improved accessibility and inclusivity.
 
+Coming soon
+{: .label .label-yellow }
+
+**THIS TOOL IS CURRENTLY IN DEVELOPMENT. PLEASE REFER TO THE INFORMATION BELOW TO UNDERSTAND THE AIM AND AMBITION OF THIS PROJECT. THE "HOW TO" GUIDE WILL BE BUILT BY THE COMMUNITY AND TOOL DEVELOPERS IN THE COMING MONTHS.**
+
 [![For WIN members](../img/btn-win.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/analysis.html#for-win-members)      [![For external researchers](../img/btn-external.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools/analysis.html#for-external-researchers)
 
 ## For WIN members
