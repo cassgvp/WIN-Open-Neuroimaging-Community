@@ -1,11 +1,11 @@
 ---
-title: Open Leadership
+title: Guiding Principles
 parent: Home
 has_children: false
 nav_order: 1
 ---
 
-# What is "Open Leadership" and why is it relevant to this community?
+# What are our guiding principles of "Open Leadership" and why are they relevant to this community?
 {: .fs-9 }
 
 Find out about the principles guiding this project
@@ -13,7 +13,7 @@ Find out about the principles guiding this project
 
 ---
 
-The Open Leadership framework was developed by Mozilla to support open source community projects. It describes a set of tools and practices which have been used in creating this repository along with exercises which have helped design effective paths to contribution. These principles were passed to the Open WIN Community Coordinator through participation in the [Open Life Science](https://openlifesci.org) program.
+This project is being developed with the guiding principle of "Open Leadership". The Open Leadership framework was developed by Mozilla to support open source community projects. It describes a set of tools and practices which have been used in creating this repository along with exercises which have helped design effective paths to contribution. These principles were passed to the Open WIN Community Coordinator through participation in the [Open Life Science](https://openlifesci.org) program.
 
 ![Mozilla Open Leadership structure](img/img-open-leadership.png)
 
