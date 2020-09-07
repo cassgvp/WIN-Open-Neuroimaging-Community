@@ -15,7 +15,7 @@ Who will our Community Members be, how will they find us and how will we support
 
 This exercise helped us to think about who might be interested in joining our community, how we can connect with them, and the journey they might go on. It is designed to help us reach different audiences and be welcoming to diverse contributors.
 
-**Follow the sections linked in the side bar to walk through the exercise and understand how we arrived at our [persona descriptions](personas-3-descriptions.md) and described their [pathways](pathways-2-descriptions.md) to engagement with this community.**
+**Follow the sections linked in the side bar to walk through the exercise and understand how we arrived at our [persona descriptions and described their pathways](personas-and-pathways-descriptions.md) to engagement with this community.**
 
 Our intention is to update this document as we gain a clearer idea of who we are engaging with or missing from the community. Please contact us if any of the ideas presented here do not resonate with you, or if they hit the right note! 🎶
 

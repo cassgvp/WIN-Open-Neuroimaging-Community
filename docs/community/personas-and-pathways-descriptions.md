@@ -19,11 +19,11 @@ For each of our personas, we have imagined how they might interact with the proj
 For each persona we will model their path through the [mountain of engagement](mountain-of-engagement.md).
 
 **Jump to one of the personas below to see how these people could be developed to leadership roles in our community, or read through all the examples!**
-* [Jesse - Enthusiastic Masters student with no preconceptions of open research](#Jesse)
-* [Rowan - Strong PhD student who has been warned away from open research](#Rowan)
-* [Asfar - Senior postdoc with negative preconceptions but looking for career points](#Asfar)
-* [Huan - Postdoc who likes the idea of open research but doesn't think they can contribute](#Huan)
-* [Siya - Principle Investigator who thinks they are doing fine without open research](#Siya)
+* [Jesse - Enthusiastic Masters student with no preconceptions of open research](#jesse)
+* [Rowan - Strong PhD student who has been warned away from open research](#rowan)
+* [Asfar - Senior postdoc with negative preconceptions but looking for career points](#asfar)
+* [Huan - Postdoc who likes the idea of open research but doesn't think they can contribute](#huan)
+* [Siya - Principle Investigator who thinks they are doing fine without open research](#siya)
 
 ## Jesse
 
