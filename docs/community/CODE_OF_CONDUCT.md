@@ -30,6 +30,8 @@ This community is designed to serve individuals affiliated with WIN, and as such
 
 We will begin events with a reminder of the Harassment Policy and expected behaviours. Anyone who experiences or witnesses a violation of the Harassment Policy is encouraged to address the incident directly where they feel safe to do so, or follow the reporting guidelines to escalate where necessary.
 
+**Advice on how this policy is implemented and where you can receive support in these matters is available from the [University Equality and Diversity Unit](https://edu.web.ox.ac.uk/harassment-advice)**
+
 ## Being a responsible bystander
 In this community we value efforts to promote a positive work environment, free from intimidation and all forms of violence. We are therefore pleased to support the University in enacting the Harassment Policy by acting as responsible bystanders, and doing what we can to promote a safe and conducive work environment. We encourage all community members to be responsible bystanders.
 
