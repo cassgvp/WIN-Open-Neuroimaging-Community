@@ -67,8 +67,8 @@ Work in progress
 #### Tasks completed
 - [x] Identify testers
 - [x] Set aims and scope for review
-- [ ] Receive feedback
-- [ ] Action feedback
+- [x] Receive feedback
+- [ ] Devise plan to action feedback
 
 #### Due date
 1st September 2020, in time for feedback to be incorporated into presentation for [Wellcome Reproducibility meeting 9th-11th
@@ -85,7 +85,7 @@ Work in progresses
 #### Tasks completed
 - [x] Submit abstract
 - [x] Prepare talk (10 minutes)
-- [ ] Collect feedback on how to present Mozilla framework and other identified gaps in the project
+- [x] Collect feedback on how to present Mozilla framework and other identified gaps in the project
 
 
 
@@ -101,7 +101,7 @@ Present the work of the WIN Open Neuroimaging Project, this repository and plans
 Work in progresses
 
 #### Tasks completed
-- [ ] Action feedback from external presentation
+- [x] Action feedback from external presentation
 - [ ] Prepare talk (20 minutes)
 - [x] [Define and document routes for interested WIN members to engage](../../contact.md)
 - [x] [Set up and communicate slack](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html#open-win-slack-)
@@ -138,7 +138,7 @@ Work in progresses
 
 #### Tasks completed
 - [ ] Complete Mozilla events exercise and review [CSCCE resources](https://www.cscce.org/resources/organizing-community-events/)
-- [x] [Draft program](../events/dock-hack-1.md)
+- [x] [Draft program](../events/doc-hack-1.md)
 - [ ] Invite speakers and check availability
 - [ ] Set date
 - [ ] Technology choices
