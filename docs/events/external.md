@@ -21,7 +21,6 @@ Visit [@OpenResearchCal](https://twitter.com/OpenResearchCal) on twitter to find
 
 
 <div class="span3">
-	<h3>List of 2013 Events</h3>
 <div id="upcoming"></div><!--/span-->
 </div>
 <div class="span9">
