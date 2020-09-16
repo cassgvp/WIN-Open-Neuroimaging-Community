@@ -15,9 +15,10 @@ Find out about our first documentation hack!
 
 We are currently planning the first (online!) community documentation hack.
 
+**Our first community hack day will be 19th October.**
+
 Before the hack day, we will host an open "Ask Me Anything" (AMA) call where people can ask questions about the event or what to expect.
 
-**The date of hack and preceding AMA call are TBC. We are aiming to hold this in the week beginning 19th October**
 
 The aim for the hack day is to:
 1. Introduce interested individuals to the community, and communicate how you may benefit from participation, what kind of activities you may be able to take part in, how you will be recognised for your contribution, and what behaviours or commitment may be expected of you.

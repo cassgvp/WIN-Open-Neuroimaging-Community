@@ -102,10 +102,10 @@ Work in progresses
 
 #### Tasks completed
 - [x] Action feedback from external presentation
-- [ ] Prepare talk (20 minutes)
+- [x] Prepare talk (30 minutes)
 - [x] [Define and document routes for interested WIN members to engage](../../contact.md)
 - [x] [Set up and communicate slack](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html#open-win-slack-)
-- [ ] Advertise approximate date for hack-day
+- [x] Advertise date for hack-day
 
 #### Due date
 16th September 2020
@@ -139,8 +139,8 @@ Work in progresses
 #### Tasks completed
 - [ ] Complete Mozilla events exercise and review [CSCCE resources](https://www.cscce.org/resources/organizing-community-events/)
 - [x] [Draft program](../events/doc-hack-1.md)
-- [ ] Invite speakers and check availability
-- [ ] Set date
+- [x] Invite speakers and check availability
+- [x] Set date
 - [ ] Technology choices
 - [ ] Presenters prepare talks and pitches for co-working
 - [ ] Identify evaluation criteria
