@@ -1,24 +1,25 @@
 ---
-title: Community Documentation Hack
+title: Community Hack Day 1
 parent: Open WIN Events
 has_children: false
 nav_order: 1
 ---
 
-# Community documentation hack #1
+# Community Hack Day #1
 {: .fs-9 }
 
-Find out about our first documentation hack!
+Find out about our first hack day and register to join!
 {: .fs-6 .fw-300 }
 
 ---
 
-We are currently planning the first (online!) community documentation hack.
+**Our first community hack day will be Monday 19th October, 09:00-17:00 BST (UTC+1).**
 
-**Our first community hack day will be 19th October.**
+The event will be hosted via [Wonder](https://www.wonder.me) at [tinyurl.com/OpenWIN-HackDay1](https://tinyurl.com/OpenWIN-HackDay1)
 
-Before the hack day, we will host an open "Ask Me Anything" (AMA) call where people can ask questions about the event or what to expect.
+**Please register for the event so we know who to expect!**
 
+## Aims
 
 The aim for the hack day is to:
 1. Introduce interested individuals to the community, and communicate how you may benefit from participation, what kind of activities you may be able to take part in, how you will be recognised for your contribution, and what behaviours or commitment may be expected of you.
@@ -26,9 +27,9 @@ The aim for the hack day is to:
 3. Provide training on GitHub/GitLab and how it will be used to update this repository.
 4. Begin crafting and contributing documentation to share our training with others.
 
+## Schedule
 
-A draft outline of the hack-day schedule is below.
-
+An outline of the hack-day schedule is below.
 
 | Time (UTC+1)| Activity | Outcome  |
 |---|---|---|
@@ -39,3 +40,16 @@ A draft outline of the hack-day schedule is below.
 | 12:00 - 13:00 | Lunch! |   |
 | 13:00 - 16:00 | Group work on training documentation, policy and strategy | Create materials and practices to share with others via the Open WIN repository |
 | 16:00 - 17:00 | Feedback on group work | Share successes, challenges, identify gaps and plan next stages  |
+
+## Register
+
+To register for the Hack Day, please visit eventbrite (link to follow) 
+
+
+## Have your questions answered
+
+Before the hack day, we will host an open "Ask Me Anything" (AMA) day where you can ask questions about the event or what to expect.
+
+The AMA will be held on **Thursday 15th October, 10:00-17:00 BST (UTC+1)**.
+
+To book a slot on the AMA, please go to [calendly.com/cassandra-gould-van-praag](calendly.com/cassandra-gould-van-praag) and select a convenient  time on **Thursday 15th October**.
