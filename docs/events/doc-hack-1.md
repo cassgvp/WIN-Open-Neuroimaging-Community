@@ -33,9 +33,9 @@ A draft outline of the hack-day schedule is below.
 | Time (UTC+1)| Activity | Outcome  |
 |---|---|---|
 | 09:00 - 09:30 | Welcome and introductions | Orient, get to know each other  |
-| 09:30 - 10:30 | Presentations from each of the Open Neuroimaging working group leads on new infrastructure, and the Community Coordinator on policy gaps and the ambassador program  | Understand the facilities available and identify which you'd like to contribute to  |
-| 10:30 - 11:00 | Break and check in with tools developers | Decide which tools you would like to contribute to today  |
-| 11:00 - 12:00 | Git for collaborative document writing | Able to contribute to this repository   |
+| 09:30 - 10:00 | Lightning presentations from each of the Open Neuroimaging working group leads on new infrastructure and how you could contribute today | Understand the facilities available and identify which tools you'd like to work on today  |
+| 10:00 - 11:00 | Meet with the infrastructure developers to choose a project(s) to hack on. Take a break when you need one! | Decide which tools you would like to contribute to today  |
+| 11:00 - 12:00 | GitHub for collaborative document writing | Able to contribute to this repository   |
 | 12:00 - 13:00 | Lunch! |   |
 | 13:00 - 16:00 | Group work on training documentation, policy and strategy | Create materials and practices to share with others via the Open WIN repository |
 | 16:00 - 17:00 | Feedback on group work | Share successes, challenges, identify gaps and plan next stages  |
