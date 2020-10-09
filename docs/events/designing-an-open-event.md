@@ -1,45 +1,68 @@
+Open WIN Community Hack Day 1
+===
+
+:::info
+- **Location:** [Wonder](http://bit.ly/OpenWIN-HackDay-1) 
+- **Date:** 19th October 2020, 09:00-17:00 BST (UTC+1)
+- **Prerequisites:** Please watch [this video](https://vimeo.com/showcase/7645853/video/465817755) so you have a general understanding of each of the tools.
+- **Agenda**
+1. Welcome [name=Clare Mackay] (09:05 - 09:10) 
+2. Ice breaker [name=Cass Gould van Praag (CGVP)] (09:10 - 09:30) 
+3. Open Tools Lightning Talks (09:30 - 10:00)
+    1. Introduction [name=CGVP] (5 min)
+    2. Open Acquisition [name=Jon Campbell] (5 min)
+    3. Open Tasks [name=Laurence Hunt] (5 min)
+    4. Open Analysis [name=??] (5 min)
+    5. Open Data [name=??] (5 min)
+4. Group discussions with project leaders (10:00-11:00)
+    - Pick a project(s) to contibute to, scope ideas.
+5. Using GitHub for collaborative documentation [name=CGVP] (11:00-12:00)
+    - Intended for anyone with no experience of GitHub or those who have not submitted a "Pull Request".
+    - Slides: https://slides.com/cassgvp/deck-12bf49
+    - We will cover the first part of the above tutorial
+    - https://cassgvp.github.io/git-for-collaborative-documentation/
+- **Participants:**
+    - Max (MX)
+    - Yukai (YK)
+    - Yuhsuan (YH)
+    - Arwen (YC)
+- **Contact:** Max <max@example.com>
+- **Host:** YK
+- **Reference:** - [Last week meeting minute](/s/template-meeting-note)
+
+:::
+
+## Walk through signup flow 
+
+- [Slide to explain the flow](/p/slide-example)
+
+:dart: Sprint Goal
 ---
-title: Designing Open Events
-parent: Open WIN Events
-has_children: false
-nav_order: 3
+- Identify tasks that can help us raise conversion rate
+
+:books: Sprint Backlog
 ---
+- Email invite feature
+- Interview users
 
-# Designing and open event
+:mag: Sprint Retro
+---
+### What we can start Doing
+- New initiatives and experiments we want to start improving
 
-This exercise is from the [mozilla open leaders resource](https://mozilla.github.io/open-leadership-training-series/articles/running-awesome-community-events/designing-an-open-event/). We will complete this exercise to guide some of the planning of our collaborative hack days.
+:closed_book: Tasks
+--
+==Importance== (1 - 5) / Name / **Estimate** (1, 2, 3, 5, 8, 13)
+### Development Team:
+- [ ] ==5== Email invite
+  - [x] ==4== Email registration page **5**
+  - [ ] ==5== Email invitees **3**
+- [ ] ==4== Setup e2e test in production **2**
 
-## Defining Purpose
+### Design Team:
+- [ ] ==4== Interview users **8**
+- [ ] ==5== Build roll-up display content **5**
+- [ ] ==5== Help user discover new features **5**
 
-> The first thing to plan for in convening others is to figure out why you’re meeting. The purpose of the gathering should help you determine its format and scope.
->
-> For example, if you need to meet with core contributors about the direction of the project, a small event might work best. However, if you want to invite your community to help develop stuff you need for your project, a larger event with a shared agenda might work best.
-
-## Selecting a Format
-
-> There are different kinds of events, and some are better for certain outcomes than others.
-
-## Questions to Consider
-
-> Once you have your purpose and format sketched out, you can use questions like these as a convening checklist.
-
-### Logistical
-
-> * What’s your goal for the event?
-> * How does your format help you meet that goal?
-> * When and where will you hold it?
-> * Who should attend and how will they learn about the event and get there?
-> * How many people do you want to attend the event, and do you, your community members, and your venue have the capacity to plan and hold an event of that size?
-
-### Interpersonal
-
-> * What’s the value proposition for attendees? How will attending help them advance the project or their own skills?
-> * How can you emphasize your event’s accessibility and inclusivity in its advertising?
-> * Whom can you recruit from your project community to help with these early stages of planning? How can you best reach them?
-
-  > Moreover, you want to draw on your project’s contribution guidelines, established norms, and volunteer pool to plan for the following ahead of your event:
-
-> * What are your guidelines for inclusivity?
-> * What are your participation guidelines and code of conduct?
-> * Who can serve as a safety officer in case of emergency?
-> * What contingency plan will your safety officer implement in case of emergency?
+## Notes 
+<!-- Other important details discussed during the meeting can be entered here. -->
