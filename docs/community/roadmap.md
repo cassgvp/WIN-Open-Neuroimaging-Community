@@ -98,7 +98,7 @@ Talk being recorded 26th August.
 Present the work of the WIN Open Neuroimaging Project, this repository and plans for community engagement at WIN Wednesday Seminar. Invite identified potential community members to attend
 
 #### Status
-Work in progresses
+Complete
 
 #### Tasks completed
 - [x] Action feedback from external presentation
@@ -113,15 +113,15 @@ Work in progresses
 ### Milestone 5: Launch, close and analyse WIN Open Research Survey 2020
 
 #### Description
-Modify and repeat 2019 survey. Involve community in designing survey questions.
+Modify and repeat 2019 survey.
 
 #### Status
-Work in progresses
+Work in progress
 
 #### Tasks completed
-- [ ] Define question set. Keep as much of original as possible, with framing for new infrastructure and measures of community engagement.
-- [ ] Liaise with WIN Core Team for dissemination
-- [ ] Plan and code for analysis
+- [x] Define question set. Keep as much of original as possible, with framing for new infrastructure and measures of community engagement.
+- [x] Liaise with WIN Core Team for dissemination
+- [x] Plan and code for analysis
 - [ ] Write report for External Advisor Board
 
 #### Due date
@@ -141,7 +141,10 @@ Work in progresses
 - [x] [Draft program](../events/doc-hack-1.md)
 - [x] Invite speakers and check availability
 - [x] Set date
-- [ ] Technology choices
+- [x] Technology choices
+- [x] Full program
+- [x] Communication to presenters and participants
+- [x] Working notes documents
 - [ ] Presenters prepare talks and pitches for co-working
 - [ ] Identify evaluation criteria
 
