@@ -55,16 +55,16 @@ Tools and practices for sharing research outputs.
 Outputs not openly accessible; Slow translation; data and pipelines which are shared are not useful.
 
 ##### Causes we support
-Openness; Sharing; human brain health; patients
+Diversity; Inclusivity; Openness; Sharing; human brain health; patients
 
 ##### Putting it all together
-Supporting open research practices to improve human brain health
+Supporting inclusive open research practices to improve human brain health
 
 #### Vision
 Openly sharing our research outputs.
 
 ### Mission and Vision
-**Mission**: Supporting the use of open research practices at WIN to improve human brain health
+**Mission**: Supporting the use of inclusive open research practices at WIN to improve human brain health
 **Vision**: Open and considered sharing of WIN research outputs
 
 ## 2. How, who (with and for whom) and when (on what timescale)?
