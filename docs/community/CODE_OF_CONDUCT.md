@@ -23,6 +23,8 @@ Cassandra Gould van Praag, as [Community Engagement Coordinator](https://cassgvp
 ## Traditionally under-represented groups
 We are particularly motivated to support new and/or anxious contributors, people who are looking to learn and develop their skills, and anyone who has experienced discrimination in the past.
 
+We invite all members of this community to actively support the participation of under-represented individuals through recognition of our own privilege and consideration of [how we can use our privilege to benefit others](https://www.ucl.ac.uk/chemical-engineering/edi/better-allies/understand-your-privilege-and-use-it-good).
+
 We work closely with the [WIN Member Networks](https://www.win.ox.ac.uk/about/edi/member-networks) to ensure that the behaviours we model and the materials we produce are aligned with best practice in establishing equality, diversity and belonging.
 
 ## Formal policy
