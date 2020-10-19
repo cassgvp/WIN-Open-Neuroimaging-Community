@@ -41,7 +41,7 @@ For an example use case see the following page (under the "Using Python" section
 >>> resource = session.classes.ResourceCatalog(parent=scan, label='NIFTI')
 # Uploading a NIFTI file
 >>> resource.upload('file_path', 'uploaded_filename')
-'''
+```
 
 Where you see a label or type input, this can be changed to something more appropriate to your data (except the NIFTI label for the resource folder). The scan id will need to be unique within the experiment, XNAT by default will count from 1 for this but it shouldn't be required so long as it is unique. The parent attribute requires a particular XNAT type depending on what is being created, but it follows the XNAT hierarchy (project > subject > experiment > scan > resource).
 

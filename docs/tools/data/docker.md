@@ -1,6 +1,6 @@
 # Docker
 
-XNAT provides a "*Container System*":https://wiki.xnat.org/container-service/introduction-32538756.html that offers (primarily) Docker image support. Initial image installation and setup is carried out by an admin, but using containers and tailoring them to individual projects is done by users (with sufficient privileges). Where containers are run depends on the specific image and use case, but can range from individual scans to project wide.
+XNAT provides a [Container System](https://wiki.xnat.org/container-service/introduction-32538756.html that offers (primarily)) Docker image support. Initial image installation and setup is carried out by an admin, but using containers and tailoring them to individual projects is done by users (with sufficient privileges). Where containers are run depends on the specific image and use case, but can range from individual scans to project wide.
 
 ---
 
@@ -27,7 +27,7 @@ You will first need to enable a container for a project (provided you have suffi
 
 ### BIDS Containers (DICOM to NIFTI + BIDS, BIDS MRIQC)
 
-For examples on how to use BIDS related containers see the *[[BIDS]]* page.
+For examples on how to use BIDS related containers see the [BIDS](bids.md) page.
 
 ### FSL Containers
 
@@ -39,7 +39,7 @@ This is an example of a project level container. When on a project home page you
 
 ### Setting up bids-mapping for the dicom2bids container
 
-Due to the XNAT documentation now being deleted, this guide is based on an XNAT discussion group "*post*":https://groups.google.com/g/xnat_discussion/c/stxargOhvO4/m/VKoggWWtBwAJ laying out the requirements. As explained in the post: "An XNAT pipeline that uses dcm2niix to generate the NIFTI and sidecar, labels them according to a user-defined mapping between series description and BIDS type (this is the BIDS map mentioned), and uploads the results to two directories at the scan level (NIFTI for the images and BIDS for the BIDS sidecar)."
+Due to the XNAT documentation now being deleted, this guide is based on an XNAT discussion group [post](https://groups.google.com/g/xnat_discussion/c/stxargOhvO4/m/VKoggWWtBwAJ) laying out the requirements. As explained in the post: "An XNAT pipeline that uses dcm2niix to generate the NIFTI and sidecar, labels them according to a user-defined mapping between series description and BIDS type (this is the BIDS map mentioned), and uploads the results to two directories at the scan level (NIFTI for the images and BIDS for the BIDS sidecar)."
 
 The post does not offer an example command for uploading a project-wide bids-mapping, but it does offer the side-wide approach:
 
