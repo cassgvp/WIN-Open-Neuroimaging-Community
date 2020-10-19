@@ -65,6 +65,7 @@ Openly sharing our research outputs.
 
 ### Mission and Vision
 **Mission**: Supporting the use of inclusive open research practices at WIN to improve human brain health
+
 **Vision**: Open and considered sharing of WIN research outputs
 
 ## 2. How, who (with and for whom) and when (on what timescale)?
