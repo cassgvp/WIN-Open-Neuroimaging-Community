@@ -62,11 +62,22 @@ Coming soon
 External users will be able to search the database for data which individual research teams have chosen to make openly available. These may be deposited to support publications as supplementary methods material, or they may form the main body of research in data papers.
 
 ## How to use
-### Access
-Coming soon
-{: .label .label-yellow }
+[WIN XNAT](https://xnat.win.ox.ac.uk) (accessible from the unversity network or VPN) is currently being built and will be used to share imaging data internally within WIN.  The prototype system is the [DPUK Oxford XNAT](https://dpuk.fmrib.ox.ac.uk).
 
-Detailed guidance on how to use the Open Data server will be produced during one of our [documentation hacks](../events/doc-hack-1.md)
+### Access
+Accounts to the DPUK Oxford XNAT are local.
+
+### Useful background
+The [XNAT](https://xnat.org) website has useful background information about the XNAT platform.
+
+### BIDS in XNAT
+For the current overview of how BIDS works in XNAT, see the [BIDS](data/bids) page.
+
+### Python libraries
+There are several python libraries](data/python) that can be used to write scripts against the XNAT API.  See [python libraries](data/python) for more info on pyxnat, xnatpy and dax.
+
+### Docker in XNAT
+To see how Docker works in XNAT, see the [Docker](data/docker) page.
 
 ## Working group members (alphabetically)
 We are grateful to the following WIN members for their contributions to developing the Open Data server.
