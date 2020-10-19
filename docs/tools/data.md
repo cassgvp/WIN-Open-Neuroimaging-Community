@@ -65,7 +65,9 @@ External users will be able to search the database for data which individual res
 [WIN XNAT](https://xnat.win.ox.ac.uk) (accessible from the unversity network or VPN) is currently being built and will be used to share imaging data internally within WIN.  The prototype system is the [DPUK Oxford XNAT](https://dpuk.fmrib.ox.ac.uk).
 
 ### Access
-Accounts to the DPUK Oxford XNAT are local.
+Accounts to the DPUK Oxford XNAT are local.  To create an account click the register account link on the front page.  An email will be sent to the admin team who will enable your account after appropriate checks.
+
+TODO: update these instructions when we move to *xnat.win*.
 
 ### Useful background
 The [XNAT](https://xnat.org) website has useful background information about the XNAT platform.
@@ -78,6 +80,12 @@ There are several python libraries](data/python.md) that can be used to write sc
 
 ### Docker in XNAT
 To see how Docker works in XNAT, see the [Docker](data/docker.md) page.
+
+### Case Studies
+
+The [OPDC project](data/opdc.md) uploaded DICOM data from jalapeno using python and dcmtk.
+
+TODO: More case studies!
 
 ## Working group members (alphabetically)
 We are grateful to the following WIN members for their contributions to developing the Open Data server.
