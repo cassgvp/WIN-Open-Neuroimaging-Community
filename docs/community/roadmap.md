@@ -134,7 +134,7 @@ Launch 1st October 2020; Close 30th October 2020 (TBC); Analyse and report 7th N
 Hold first [co-working documentation hack day](../events/doc-hack-1.md). Involve soft launch researchers and other interested parties in designing programming and evaluation.
 
 #### Status
-Work in progresses
+Work in progress
 
 #### Tasks completed
 - [ ] Complete Mozilla events exercise and review [CSCCE resources](https://www.cscce.org/resources/organizing-community-events/)
@@ -158,7 +158,7 @@ Work in progresses
 Visit of WIN External Advisor Board (EAB) to review progress of entire WIN. Involve community in reviewing/contributing to reports on infrastructure and community activities.
 
 #### Status
-Work in progresses
+Work in progress
 
 #### Tasks completed
 - [ ] Collate data against for inclusion against project goals
@@ -177,7 +177,7 @@ Work in progresses
 How we will ensure there is continued growth and engagement within the community
 
 #### Status
-Work in progresses
+Work in progress
 
 #### Tasks completed
 - [ ] Identify potential leaders
@@ -197,7 +197,7 @@ Work in progresses
 ### Milestone 9: Incorporation of open practices and infrastructure use into WIN Graduate program
 
 #### Status
-Work in progresses
+Work in progress
 
 #### Tasks completed
 - [ ] TBC
@@ -209,7 +209,7 @@ TBC
 ### Milestone 10: Communication of open research outputs and access to resources for external researchers
 
 #### Status
-Work in progresses
+Work in progress
 
 #### Tasks completed
 - [ ] TBC
