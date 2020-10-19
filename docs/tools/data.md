@@ -71,13 +71,13 @@ Accounts to the DPUK Oxford XNAT are local.
 The [XNAT](https://xnat.org) website has useful background information about the XNAT platform.
 
 ### BIDS in XNAT
-For the current overview of how BIDS works in XNAT, see the [BIDS](data/bids) page.
+For the current overview of how BIDS works in XNAT, see the [BIDS](data/bids.md) page.
 
 ### Python libraries
-There are several python libraries](data/python) that can be used to write scripts against the XNAT API.  See [python libraries](data/python) for more info on pyxnat, xnatpy and dax.
+There are several python libraries](data/python.md) that can be used to write scripts against the XNAT API.  See [python libraries](data/python.md) for more info on pyxnat, xnatpy and dax.
 
 ### Docker in XNAT
-To see how Docker works in XNAT, see the [Docker](data/docker) page.
+To see how Docker works in XNAT, see the [Docker](data/docker.md) page.
 
 ## Working group members (alphabetically)
 We are grateful to the following WIN members for their contributions to developing the Open Data server.
