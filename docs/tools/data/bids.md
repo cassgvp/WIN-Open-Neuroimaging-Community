@@ -58,7 +58,7 @@ There are a few setup steps required in order to be able to run the container (t
 
 ---
 
-h3. Running a BIDS-App
+### Running a BIDS-App
 
 This requires NIFTI and BIDS resource folders and files to run, as generated from the dcm2bids-session container (see above).
 
@@ -87,5 +87,7 @@ In order to download a valid BIDS dataset a third-party solution is required as 
 
 1. You will then be able to download a dataset and convert it into BIDS via a DAX Command Line Tool - [XnatDownload](https://dax.readthedocs.io/en/latest/dax_command_line_tools.html#xnatdownload). See below for DAX's example command to do so:
 
-''*Transform the XnatDownload data in BIDS format for all sessions, scantype and resources:
-Xnatdownload -p PID --sess all -d /tmp/downloadPID -s all --rs all --bids --bids_dir /tmp/BIDS_dataset``
+```
+# Transform the XnatDownload data in BIDS format for all sessions, scantype and resources:
+Xnatdownload -p PID --sess all -d /tmp/downloadPID -s all --rs all --bids --bids_dir /tmp/BIDS_dataset
+```
