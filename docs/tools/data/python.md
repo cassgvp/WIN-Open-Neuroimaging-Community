@@ -49,7 +49,7 @@ Where you see a label or type input, this can be changed to something more appro
 
 ### PyXNAT:
 
-'''
+```python
 from pyxnat import Interface
 
 url = ""
@@ -66,7 +66,7 @@ subject.create()
 
 ### XNATPy:
 
-'''python
+```python
 import xnat
 
 url = ""
