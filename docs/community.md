@@ -7,7 +7,7 @@ nav_order: 3
 # Open WIN Community
 {: .fs-9 }
 
-Find out about the Open WIN Community, what were doing, and how you can be a part of this effort.
+Find out about the Open WIN Community, what we're doing, and how you can be a part of this effort.
 {: .fs-6 .fw-300 }
 
 ![people](img/img-people.png)
@@ -18,7 +18,7 @@ Find out about the Open WIN Community, what were doing, and how you can be a par
 
 We are a community built from around 250 members of the University of Oxford [Wellcome Centre for Integrative Neuroimaging (WIN)](https://www.win.ox.ac.uk). Our community exists to support open and inclusive researchers, to develop the tools, policies, governance and structures we would like in place to support us in practicing open science.
 
-We area committed to supporting transparent and reproducible research practices within WIN, to improve the efficiency and accuracy of our research, and contribute to an equitable, diverse and inclusive research environment.
+We are committed to supporting transparent and reproducible research practices within WIN, to improve the efficiency and accuracy of our research, and contribute to an equitable, diverse and inclusive research environment.
 
 **See the sections below or navigate using the sidebar to find out more about the Open WIN Community.**
 
