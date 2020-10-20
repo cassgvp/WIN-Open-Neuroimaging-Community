@@ -72,3 +72,4 @@ We are grateful to the following WIN members for their contributions to developi
 - [Laurence Hunt](https://www.win.ox.ac.uk/people/laurence-hunt)
 - [Paula Kaanders](https://uk.linkedin.com/in/paulakaanders)
 - [Verena Sarrazin](https://www.psych.ox.ac.uk/team/verena-sarrazin)
+- [Suyi Zhang](http://www.seymourlab.com/people/suyi-zhang.html)
