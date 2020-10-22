@@ -1,4 +1,19 @@
+---
+title: Docker
+parent: Open Data
+grand_parent: Open WIN Tools
+has_children: false
+nav_order: 2
+---
+
+
 # Docker
+{: .fs-9 }
+
+How to use Docker containers in XNAT
+{: .fs-6 .fw-300 }
+
+---
 
 XNAT provides a [Container System](https://wiki.xnat.org/container-service/introduction-32538756.html that offers (primarily)) Docker image support. Initial image installation and setup is carried out by an admin, but using containers and tailoring them to individual projects is done by users (with sufficient privileges). Where containers are run depends on the specific image and use case, but can range from individual scans to project wide.
 

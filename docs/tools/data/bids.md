@@ -1,4 +1,19 @@
+---
+title: BIDS in XNAT
+parent: Open Data
+grand_parent: Open WIN Tools
+has_children: false
+nav_order: 1
+---
+
+
 # BIDS in XNAT
+{: .fs-9 }
+
+How XNAT integrates with the discipline standard Brain Imaging Data Structure (BIDS)
+{: .fs-6 .fw-300 }
+
+---
 
 This page attempts to explain the current landscape of the [Brain Imaging Data Structure](https://bids.neuroimaging.io) (BIDS) in [XNAT](https://www.xnat.org/). There have been multiple BIDS related topics in the [XNAT Discussion Group](https://groups.google.com/forum/#!forum/xnat_discussion), but most show users have created their own bespoke process and tools as they are often specific to the dataset(s) in question.
 

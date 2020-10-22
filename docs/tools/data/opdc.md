@@ -1,4 +1,19 @@
-# Case study: opdc
+---
+title: Data sharing case study
+parent: Open Data
+grand_parent: Open WIN Tools
+has_children: false
+nav_order: 3
+---
+
+
+# Data sharing case study: OPDC
+{: .fs-9 }
+
+How to use Docker containers in XNAT
+{: .fs-6 .fw-300 }
+
+---
 
 The [OPDC](https://www.opdc.ox.ac.uk/home) project used the DPUK XNAT Node so that it could share imaging date the [DPUK data portal](https://info.dpuk.org).
 

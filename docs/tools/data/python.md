@@ -1,4 +1,20 @@
+---
+title: Python libraries
+parent: Open Data
+grand_parent: Open WIN Tools
+has_children: false
+nav_order: 4
+---
+
+
 # Python libraries
+{: .fs-9 }
+
+Python libraries for working with XNAT
+{: .fs-6 .fw-300 }
+
+---
+
 
 There are several python libraries that can be used to interrogate the XNAT API.  This page has notes on the libraries that have been used in WIN.
 
