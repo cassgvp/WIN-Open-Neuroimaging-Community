@@ -52,8 +52,9 @@ We are working to address areas where our accessibility needs improvement. Pleas
 If you need information on this website in a different format, please contact WIN’s administrative team:
 
 Email: [admin@win.ox.ac.uk](mailto:admin@win.ox.ac.uk)
+
 Post:
-    WIN Administration Team,  
+    WIN Administration Team,   
     Wellcome Centre for Integrative Neuroimaging,  
     FMRIB Building, John Radcliffe Hospital,  
     Headington,  
@@ -65,12 +66,12 @@ We will consider your request and get back to you within 14 days.
 ## Reporting accessibility problems with this website
 We’re always looking to improve the accessibility of this website. If you find any problems not listed on this page or think we’re not meeting accessibility requirements, contact:
 
-WIN Administration Team,
-Wellcome Centre for Integrative Neuroimaging,
-FMRIB Building, John Radcliffe Hospital,
-Headington,
-Oxford,
-OX3 9DU.
+WIN Administration Team,  
+Wellcome Centre for Integrative Neuroimaging,  
+FMRIB Building, John Radcliffe Hospital,  
+Headington,  
+Oxford,  
+OX3 9DU.  
 [admin@win.ox.ac.uk](mailto:admin@win.ox.ac.uk)
 
 ## Other accessibility resources
