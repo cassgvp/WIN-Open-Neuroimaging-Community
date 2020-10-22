@@ -53,7 +53,8 @@ If you need information on this website in a different format, please contact WI
 
 Email: [admin@win.ox.ac.uk](mailto:admin@win.ox.ac.uk)
 
-Post:
+Postal address:
+  
     WIN Administration Team,   
     Wellcome Centre for Integrative Neuroimaging,  
     FMRIB Building, John Radcliffe Hospital,  
@@ -157,7 +158,7 @@ We want to provide the best possible experience for all our website visitors. To
 - Carry out periodic accessibility checks involving WIN’s accessibility forum, WIN Access
 
 ## Preparation of this accessibility statement
-This statement was prepared on 22nd October 2020. It was last reviewed on 22nd November 2020.
+This statement was prepared on 22nd October 2020. It will be reviewed again in February 2021.
 
 This website was last tested in October 2020. The test was carried out by the Wellcome Centre for Integrative Neuroimaging’s Administration Team using all pages. The CMS has been audited for accessibility by the suppliers (GitHub) and the Wellcome Centre for Integrative Neuroimaging Administration Team. A full copy of the audit results is available by request from the [Open Science Community Coordinator](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/community/community-who.html#community-coordinator---cassandra-gould-van-praag-sheher)
 
