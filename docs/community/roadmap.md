@@ -68,7 +68,7 @@ Work in progress
 - [x] Identify testers
 - [x] Set aims and scope for review
 - [x] Receive feedback
-- [ ] Devise plan to action feedback
+- [x] Devise plan to action feedback
 
 #### Due date
 1st September 2020, in time for feedback to be incorporated into presentation for [Wellcome Reproducibility meeting 9th-11th
@@ -122,7 +122,7 @@ Work in progress
 - [x] Define question set. Keep as much of original as possible, with framing for new infrastructure and measures of community engagement.
 - [x] Liaise with WIN Core Team for dissemination
 - [x] Plan and code for analysis
-- [ ] Write report for External Advisor Board
+- [x] Write report for External Advisor Board
 
 #### Due date
 Launch 1st October 2020; Close 30th October 2020 (TBC); Analyse and report 7th November
@@ -137,7 +137,7 @@ Hold first [co-working documentation hack day](../events/doc-hack-1.md). Involve
 Work in progress
 
 #### Tasks completed
-- [ ] Complete Mozilla events exercise and review [CSCCE resources](https://www.cscce.org/resources/organizing-community-events/)
+- [x] Complete Mozilla events exercise and review [CSCCE resources](https://www.cscce.org/resources/organizing-community-events/)
 - [x] [Draft program](../events/doc-hack-1.md)
 - [x] Invite speakers and check availability
 - [x] Set date
@@ -145,8 +145,8 @@ Work in progress
 - [x] Full program
 - [x] Communication to presenters and participants
 - [x] Working notes documents
-- [ ] Presenters prepare talks and pitches for co-working
-- [ ] Identify evaluation criteria
+- [x] Presenters prepare talks and pitches for co-working
+- [X] Identify evaluation criteria
 
 #### Due date
 3rd week of October 2020
@@ -161,9 +161,9 @@ Visit of WIN External Advisor Board (EAB) to review progress of entire WIN. Invo
 Work in progress
 
 #### Tasks completed
-- [ ] Collate data against for inclusion against project goals
-- [ ] Draft report
-- [ ] Finalise report
+- [x] Collate data against for inclusion against project goals
+- [x] Draft report
+- [x] Finalise report
 
 #### Due date
 4th November 2020
