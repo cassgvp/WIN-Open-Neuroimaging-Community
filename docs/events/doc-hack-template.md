@@ -6,7 +6,7 @@ nav_order: 1
 nav_exclude: true
 ---
 
-# Community Hack Day #1
+# Community Hack Day **template**
 {: .fs-9 }
 
 Find out about our first hack day and register to join!
@@ -14,7 +14,7 @@ Find out about our first hack day and register to join!
 
 ---
 
-**Our first community hack day will be Monday 19th October, 09:00-17:00 BST (UTC+1).**
+**Our first community hack day will be DATE + TIME UTC.**
 
 The event will be hosted via [Wonder](https://www.wonder.me) at [tinyurl.com/OpenWIN-HackDay1](https://tinyurl.com/OpenWIN-HackDay1)
 
