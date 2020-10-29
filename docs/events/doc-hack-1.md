@@ -31,7 +31,7 @@ The day was structured around “lightning pitches” from the infrastructure de
 
 ## What did we achieve?
 
-It was wonderful to see the conversations happening in Wonder for each of the tools working groups. Below is a summary of the activities, achievements and outcomes from the day.
+It was wonderful to see the conversations happening in Wonder for each of the tools working groups. Below is a summary of the activities, achievements and outcomes from the day from each group.
 
 ### Open acquisition
 - Gave detailed demonstrations to WIN members and gathered user feedback about what features were felt to be particularly useful and what adaptations might be necessary.
@@ -70,16 +70,16 @@ It was wonderful to see the conversations happening in Wonder for each of the to
 - Closed [issue #5](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/issues/5) (feedback actions on participation guide) and [issue #19](https://github.com/cassgvp/WIN-Open-Neuroimaging-Community/issues/19) (add direct link to “edit this page on GitHub”).
 - Some good conversations about ongoing work as contributors to the community, and hackday-2!
 
-## How do you think it went!
+## How do you think it went?
 We collated feedback at the end of the session about how the day was run and what we could do to improve the experience.
 
 Key themes were around a positive experience with the [Wonder platform](https://vimeo.com/showcase/7645853/video/472801976), a friendly introduction to GiHub contributions, and being able to work directly with the tools developers.
 
-Things we will look to adjust next time might include using slack for chat rather than the inbuilt Wonder tool, and adding a bit more structure or a pre-meeting to the hack projects.
+Things we might look to adjust next time will include using slack for chat rather than the inbuilt Wonder chat function, and adding a bit more structure or a pre-meeting to the hack projects.
 
 It was really nice to see that the whole day was "far easier and less code-heavy than expected!" - hackathons aren't reserved for programmers! - and that the day brought opportunities for the "really missed informal/unstructured chats +3!" ❤️
 
 Massive thank you to everyone who came and contributed!
 
-#### A quote from one of the attendees
-> The day was really thoughtfully set up, and more engaging than any other remote event I've attended. I felt very welcomed, and like everyone was supported to get on a level playing field. Having a simple session on using GitHub, guiding me through the basic features and steps to contribute to documentation, was a quick way to suddenly knock down a tonne of barriers - previously, whenever I clicked a link for a cool project or resource and it opened on a GitHub page, I'd feel lost on where to start and quietly close the tab… Feeling confident with those basic skills now makes me feel much more part of the open science community! The day also challenged me to think about how I could use the skills and experience I brought with me to contribute to WIN open science projects, which was initially daunting, but meant that I left feeling like I had made a genuine contribution to a worthwhile resource (helping expand the applicability of guidance on setting up online tasks and studies). Working on these projects in small groups also gave me the opportunity to meet other people from WIN and make some connections. I was already sold on open science, but I now feel skilled up, much more able to contribute and like I'm part of that bigger community - excited to see how things progress!
+### A quote from one of the attendees
+> "The day was really thoughtfully set up, and more engaging than any other remote event I've attended. I felt very welcomed, and like everyone was supported to get on a level playing field. Having a simple session on using GitHub, guiding me through the basic features and steps to contribute to documentation, was a quick way to suddenly knock down a tonne of barriers - previously, whenever I clicked a link for a cool project or resource and it opened on a GitHub page, I'd feel lost on where to start and quietly close the tab… Feeling confident with those basic skills now makes me feel much more part of the open science community! The day also challenged me to think about how I could use the skills and experience I brought with me to contribute to WIN open science projects, which was initially daunting, but meant that I left feeling like I had made a genuine contribution to a worthwhile resource (helping expand the applicability of guidance on setting up online tasks and studies). Working on these projects in small groups also gave me the opportunity to meet other people from WIN and make some connections. I was already sold on open science, but I now feel skilled up, much more able to contribute and like I'm part of that bigger community - excited to see how things progress!"
