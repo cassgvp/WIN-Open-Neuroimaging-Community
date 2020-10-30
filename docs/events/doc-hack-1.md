@@ -8,7 +8,7 @@ nav_order: 1
 # Community Hack Day #1
 {: .fs-9 }
 
-Find out about what happened on our first hack day!
+Find out what happened on our first hack day!
 {: .fs-6 .fw-300 }
 
 ---
