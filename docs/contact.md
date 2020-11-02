@@ -1,5 +1,5 @@
 ---
-title: Join the Community
+title: Join us on Slack or by Email
 parent: Home
 has_children: false
 nav_order: 6
