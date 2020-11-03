@@ -92,7 +92,7 @@ You might be interested in:
 
 And of course, you'll want to know our:
 
-* [Contributors' guidelines](CONTRIBUTING.md)
+* [Contributors' guidelines](/docs/CONTRIBUTING.md)
 
 
 
