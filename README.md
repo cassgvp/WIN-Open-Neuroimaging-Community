@@ -92,7 +92,7 @@ You might be interested in:
 
 And of course, you'll want to know our:
 
-* [Contributors' guidelines](/docs/CONTRIBUTING.md)
+* [Contributors' guidelines](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/CONTRIBUTING.html)
 
 
 
