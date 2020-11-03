@@ -71,7 +71,7 @@ Your name and image here!
 
 ## What do we need?
 
-**You**! We need people to join the community! If you would like to learn more about open research, become an [Ambassador](ambassadors/OpenAmbassadors.md) or join one of our hacks, please join the WIN Open Neuroimaging Project [mailing list](https://mail.fmrib.ox.ac.uk/mailman/listinfo/win-open-imaging), and stay tuned for further announcements. We will be putting out a call in the near future, with an official invitation to the community, more information about what will be involved and what is in it for you!
+**You**! We need people to join the community! If you would like to learn more about open research, become an [Ambassador](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/ambassadors.html) or join one of our hacks, please join the WIN Open Neuroimaging Project [mailing list](https://mail.fmrib.ox.ac.uk/mailman/listinfo/win-open-imaging), and stay tuned for further announcements. We will be putting out a call in the near future, with an official invitation to the community, more information about what will be involved and what is in it for you!
 
 Please note that it's very important to us that we maintain a positive and supportive environment for everyone who wants to participate. When you join us we ask that you follow our [code of conduct](/docs/CODE_OF_CONDUCT.md) in all interactions both on and offline.
 
