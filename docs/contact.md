@@ -34,7 +34,7 @@ The above [slack invite link](https://join.slack.com/t/openwin/signup) will acce
 
 ## Open WIN Mailing List ![mail-list](img/icon-maillist.png)
 
-Anyone interested in the Open WIN Community or these resources can join the [WIN Open Neuroimaging mailing list](https://mail.fmrib.ox.ac.uk/mailman/listinfo/win-open-imaging). The list is open to both WIN members and external email addresses. This mailing list is used for open distribution of information. We will also email round-ups of the discussion happening on the [Slack](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html#open-win-slack-)
+Anyone interested in the Open WIN Community or these resources can join the [WIN Open Neuroimaging mailing list](https://mail.fmrib.ox.ac.uk/mailman/listinfo/win-open-imaging). *The list is open only to University of Oxford staff and students (requires an SSO login)*. This mailing list is used for open distribution of information. We will also email round-ups of the discussion happening on the [Slack](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/contact.html#open-win-slack-)
 
 ## Email the Open WIN Community Coordinator Directly ![mailto](img/icon-at.png)
 
