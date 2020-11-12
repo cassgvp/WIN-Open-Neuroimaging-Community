@@ -12,7 +12,7 @@ Find out about the Wellcome open access publishing policy which applies to all W
 
 ---
 
-Coming soon
+More information coming soon
 {: .label .label-yellow }
 
 
@@ -29,4 +29,4 @@ The manuscript MUST be uploaded to PubMed as soon as it is published to comply w
 
 If publishing in a subscription-only journal (no open access fee) please [email the Bodleian Library Team](mailto:openaccess@bodleian.ox.ac.uk) or  [Kaitlin Krebs](mailto:kaitlin.krebs@ndcn.ox.ac.uk) BEFORE submission for help.
 
-The University has created an [advice sheet](http://oa-prd.bodleian.ox.ac.uk/openaccess/wp-content/uploads/sites/2/2020/07/Preparing-for-new-Wellcome-Open-Access-policy-July-2020.pdf) to prepare researchers for the new Wellcome Trust policy. If you would like to dicuss how this policy affects your publication plans contact Kaitlin Krebs](mailto:kaitlin.krebs@ndcn.ox.ac.uk).
+The University has created an [advice sheet](http://oa-prd.bodleian.ox.ac.uk/openaccess/wp-content/uploads/sites/2/2020/07/Preparing-for-new-Wellcome-Open-Access-policy-July-2020.pdf) to prepare researchers for the new Wellcome Trust policy. If you would like to dicuss how this policy affects your publication plans contact [Kaitlin Krebs](mailto:kaitlin.krebs@ndcn.ox.ac.uk).
