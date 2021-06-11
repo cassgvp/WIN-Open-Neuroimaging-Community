@@ -2,7 +2,7 @@
 title: Goals of the program
 parent: Open WIN Ambassadors
 has_children: false
-nav_order: 2
+nav_order: 1
 ---
 
 # What are the goals of the Ambassador program?
