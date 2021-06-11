@@ -28,7 +28,7 @@ In this pilot program, we will look to engage up to ten Ambassadors. Ultimately 
 
 # How will the Ambassadors work together?
 
-While working on creating documentation, we would like to have teams of two people working on each of the four focus areas of the infrastructure tools and a team working explicitly on community and policies. In all these efforts, all Ambassadors will be invited to contribute to the material and efforts of other teams, if they so wish.
+We envisage teams of two people working on each of the four focus areas of the infrastructure tools, and a team of two working explicitly on community, culture and policy. All Ambassadors will be invited to contribute to the material and efforts of other teams, if they so wish.
 
 # How long will Ambassadors be in-post for?
 
