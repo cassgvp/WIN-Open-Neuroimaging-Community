@@ -2,7 +2,7 @@
 title: Logistics
 parent: Open WIN Ambassadors
 has_children: false
-nav_order: 1
+nav_order: 2
 ---
 
 # Logistics
@@ -32,7 +32,7 @@ While working on creating documentation, we would like to have teams of two peop
 
 # How long will Ambassadors be in-post for?
 
-The pilot program will run from September 2020 to September 2021. All recruited Ambassadors will be expected to remain engaged with the program for this period, and should have confirmed posts as WIN members during this whole period.
+The pilot program will run from September 2021 to August 2022. All recruited Ambassadors will be expected to remain engaged with the program for this period, and should have confirmed posts as WIN members during this whole period.
 
 # Who can be an ambassador?
 
