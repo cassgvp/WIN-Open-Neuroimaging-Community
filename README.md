@@ -2,9 +2,7 @@
 
 Thank you for visiting the WIN Open Neuroimaging Community project repository.
 
-**This is the GitHub README**
-
-This project is now hosted at https://open.win.ox.ac.uk/pages/open-science/Open-WIN-Community
+**This project is now hosted at https://open.win.ox.ac.uk/pages/open-science/Open-WIN-Community**
 
 This repository has been retained to redirect guests to the new home on the Open WIN group above.
 
