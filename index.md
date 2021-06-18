@@ -18,7 +18,16 @@ Find out how to share your research outputs effectively and responsibly, for imp
 
 ---
 
-This repository is the hub for information on how to employ open research practices at the [Wellcome Centre for Integrative Neuroimaging (WIN)](https://www.win.ox.ac.uk).
+Thank you for visiting the WIN Open Neuroimaging Community project repository.
+
+This project is now hosted at https://open.win.ox.ac.uk/pages/open-science/Open-WIN-Community
+
+This repository has been retained to redirect guests to the new home on the Open WIN group above.
+
+Thank you!
+
+
+<!-- This repository is the hub for information on how to employ open research practices at the [Wellcome Centre for Integrative Neuroimaging (WIN)](https://www.win.ox.ac.uk).
 
 The material shared here is written and maintained by an active community of WIN researchers, and is intended to support all WIN members in using the sharing infrastructure created by the [WIN Open Neuroimaging Project](https://www.win.ox.ac.uk/open-neuroimaging).
 
@@ -27,7 +36,7 @@ The material shared here is written and maintained by an active community of WIN
 [![tools](docs/img/btn-tools.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/tools.html)  [![community](docs/img/btn-community.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/community.html)  [![ambassadors](docs/img/btn-ambass.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/ambassadors.html)  [![events](docs/img/btn-events.png)](https://cassgvp.github.io/WIN-Open-Neuroimaging-Community/docs/events.html)
 
 
-
+ -->
 
 <!-- [Open WIN Community](docs/community.md){: .btn .btn-primary .fs-6 .mb-4 .mb-md-0 .mr-2 }  
 Find out about the Open WIN Community and how you can contribute
